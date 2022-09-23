@@ -1,0 +1,3292 @@
+KODZASTUP,N_OKRSEK,KRAJ,MANDATY,NAZEVZAST,OKRES,POCOBYV,N_STRANA,type
+500062,1,7200,15,Krhová,7203,2024,4,1okrsek_moreparties
+500071,1,7200,15,Poličná,7203,1745,4,1okrsek_moreparties
+500101,1,4100,7,Bražec,4102,221,5,1okrsek_moreparties
+500151,1,7100,7,Luboměř pod Strážnou,7104,122,2,1okrsek_moreparties
+500194,1,3100,7,Polná na Šumavě,3102,202,3,1okrsek_moreparties
+500259,1,8100,13,Veřovice,8104,1961,3,1okrsek_moreparties
+500526,1,7100,15,Bělkovice-Lašťany,7102,2275,2,1okrsek_moreparties
+500801,1,7100,7,Blatec,7102,653,3,1okrsek_moreparties
+500852,1,7100,15,Bohuňovice,7102,2512,2,1okrsek_moreparties
+500879,1,7100,7,Bystročice,7102,830,2,1okrsek_moreparties
+501794,1,7100,15,Dub nad Moravou,7102,1604,2,1okrsek_moreparties
+501841,1,7100,9,Grygov,7102,1546,4,1okrsek_moreparties
+502235,1,7100,9,Hněvotín,7102,1832,5,1okrsek_moreparties
+502405,1,7100,9,Hnojice,7102,632,5,1okrsek_moreparties
+502839,1,7100,11,Cholina,7102,718,2,1okrsek_moreparties
+503142,1,7100,7,Jívová,7102,616,3,1okrsek_moreparties
+503304,1,7100,9,Kožušany-Tážaly,7102,875,4,1okrsek_moreparties
+503410,1,2100,5,Žitovlice,2108,185,2,1okrsek_moreparties
+503738,1,7100,9,Majetín,7102,1197,2,1okrsek_moreparties
+503916,1,3200,9,Kostelec,3207,592,2,1okrsek_moreparties
+504785,1,7100,15,Paseka,7102,1278,3,1okrsek_moreparties
+504807,1,5300,7,Lány,5301,283,9,1okrsek_moreparties
+504921,1,5300,5,Třibřichy,5301,292,7,1okrsek_moreparties
+505030,1,5300,7,Dolní Bezděkov,5301,226,2,1okrsek_moreparties
+505099,1,5200,7,Červená Hora,5203,199,13,1okrsek_moreparties
+505145,1,5300,15,Březová nad Svitavou,5303,1636,4,1okrsek_moreparties
+505501,1,7100,11,Újezd,7102,1443,2,1okrsek_moreparties
+505528,1,4200,7,Jenčice,4203,327,3,1okrsek_moreparties
+505668,1,7100,15,Velký Újezd,7102,1348,2,1okrsek_moreparties
+505862,1,7100,7,Žerotín,7102,447,3,1okrsek_moreparties
+506192,1,8100,15,Bohuslavice,8105,1754,3,1okrsek_moreparties
+506486,1,4100,7,Boží Dar,4102,227,3,1okrsek_moreparties
+506494,1,4100,9,Nové Hamry,4102,341,2,1okrsek_moreparties
+506621,1,4100,7,Čichalov,4102,167,2,1okrsek_moreparties
+506699,1,6200,7,Otmarov,6203,382,8,1okrsek_moreparties
+506711,1,8100,7,Dolní Lhota,8106,1502,4,1okrsek_moreparties
+506729,1,6100,7,Dvorce,6102,199,11,1okrsek_moreparties
+506737,1,7200,15,Chvalčov,7201,1593,4,1okrsek_moreparties
+506761,1,7100,5,Alojzov,7103,257,2,1okrsek_moreparties
+506770,1,7100,7,Seloutky,7103,536,2,1okrsek_moreparties
+507181,1,8100,9,Pržno,8102,1078,2,1okrsek_moreparties
+507237,1,8100,11,Komorní Lhotka,8102,1462,4,1okrsek_moreparties
+507334,1,8100,15,Chuchelná,8105,1246,4,1okrsek_moreparties
+507458,1,8100,9,Košařiska,8102,357,2,1okrsek_moreparties
+507547,1,8100,13,Milíkov,8102,1350,3,1okrsek_moreparties
+507628,1,3100,9,Pleše,3103,182,16,1okrsek_moreparties
+507644,1,3100,5,Újezdec,3103,70,7,1okrsek_moreparties
+507717,1,3100,9,Peč,3103,492,3,1okrsek_moreparties
+507784,1,3100,7,Ratiboř,3103,179,10,1okrsek_moreparties
+507920,1,8100,15,Litultovice,8105,934,2,1okrsek_moreparties
+508144,1,8100,9,Melč,8105,627,10,1okrsek_moreparties
+508152,1,3100,9,Střížovice,3103,568,4,1okrsek_moreparties
+508373,1,8100,9,Mokré Lazce,8105,1144,7,1okrsek_moreparties
+508501,1,3100,9,Lužnice,3103,424,2,1okrsek_moreparties
+509078,1,3100,9,Plavsko,3103,456,15,1okrsek_moreparties
+509116,1,3100,9,Červený Hrádek,3103,196,11,1okrsek_moreparties
+509388,1,6100,7,Arneštovice,6103,85,9,1okrsek_moreparties
+509574,1,8100,9,Oldřišov,8105,1450,3,1okrsek_moreparties
+509612,1,8100,15,Otice,8105,1433,2,1okrsek_moreparties
+509736,1,8100,15,Pustá Polom,8105,1363,4,1okrsek_moreparties
+509752,1,3100,7,Křižanov,3104,95,10,1okrsek_moreparties
+509841,1,8100,9,Raduň,8105,1192,4,1okrsek_moreparties
+510068,1,3100,7,Čečelovice,3106,187,10,1okrsek_moreparties
+510289,1,8100,15,Slavkov,8105,2085,2,1okrsek_moreparties
+510378,1,8100,9,Sudice,8105,625,3,1okrsek_moreparties
+510432,1,8100,15,Šilheřovice,8105,1582,4,1okrsek_moreparties
+510491,1,8100,9,Štítina,8105,1275,4,1okrsek_moreparties
+510556,1,6100,7,Láz,6104,292,4,1okrsek_moreparties
+510645,1,6100,7,Kojatín,6104,93,10,1okrsek_moreparties
+510882,1,8100,15,Velká Polom,8106,2084,3,1okrsek_moreparties
+510939,1,8100,9,Velké Hoštice,8105,1825,6,1okrsek_moreparties
+510980,1,6100,7,Ocmanice,6104,326,2,1okrsek_moreparties
+511081,1,6100,9,Sedlec,6104,242,11,1okrsek_moreparties
+511161,1,8100,7,Vršovice,8105,520,2,1okrsek_moreparties
+511242,1,6100,7,Vícenice u Náměště nad Oslavou,6104,411,8,1okrsek_moreparties
+511307,1,6100,7,Rácovice,6104,114,12,1okrsek_moreparties
+511412,1,6100,7,Oslavička,6105,132,11,1okrsek_moreparties
+511633,1,8100,7,Bocanovice,8102,488,2,1okrsek_moreparties
+511935,1,8100,11,Bukovec,8102,1367,5,1okrsek_moreparties
+511951,1,8100,7,Dolní Lomná,8102,927,3,1okrsek_moreparties
+511986,1,8100,7,Horní Lomná,8102,356,3,1okrsek_moreparties
+512028,1,8100,9,Písek,8102,1877,3,1okrsek_moreparties
+512176,1,8100,15,Hrádek,8102,1912,3,1okrsek_moreparties
+512184,1,8100,11,Metylovice,8102,1764,3,1okrsek_moreparties
+512192,1,8100,13,Horní Domaslavice,8102,999,4,1okrsek_moreparties
+512281,1,7100,9,Beňov,7104,673,3,1okrsek_moreparties
+512532,1,7100,11,Bochoř,7104,964,5,1okrsek_moreparties
+512745,1,8100,9,Těškovice,8105,822,2,1okrsek_moreparties
+512869,1,8100,15,Strahovice,8105,883,2,1okrsek_moreparties
+512907,1,8100,9,Kyjovice,8105,841,2,1okrsek_moreparties
+512923,1,8100,9,Chlebičov,8105,1181,5,1okrsek_moreparties
+512982,1,7100,9,Citov,7104,527,2,1okrsek_moreparties
+512991,1,2100,7,Drnek,2103,181,2,1okrsek_moreparties
+513032,1,2100,7,Kamenný Most,2103,415,3,1okrsek_moreparties
+513041,1,2100,9,Lhota,2103,675,3,1okrsek_moreparties
+513075,1,2100,8,Hobšovice,2103,349,2,1okrsek_moreparties
+513105,1,7100,7,Dobrčice,7104,223,3,1okrsek_moreparties
+513130,1,2100,7,Dolany,2103,274,2,1okrsek_moreparties
+513202,1,2100,5,Zalešany,2104,120,7,1okrsek_moreparties
+513211,1,7100,7,Domaželice,7104,535,2,1okrsek_moreparties
+513229,1,7100,15,Dřevohostice,7104,1479,3,1okrsek_moreparties
+513270,1,2100,7,Lipec,2104,186,11,1okrsek_moreparties
+513369,1,2100,7,Přehvozdí,2104,314,2,1okrsek_moreparties
+513393,1,2100,7,Přistoupim,2104,444,3,1okrsek_moreparties
+513415,1,2100,7,Kbel,2104,221,2,1okrsek_moreparties
+513423,1,2100,7,Pašinka,2104,351,3,1okrsek_moreparties
+513458,1,2100,15,Vestec,2110,2729,2,1okrsek_moreparties
+513504,1,2100,7,Dlouhá Lhota,2111,441,11,1okrsek_moreparties
+513512,1,2100,7,Zduchovice,2111,313,11,1okrsek_moreparties
+513539,1,2100,7,Velká Lečice,2111,185,3,1okrsek_moreparties
+513547,1,2100,7,Příčovy,2111,338,8,1okrsek_moreparties
+513555,1,2100,7,Kotenčice,2111,199,2,1okrsek_moreparties
+513571,1,2100,7,Občov,2111,204,2,1okrsek_moreparties
+513580,1,2100,7,Hudčice,2111,247,3,1okrsek_moreparties
+513636,1,7100,7,Hrabůvka,7104,308,2,1okrsek_moreparties
+513644,1,2100,7,Zlatá,2109,390,2,1okrsek_moreparties
+513661,1,3100,5,Nová Ves,3102,408,2,1okrsek_moreparties
+513695,1,6200,7,Horní Smržov,6201,124,12,1okrsek_moreparties
+513709,1,6200,7,Roubanina,6201,124,8,1okrsek_moreparties
+513733,1,7100,7,Hradčany,7104,316,2,1okrsek_moreparties
+513873,1,7100,9,Jindřichov,7104,480,3,1okrsek_moreparties
+514047,1,7100,7,Klokočí,7104,259,9,1okrsek_moreparties
+514152,1,7100,15,Kokory,7104,1115,2,1okrsek_moreparties
+514471,1,7100,9,Lazníky,7104,544,4,1okrsek_moreparties
+514772,1,7100,9,Lipová,7104,280,3,1okrsek_moreparties
+515191,1,7100,9,Lobodice,7104,733,4,1okrsek_moreparties
+515329,1,7100,7,Malhotice,7104,372,2,1okrsek_moreparties
+515418,1,7100,9,Milenov,7104,426,2,1okrsek_moreparties
+515477,1,7100,7,Milotice nad Bečvou,7104,269,11,1okrsek_moreparties
+516201,1,7100,15,Opatovice,7104,815,2,1okrsek_moreparties
+516619,1,7100,11,Osek nad Bečvou,7104,1300,2,1okrsek_moreparties
+516635,1,7100,9,Paršovice,7104,397,2,1okrsek_moreparties
+516686,1,7100,7,Partutovice,7104,527,3,1okrsek_moreparties
+516864,1,7100,7,Podolí,7104,205,3,1okrsek_moreparties
+516899,1,7100,7,Polkovice,7104,503,2,1okrsek_moreparties
+516911,1,7100,7,Polom,7104,283,3,1okrsek_moreparties
+517224,1,7100,7,Přestavlky,7104,266,2,1okrsek_moreparties
+517437,1,7100,7,Radkovy,7104,152,2,1okrsek_moreparties
+517445,1,7100,7,Radotín,7104,177,2,1okrsek_moreparties
+517534,1,7100,15,Radslavice,7104,1142,3,1okrsek_moreparties
+517585,1,7100,7,Rakov,7104,406,2,1okrsek_moreparties
+517607,1,7100,15,Rokytnice,7104,1519,3,1okrsek_moreparties
+517666,1,7100,9,Říkovice,7104,459,2,1okrsek_moreparties
+517909,1,7100,9,Střítež nad Ludinou,7104,854,4,1okrsek_moreparties
+519031,1,7100,7,Teplice nad Bečvou,7104,399,2,1okrsek_moreparties
+520047,1,7100,9,Tučín,7104,434,4,1okrsek_moreparties
+520420,1,7100,9,Veselíčko,7104,871,6,1okrsek_moreparties
+521531,1,7100,9,Všechovice,7104,869,4,1okrsek_moreparties
+523640,1,7100,9,Želatovice,7104,536,3,1okrsek_moreparties
+524891,1,7100,7,Bernartice,7101,856,6,1okrsek_moreparties
+525880,1,7100,9,Bohuslavice,7105,507,2,1okrsek_moreparties
+526169,1,7100,7,Branná,7105,269,4,1okrsek_moreparties
+526622,1,2100,7,Rohozec,2105,312,11,1okrsek_moreparties
+528196,1,2100,9,Podveky,2105,213,4,1okrsek_moreparties
+529478,1,2100,7,Čakov,2101,132,12,1okrsek_moreparties
+529524,1,2100,5,Čejkovice,2105,28,6,1okrsek_moreparties
+529532,1,2100,7,Červený Újezd,2101,341,12,1okrsek_moreparties
+529541,1,2100,7,Český Šternberk,2101,163,2,1okrsek_moreparties
+529559,1,2100,9,Dobrovítov,2105,123,2,1okrsek_moreparties
+529567,1,2100,7,Čtyřkoly,2101,751,2,1okrsek_moreparties
+529575,1,2100,7,Medonosy,2106,142,2,1okrsek_moreparties
+529583,1,2100,7,Tupadly,2106,139,9,1okrsek_moreparties
+529605,1,2100,9,Rokytá,2107,324,2,1okrsek_moreparties
+529630,1,2100,7,Kostomlátky,2108,313,2,1okrsek_moreparties
+529648,1,2100,15,Dolní Kralovice,2101,863,4,1okrsek_moreparties
+529672,1,2100,7,Bezděkov pod Třemšínem,2111,145,10,1okrsek_moreparties
+529681,1,2100,7,Koupě,2111,115,7,1okrsek_moreparties
+529770,1,2100,7,Chlum,2101,124,8,1okrsek_moreparties
+529788,1,2100,7,Chmelná,2101,149,9,1okrsek_moreparties
+529818,1,2100,7,Chotýšany,2101,604,2,1okrsek_moreparties
+529826,1,6100,7,Čelistná,6103,93,7,1okrsek_moreparties
+529834,1,6100,7,Mezná,6103,150,7,1okrsek_moreparties
+529851,1,2100,7,Javorník,2101,125,11,1okrsek_moreparties
+529869,1,6100,7,Důl,6103,56,2,1okrsek_moreparties
+529877,1,3100,7,Okrouhlá,3104,62,8,1okrsek_moreparties
+529893,1,3100,7,Nicov,3105,91,7,1okrsek_moreparties
+529931,1,2100,9,Kondrac,2101,519,2,1okrsek_moreparties
+529940,1,2100,7,Kozmice,2101,392,2,1okrsek_moreparties
+529966,1,3100,7,Buzice,3106,170,2,1okrsek_moreparties
+530000,1,2100,9,Křivsoudov,2101,439,2,1okrsek_moreparties
+530034,1,3100,9,Stožice,3106,412,5,1okrsek_moreparties
+530042,1,3100,7,Katov,3107,76,11,1okrsek_moreparties
+530051,1,2100,15,Lešany,2101,813,6,1okrsek_moreparties
+530085,1,3200,7,Bukovník,3202,67,8,1okrsek_moreparties
+530107,1,2100,15,Louňovice pod Blaníkem,2101,658,2,1okrsek_moreparties
+530140,1,3200,7,Milínov,3204,206,2,1okrsek_moreparties
+530158,1,2100,9,Mezno,2101,371,11,1okrsek_moreparties
+530174,1,2100,7,Miřetice,2101,207,4,1okrsek_moreparties
+530204,1,2100,11,Mrač,2101,831,3,1okrsek_moreparties
+530212,1,2100,15,Načeradec,2101,1073,3,1okrsek_moreparties
+530247,1,3200,9,Potvorov,3205,133,2,1okrsek_moreparties
+530280,1,3200,7,Vysoká Libyně,3205,215,2,1okrsek_moreparties
+530301,1,2100,9,Neustupov,2101,543,5,1okrsek_moreparties
+530336,1,3200,9,Pláně,3205,268,2,1okrsek_moreparties
+530361,1,3200,7,Kařízek,3206,50,2,1okrsek_moreparties
+530409,1,2100,7,Petroupim,2101,315,8,1okrsek_moreparties
+530425,1,5100,7,Dalešice,5102,205,2,1okrsek_moreparties
+530433,1,5100,9,Kunratice,5103,354,2,1okrsek_moreparties
+530441,1,2100,15,Poříčí nad Sázavou,2101,1441,3,1okrsek_moreparties
+530476,1,2100,11,Pravonín,2101,560,2,1okrsek_moreparties
+530484,1,5100,9,Jeřmanice,5103,573,3,1okrsek_moreparties
+530492,1,2100,7,Přestavlky u Čerčan,2101,415,11,1okrsek_moreparties
+530514,1,2100,8,Psáře,2101,138,2,1okrsek_moreparties
+530522,1,2100,7,Rabyně,2101,268,2,1okrsek_moreparties
+530531,1,2100,13,Radošovice,2101,390,2,1okrsek_moreparties
+530581,1,4200,7,Čeradice,4204,314,5,1okrsek_moreparties
+530590,1,4200,9,Libočany,4204,533,2,1okrsek_moreparties
+530603,1,4200,5,Zálužice,4204,95,6,1okrsek_moreparties
+530611,1,2100,7,Smilkov,2101,256,2,1okrsek_moreparties
+530638,1,2100,9,Soběhrdy,2101,435,14,1okrsek_moreparties
+530646,1,6100,7,Hurtova Lhota,6101,250,11,1okrsek_moreparties
+530654,1,6100,7,Vysoká,6101,248,9,1okrsek_moreparties
+530671,1,5200,7,Pšánky,5201,73,2,1okrsek_moreparties
+530697,1,5300,7,Úherčice,5301,137,12,1okrsek_moreparties
+530727,1,7100,7,Brníčko,7105,645,2,1okrsek_moreparties
+530735,1,5200,9,Staré Hrady,5202,188,2,1okrsek_moreparties
+530751,1,2100,9,Tehov,2101,342,2,1okrsek_moreparties
+530760,1,2100,7,Teplýšovice,2101,527,8,1okrsek_moreparties
+530778,1,2100,7,Tichonice,2101,200,7,1okrsek_moreparties
+530786,1,5200,7,Říkov,5203,222,8,1okrsek_moreparties
+530794,1,5300,7,Trnávka,5302,208,4,1okrsek_moreparties
+530808,1,5200,5,Královec,5205,189,2,1okrsek_moreparties
+530816,1,2100,15,Trhový Štěpánov,2101,1390,8,1okrsek_moreparties
+530824,1,6200,7,Velenov,6201,250,2,1okrsek_moreparties
+530832,1,2100,7,Brambory,2105,115,8,1okrsek_moreparties
+530859,1,2100,7,Semtěš,2105,269,11,1okrsek_moreparties
+530867,1,2100,9,Veliš,2101,334,7,1okrsek_moreparties
+530921,1,2100,7,Vranov,2101,436,9,1okrsek_moreparties
+530930,1,2100,7,Štipoklasy,2105,150,9,1okrsek_moreparties
+530956,1,2100,5,Opatovice I,2105,156,2,1okrsek_moreparties
+530981,1,2100,7,Třebešice,2105,289,2,1okrsek_moreparties
+530999,1,2100,7,Močovice,2105,410,2,1okrsek_moreparties
+531006,1,6200,7,Ludíkov,6201,340,2,1okrsek_moreparties
+531022,1,2100,7,Zdislavice,2101,518,2,1okrsek_moreparties
+531031,1,2100,7,Kamberk,2101,143,8,1okrsek_moreparties
+531049,1,2100,7,Zvěstov,2101,390,8,1okrsek_moreparties
+531065,1,2100,7,Souňov,2105,151,9,1okrsek_moreparties
+531103,1,2100,7,Bubovice,2102,574,2,1okrsek_moreparties
+531138,1,2100,15,Cerhovice,2102,1163,2,1okrsek_moreparties
+531146,1,2100,9,Drahelčice,2110,1270,2,1okrsek_moreparties
+531154,1,2100,9,Drozdov,2102,772,3,1okrsek_moreparties
+531162,1,2100,7,Felbabka,2102,283,3,1okrsek_moreparties
+531171,1,2100,9,Hlásná Třebaň,2102,1161,2,1okrsek_moreparties
+531197,1,2100,9,Hlízov,2105,611,2,1okrsek_moreparties
+531227,1,2100,15,Hudlice,2102,1220,5,1okrsek_moreparties
+531243,1,2100,15,Hýskov,2102,2042,2,1okrsek_moreparties
+531260,1,2100,7,Dolní Pohleď,2105,115,2,1okrsek_moreparties
+531278,1,2100,7,Paběnice,2105,212,8,1okrsek_moreparties
+531286,1,2100,7,Bratčice,2105,391,10,1okrsek_moreparties
+531294,1,2100,15,Chyňava,2102,1839,2,1okrsek_moreparties
+531316,1,2100,9,Karlštejn,2102,844,3,1okrsek_moreparties
+531332,1,2100,7,Koněprusy,2102,249,2,1okrsek_moreparties
+531341,1,2100,7,Drobovice,2105,392,10,1okrsek_moreparties
+531359,1,2100,7,Horky,2105,386,7,1okrsek_moreparties
+531375,1,2100,9,Kublov,2102,663,3,1okrsek_moreparties
+531383,1,2100,5,Schořov,2105,85,10,1okrsek_moreparties
+531391,1,2100,5,Sudějov,2105,81,6,1okrsek_moreparties
+531413,1,2100,7,Hraběšín,2105,105,8,1okrsek_moreparties
+531421,1,2100,5,Šebestěnice,2105,83,7,1okrsek_moreparties
+531430,1,2100,7,Horka I,2105,391,2,1okrsek_moreparties
+531448,1,2100,9,Libomyšl,2102,599,2,1okrsek_moreparties
+531464,1,2100,15,Loděnice,2102,2008,4,1okrsek_moreparties
+531472,1,2100,11,Lochovice,2102,1322,2,1okrsek_moreparties
+531499,1,2100,7,Hostín,2106,312,9,1okrsek_moreparties
+531511,1,2100,7,Zlončice,2106,571,2,1okrsek_moreparties
+531537,1,2100,7,Mezouň,2102,571,2,1okrsek_moreparties
+531553,1,2100,7,Konětopy,2109,315,3,1okrsek_moreparties
+531561,1,2100,7,Tuhaň,2106,794,4,1okrsek_moreparties
+531588,1,2100,9,Neumětely,2102,599,3,1okrsek_moreparties
+531618,1,2100,9,Nučice,2110,2285,2,1okrsek_moreparties
+531634,1,2100,9,Osek,2102,827,3,1okrsek_moreparties
+531651,1,2100,7,Kanina,2106,90,4,1okrsek_moreparties
+531669,1,2100,7,Otročiněves,2102,522,2,1okrsek_moreparties
+531758,1,2100,9,Srbsko,2102,559,4,1okrsek_moreparties
+531766,1,2100,7,Stašov,2102,472,2,1okrsek_moreparties
+531782,1,2100,9,Suchomasty,2102,496,8,1okrsek_moreparties
+531812,1,2100,7,Svinaře,2102,857,2,1okrsek_moreparties
+531821,1,2100,7,Tachlovice,2110,926,2,1okrsek_moreparties
+531839,1,2100,9,Tetín,2102,869,2,1okrsek_moreparties
+531847,1,2100,15,Tlustice,2102,1099,17,1okrsek_moreparties
+531855,1,2100,15,Tmaň,2102,1238,2,1okrsek_moreparties
+531898,1,2100,7,Lhotka,2106,304,10,1okrsek_moreparties
+531901,1,2100,7,Újezd,2102,686,2,1okrsek_moreparties
+531928,1,2100,7,Hostín u Vojkovic,2106,321,2,1okrsek_moreparties
+531952,1,2100,7,Všeradice,2102,458,2,1okrsek_moreparties
+531979,1,2100,9,Zadní Třebaň,2102,941,4,1okrsek_moreparties
+531995,1,2100,15,Zaječov,2102,1435,4,1okrsek_moreparties
+532029,1,2100,15,Žebrák,2102,2139,2,1okrsek_moreparties
+532100,1,2100,7,Blevice,2103,294,2,1okrsek_moreparties
+532118,1,2100,15,Brandýsek,2103,2136,3,1okrsek_moreparties
+532126,1,2100,15,Braškov,2103,1093,4,1okrsek_moreparties
+532134,1,2100,7,Ješetice,2101,135,7,1okrsek_moreparties
+532151,1,2100,5,Drahňovice,2101,107,4,1okrsek_moreparties
+532185,1,2100,9,Cvrčovice,2103,786,2,1okrsek_moreparties
+532215,1,2100,9,Červený Újezd,2110,1527,2,1okrsek_moreparties
+532223,1,2100,11,Doksy,2103,1718,2,1okrsek_moreparties
+532266,1,2100,7,Všechlapy,2101,106,2,1okrsek_moreparties
+532282,1,2100,7,Dřetovice,2103,456,3,1okrsek_moreparties
+532304,1,2100,7,Třebešice,2101,106,2,1okrsek_moreparties
+532339,1,2100,9,Hospozín,2103,552,2,1okrsek_moreparties
+532347,1,2100,9,Hostouň,2103,1432,3,1okrsek_moreparties
+532398,1,2100,5,Chržín,2103,287,2,1okrsek_moreparties
+532428,1,2100,9,Jemníky,2103,271,11,1okrsek_moreparties
+532436,1,2100,7,Snět,2101,103,2,1okrsek_moreparties
+532452,1,2100,9,Kamenné Žehrovice,2103,1667,3,1okrsek_moreparties
+532487,1,2100,7,Knovíz,2103,565,2,1okrsek_moreparties
+532495,1,2100,9,Koleč,2103,560,2,1okrsek_moreparties
+532533,1,2100,7,Ledce,2103,471,2,1okrsek_moreparties
+532541,1,2100,7,Tomice,2101,130,9,1okrsek_moreparties
+532568,1,2100,7,Bernartice,2101,225,10,1okrsek_moreparties
+532606,1,2100,5,Choratice,2101,69,6,1okrsek_moreparties
+532614,1,2100,7,Vodslivy,2101,100,8,1okrsek_moreparties
+532649,1,2100,7,Popovice,2101,282,3,1okrsek_moreparties
+532665,1,2100,7,Neuměřice,2103,431,2,1okrsek_moreparties
+532673,1,2100,7,Olovnice,2106,548,10,1okrsek_moreparties
+532690,1,2100,7,Ctiboř,2101,153,7,1okrsek_moreparties
+532738,1,2100,7,Pletený Újezd,2103,622,2,1okrsek_moreparties
+532746,1,2100,5,Děkanovice,2101,57,7,1okrsek_moreparties
+532789,1,2100,7,Ptice,2110,948,2,1okrsek_moreparties
+532797,1,2100,7,Řisuty,2103,358,3,1okrsek_moreparties
+532801,1,2100,7,Sazená,2103,346,2,1okrsek_moreparties
+532827,1,2100,7,Slatina,2103,632,3,1okrsek_moreparties
+532878,1,2100,5,Chleby,2101,45,2,1okrsek_moreparties
+532886,1,2100,7,Chářovice,2101,218,4,1okrsek_moreparties
+532908,1,2100,9,Svinařov,2103,752,2,1okrsek_moreparties
+532941,1,2100,5,Řimovice,2101,234,3,1okrsek_moreparties
+532991,1,2100,9,Úhonice,2110,1124,8,1okrsek_moreparties
+533009,1,2100,7,Uhy,2103,397,2,1okrsek_moreparties
+533033,1,2100,7,Velké Přítočno,2103,1023,2,1okrsek_moreparties
+533084,1,2100,9,Kladruby,2101,274,16,1okrsek_moreparties
+533092,1,2100,9,Zákolany,2103,601,4,1okrsek_moreparties
+533149,1,2100,9,Žilina,2103,847,2,1okrsek_moreparties
+533173,1,2100,7,Barchovice,2104,257,2,1okrsek_moreparties
+533220,1,2100,7,Břežany II,2104,891,3,1okrsek_moreparties
+533238,1,2100,9,Býchory,2104,636,3,1okrsek_moreparties
+533254,1,2100,7,Černé Voděrady,2109,340,2,1okrsek_moreparties
+533301,1,2100,7,Doubravčice,2104,1069,2,1okrsek_moreparties
+533327,1,2100,7,Horní Kruty,2104,515,2,1okrsek_moreparties
+533335,1,2100,7,Lhotka,2102,352,3,1okrsek_moreparties
+533343,1,2100,7,Chotutice,2104,470,2,1okrsek_moreparties
+533378,1,2100,9,Jevany,2109,783,5,1okrsek_moreparties
+533432,1,2100,9,Kozojedy,2109,951,2,1okrsek_moreparties
+533483,1,2100,7,Libodřice,2104,319,2,1okrsek_moreparties
+533491,1,7100,9,Černá Voda,7101,525,2,1okrsek_moreparties
+533530,1,2100,11,Nová Ves I,2104,1349,3,1okrsek_moreparties
+533548,1,2100,7,Nučice,2109,366,2,1okrsek_moreparties
+533556,1,2100,7,Ohaře,2104,295,2,1okrsek_moreparties
+533572,1,2100,9,Ovčáry,2104,849,3,1okrsek_moreparties
+533581,1,2100,9,Plaňany,2104,1911,4,1okrsek_moreparties
+533599,1,2100,7,Polepy,2104,646,2,1okrsek_moreparties
+533602,1,2100,5,Nenačovice,2102,269,2,1okrsek_moreparties
+533629,1,2100,9,Radim,2104,1216,2,1okrsek_moreparties
+533645,1,2100,9,Radovesnice II,2104,503,13,1okrsek_moreparties
+533688,1,7100,7,Dlouhomilov,7105,478,2,1okrsek_moreparties
+533696,1,2100,7,Skvrňov,2104,218,2,1okrsek_moreparties
+533726,1,2100,7,Svojšice,2104,491,2,1okrsek_moreparties
+533751,1,2100,7,Třebovle,2104,568,2,1okrsek_moreparties
+533769,1,2100,9,Tři Dvory,2104,982,3,1okrsek_moreparties
+533777,1,2100,7,Tuchoraz,2104,611,2,1okrsek_moreparties
+533793,1,2100,7,Korno,2102,124,2,1okrsek_moreparties
+533840,1,2100,15,Velký Osek,2104,2483,2,1okrsek_moreparties
+533882,1,2100,7,Volárna,2104,516,2,1okrsek_moreparties
+533939,1,2100,5,Lážovice,2102,106,6,1okrsek_moreparties
+533980,1,2100,7,Bohdaneč,2105,427,3,1okrsek_moreparties
+534021,1,2100,9,Červené Janovice,2105,655,2,1okrsek_moreparties
+534030,1,2100,9,Čestín,2105,436,3,1okrsek_moreparties
+534081,1,2100,7,Chabeřice,2105,265,3,1okrsek_moreparties
+534102,1,2100,7,Chotusice,2105,774,9,1okrsek_moreparties
+534129,1,2100,9,Kácov,2105,770,2,1okrsek_moreparties
+534145,1,2100,7,Bykoš,2102,237,2,1okrsek_moreparties
+534242,1,2100,9,Nové Dvory,2105,914,3,1okrsek_moreparties
+534277,1,2100,7,Onomyšl,2105,328,2,1okrsek_moreparties
+534285,1,2100,6,Podbrdy,2102,235,6,1okrsek_moreparties
+534293,1,2100,7,Soběšín,2105,175,2,1okrsek_moreparties
+534307,1,2100,7,Pertoltice,2105,151,8,1okrsek_moreparties
+534331,1,2100,9,Potěhy,2105,654,2,1okrsek_moreparties
+534340,1,2100,7,Rašovice,2105,390,2,1okrsek_moreparties
+534358,1,2100,9,Rataje nad Sázavou,2105,538,2,1okrsek_moreparties
+534366,1,2100,7,Řendějov,2105,229,2,1okrsek_moreparties
+534374,1,2100,5,Samopše,2105,180,4,1okrsek_moreparties
+534412,1,2100,9,Staňkovice,2105,269,5,1okrsek_moreparties
+534421,1,2100,9,Bavoryně,2102,402,2,1okrsek_moreparties
+534439,1,2100,15,Suchdol,2105,1110,4,1okrsek_moreparties
+534447,1,2100,7,Chodouň,2102,704,2,1okrsek_moreparties
+534455,1,2100,7,Chlustina,2102,245,2,1okrsek_moreparties
+534463,1,2100,7,Točník,2102,254,2,1okrsek_moreparties
+534471,1,2100,7,Záhornice,2108,407,2,1okrsek_moreparties
+534480,1,2100,9,Tupadly,2105,666,11,1okrsek_moreparties
+534528,1,2100,9,Vavřinec,2105,561,4,1okrsek_moreparties
+534561,1,2100,9,Vlastějovice,2105,467,2,1okrsek_moreparties
+534706,1,2100,7,Chroustov,2108,200,7,1okrsek_moreparties
+534722,1,2100,9,Byšice,2106,1381,2,1okrsek_moreparties
+534731,1,2100,15,Cítov,2106,1244,4,1okrsek_moreparties
+534749,1,2100,9,Čečelice,2106,680,3,1okrsek_moreparties
+534757,1,2100,7,Seletice,2108,211,2,1okrsek_moreparties
+534781,1,2100,9,Dřísy,2109,985,3,1okrsek_moreparties
+534811,1,7200,7,Podhradí,7204,195,2,1okrsek_moreparties
+534897,1,2100,9,Kly,2106,1627,3,1okrsek_moreparties
+534919,1,2100,7,Netřebice,2108,241,3,1okrsek_moreparties
+534927,1,7100,15,Dubicko,7105,1112,4,1okrsek_moreparties
+534960,1,2100,7,Křenek,2109,301,11,1okrsek_moreparties
+534994,1,2100,7,Choťovice,2104,215,2,1okrsek_moreparties
+535028,1,2100,15,Lužec nad Vltavou,2106,1439,3,1okrsek_moreparties
+535052,1,2100,15,Mšeno,2106,1416,3,1okrsek_moreparties
+535061,1,2100,7,Nebužely,2106,416,5,1okrsek_moreparties
+535133,1,2100,11,Obříství,2106,1609,3,1okrsek_moreparties
+535141,1,2100,9,Ovčáry,2106,519,2,1okrsek_moreparties
+535150,1,2100,5,Hořešovičky,2103,135,5,1okrsek_moreparties
+535184,1,7200,7,Tichov,7204,326,2,1okrsek_moreparties
+535192,1,2100,7,Spomyšl,2106,527,4,1okrsek_moreparties
+535249,1,3100,7,Dasný,3101,342,2,1okrsek_moreparties
+535273,1,2100,11,Veltrusy,2106,2263,3,1okrsek_moreparties
+535281,1,3100,9,Mydlovary,3101,304,3,1okrsek_moreparties
+535362,1,2100,7,Záryby,2109,1046,4,1okrsek_moreparties
+535397,1,2100,7,Želízy,2106,522,6,1okrsek_moreparties
+535401,1,3100,7,Bošilec,3101,208,7,1okrsek_moreparties
+535435,1,3100,7,Neplachov,3101,363,5,1okrsek_moreparties
+535460,1,3100,7,Hradce,3101,106,2,1okrsek_moreparties
+535478,1,2100,9,Bezno,2107,967,2,1okrsek_moreparties
+535494,1,3100,9,Úsilné,3101,507,11,1okrsek_moreparties
+535516,1,2100,9,Boseň,2107,505,13,1okrsek_moreparties
+535524,1,3100,7,Hosty,3101,161,4,1okrsek_moreparties
+535541,1,3100,7,Čakov,3101,293,2,1okrsek_moreparties
+535567,1,2100,5,Březina,2107,421,2,1okrsek_moreparties
+535583,1,2100,15,Březno,2107,1045,2,1okrsek_moreparties
+535591,1,3100,9,Zvíkov,3101,259,2,1okrsek_moreparties
+535630,1,2100,7,Čistá,2107,829,3,1okrsek_moreparties
+535656,1,2100,7,Dlouhá Lhota,2107,456,9,1okrsek_moreparties
+535711,1,2100,9,Dolní Krupá,2107,250,2,1okrsek_moreparties
+535729,1,2100,7,Dolní Slivno,2107,366,19,1okrsek_moreparties
+535737,1,3100,9,Vidov,3101,610,2,1okrsek_moreparties
+535745,1,2100,7,Domousnice,2107,275,2,1okrsek_moreparties
+535770,1,7100,7,Horní Studénky,7105,345,4,1okrsek_moreparties
+535788,1,3100,7,Dubičné,3101,405,3,1okrsek_moreparties
+535796,1,3100,7,Vráto,3101,428,5,1okrsek_moreparties
+535800,1,3100,7,Libníč,3101,545,3,1okrsek_moreparties
+535826,1,3100,9,Adamov,3101,985,3,1okrsek_moreparties
+535842,1,3100,7,Mokrý Lom,3101,116,7,1okrsek_moreparties
+535869,1,2100,9,Hrdlořezy,2107,709,2,1okrsek_moreparties
+535877,1,3100,7,Komařice,3101,357,7,1okrsek_moreparties
+535885,1,7100,9,Hoštejn,7105,420,3,1okrsek_moreparties
+535893,1,3100,9,Vitín,3101,457,16,1okrsek_moreparties
+535907,1,3100,7,Chotýčany,3101,265,2,1okrsek_moreparties
+535915,1,3100,5,Vlkov,3101,43,8,1okrsek_moreparties
+535940,1,3100,7,Mazelov,3101,227,9,1okrsek_moreparties
+535974,1,2100,7,Jivina,2107,480,2,1okrsek_moreparties
+535982,1,3100,7,Kamenná,3101,314,3,1okrsek_moreparties
+536024,1,2100,9,Klášter Hradiště nad Jizerou,2107,1000,3,1okrsek_moreparties
+536059,1,3100,7,Břehov,3101,173,15,1okrsek_moreparties
+536083,1,2100,7,Velenice,2108,204,2,1okrsek_moreparties
+536091,1,7100,9,Hrabišín,7105,836,2,1okrsek_moreparties
+536156,1,3100,7,Bečice,3101,101,10,1okrsek_moreparties
+536202,1,2100,7,Ledce,2107,385,3,1okrsek_moreparties
+536229,1,3100,7,Chlumec,3102,101,2,1okrsek_moreparties
+536237,1,3100,7,Zvíkov,3102,95,2,1okrsek_moreparties
+536253,1,3100,5,Bohdalovice,3102,308,2,1okrsek_moreparties
+536261,1,2100,7,Loukovec,2107,357,3,1okrsek_moreparties
+536288,1,7100,9,Jedlí,7105,674,2,1okrsek_moreparties
+536296,1,3100,7,Malšín,3102,154,3,1okrsek_moreparties
+536300,1,3100,7,Věžovatá Pláně,3102,162,3,1okrsek_moreparties
+536342,1,3100,7,Krajníčko,3106,103,9,1okrsek_moreparties
+536377,1,2100,7,Nová Telib,2107,288,2,1okrsek_moreparties
+536407,1,2100,5,Obruby,2107,243,2,1okrsek_moreparties
+536415,1,3100,5,Měkynec,3106,45,7,1okrsek_moreparties
+536440,1,2100,9,Písková Lhota,2107,1090,3,1okrsek_moreparties
+536458,1,2100,7,Plazy,2107,498,10,1okrsek_moreparties
+536466,1,3100,7,Mačkov,3106,294,2,1okrsek_moreparties
+536491,1,2100,9,Předměřice nad Jizerou,2107,999,3,1okrsek_moreparties
+536539,1,3100,7,Milejovice,3106,67,2,1okrsek_moreparties
+536547,1,3100,7,Přechovice,3106,129,2,1okrsek_moreparties
+536555,1,3100,7,Krty-Hradec,3106,139,14,1okrsek_moreparties
+536563,1,3100,9,Mnichov,3106,241,12,1okrsek_moreparties
+536571,1,7100,9,Kamenná,7105,521,4,1okrsek_moreparties
+536598,1,3100,7,Tchořovice,3106,238,3,1okrsek_moreparties
+536601,1,3100,7,Kocelovice,3106,155,2,1okrsek_moreparties
+536644,1,3100,5,Nebřehovice,3106,166,2,1okrsek_moreparties
+536679,1,3100,7,Třešovice,3106,73,8,1okrsek_moreparties
+536695,1,3100,7,Úlehle,3106,96,10,1okrsek_moreparties
+536709,1,2100,7,Strašnov,2107,309,2,1okrsek_moreparties
+536733,1,7100,7,Kolšov,7105,720,4,1okrsek_moreparties
+536750,1,3100,5,Kváskovice,3106,116,2,1okrsek_moreparties
+536784,1,3100,7,Strunkovice nad Volyňkou,3106,139,5,1okrsek_moreparties
+536792,1,3100,5,Přední Zborovice,3106,84,5,1okrsek_moreparties
+536822,1,3100,7,Lom,3106,114,9,1okrsek_moreparties
+536849,1,3100,7,Řepice,3106,446,9,1okrsek_moreparties
+536865,1,3100,9,Rovná,3106,233,3,1okrsek_moreparties
+536890,1,3100,7,Uzeničky,3106,115,3,1okrsek_moreparties
+536911,1,3100,7,Pohorovice,3106,73,2,1okrsek_moreparties
+536920,1,3100,7,Štěchovice,3106,204,10,1okrsek_moreparties
+536938,1,2100,9,Všejany,2107,686,2,1okrsek_moreparties
+537047,1,2100,7,Bříství,2108,363,2,1okrsek_moreparties
+537063,1,3100,5,Bratronice,3106,61,8,1okrsek_moreparties
+537071,1,3100,7,Lipovice,3105,207,3,1okrsek_moreparties
+537080,1,2100,9,Činěves,2108,503,4,1okrsek_moreparties
+537098,1,2100,7,Dlouhopolsko,2108,231,2,1okrsek_moreparties
+537128,1,2100,9,Dymokury,2108,892,2,1okrsek_moreparties
+537136,1,3100,5,Kratušín,3105,45,2,1okrsek_moreparties
+537152,1,2100,9,Hořátev,2108,800,2,1okrsek_moreparties
+537187,1,3100,7,Drslavice,3105,97,3,1okrsek_moreparties
+537209,1,3100,7,Žernovice,3105,324,2,1okrsek_moreparties
+537225,1,2100,9,Chotěšice,2108,309,2,1okrsek_moreparties
+537233,1,2100,7,Chrást,2108,534,2,1okrsek_moreparties
+537250,1,2100,7,Jíkev,2108,343,3,1okrsek_moreparties
+537276,1,2100,7,Kamenné Zboží,2108,513,3,1okrsek_moreparties
+537284,1,7100,9,Lesnice,7105,643,2,1okrsek_moreparties
+537314,1,2100,9,Kostelní Lhota,2108,875,2,1okrsek_moreparties
+537357,1,2100,9,Kounice,2108,1598,2,1okrsek_moreparties
+537365,1,3100,5,Olšovice,3105,55,2,1okrsek_moreparties
+537390,1,2100,7,Krchleby,2108,741,2,1okrsek_moreparties
+537403,1,2100,5,Křečkov,2108,433,2,1okrsek_moreparties
+537420,1,3100,7,Chvalovice,3105,159,13,1okrsek_moreparties
+537438,1,2100,11,Libice nad Cidlinou,2108,1231,2,1okrsek_moreparties
+537543,1,3100,7,Pěčnov,3105,154,3,1okrsek_moreparties
+537560,1,2100,7,Okřínek,2108,201,11,1okrsek_moreparties
+537608,1,6100,9,Ústrašín,6103,269,3,1okrsek_moreparties
+537616,1,2100,7,Oskořínek,2108,546,2,1okrsek_moreparties
+537632,1,2100,7,Pátek,2108,749,2,1okrsek_moreparties
+537659,1,2100,7,Písková Lhota,2108,501,5,1okrsek_moreparties
+537691,1,6100,9,Ondřejov,6103,171,12,1okrsek_moreparties
+537705,1,2100,11,Poříčany,2104,1532,2,1okrsek_moreparties
+537713,1,7100,9,Leština,7105,1246,2,1okrsek_moreparties
+537748,1,2100,9,Ratenice,2104,638,3,1okrsek_moreparties
+537781,1,2100,7,Semice,2108,1273,2,1okrsek_moreparties
+537799,1,2100,5,Senice,2108,202,8,1okrsek_moreparties
+537811,1,2100,9,Sokoleč,2108,1072,2,1okrsek_moreparties
+537829,1,6100,7,Proseč,6103,64,12,1okrsek_moreparties
+537837,1,2100,7,Stará Lysá,2108,785,4,1okrsek_moreparties
+537853,1,2100,11,Straky,2108,523,2,1okrsek_moreparties
+537870,1,4100,7,Březová,4102,554,3,1okrsek_moreparties
+537888,1,2100,7,Tatce,2104,653,2,1okrsek_moreparties
+537896,1,2100,7,Třebestovice,2108,1175,2,1okrsek_moreparties
+537918,1,4100,7,Dalovice,4102,1948,8,1okrsek_moreparties
+537926,1,4100,11,Jenišov,4102,1041,4,1okrsek_moreparties
+537934,1,4100,9,Mírová,4102,326,2,1okrsek_moreparties
+537942,1,2100,9,Vestec,2108,317,3,1okrsek_moreparties
+537951,1,2100,5,Vlkov pod Oškobrhem,2108,94,6,1okrsek_moreparties
+537969,1,4100,7,Otovice,4102,971,2,1okrsek_moreparties
+537985,1,2100,7,Všechlapy,2108,805,16,1okrsek_moreparties
+538019,1,4100,7,Černava,4102,302,12,1okrsek_moreparties
+538027,1,4100,7,Smolné Pece,4102,223,2,1okrsek_moreparties
+538035,1,2100,7,Žehuň,2104,442,2,1okrsek_moreparties
+538051,1,2100,15,Bašť,2109,2851,4,1okrsek_moreparties
+538108,1,2100,9,Brázdim,2109,684,2,1okrsek_moreparties
+538116,1,4100,7,Děpoltovice,4102,402,2,1okrsek_moreparties
+538124,1,1100,9,Praha-Březiněves,1100,1806,2,1okrsek_moreparties
+538141,1,2100,9,Čestlice,2109,684,2,1okrsek_moreparties
+538167,1,2100,9,Dobřejovice,2109,1210,4,1okrsek_moreparties
+538183,1,3200,7,Kbelany,3205,113,2,1okrsek_moreparties
+538191,1,2100,11,Dřevčice,2109,768,3,1okrsek_moreparties
+538230,1,2100,11,Hovorčovice,2109,2496,3,1okrsek_moreparties
+538248,1,2100,9,Hrusice,2109,882,2,1okrsek_moreparties
+538256,1,2100,9,Husinec,2109,1497,3,1okrsek_moreparties
+538329,1,2100,7,Klíčany,2109,558,7,1okrsek_moreparties
+538337,1,4100,11,Krásno,4103,689,5,1okrsek_moreparties
+538345,1,2100,9,Kojetice,2106,826,2,1okrsek_moreparties
+538353,1,1100,7,Praha-Koloděje,1100,1618,3,1okrsek_moreparties
+538370,1,2100,7,Kostelec u Křížků,2109,756,2,1okrsek_moreparties
+538400,1,1100,9,Praha-Křeslice,1100,1093,3,1okrsek_moreparties
+538418,1,2100,7,Křížkový Újezdec,2109,285,5,1okrsek_moreparties
+538434,1,4100,11,Svatava,4103,1617,7,1okrsek_moreparties
+538442,1,2100,15,Líbeznice,2109,3030,2,1okrsek_moreparties
+538451,1,2100,9,Louňovice,2109,1169,2,1okrsek_moreparties
+538477,1,2100,15,Měšice,2109,2037,2,1okrsek_moreparties
+538507,1,2100,11,Mochov,2109,1346,2,1okrsek_moreparties
+538523,1,2100,15,Mukařov,2109,2772,4,1okrsek_moreparties
+538621,1,2100,7,Podolanka,2109,586,2,1okrsek_moreparties
+538639,1,2100,7,Polerady,2109,483,2,1okrsek_moreparties
+538647,1,2100,9,Postřižín,2106,1708,2,1okrsek_moreparties
+538655,1,2100,7,Předboj,2109,1226,2,1okrsek_moreparties
+538663,1,4100,7,Tatrovice,4103,170,2,1okrsek_moreparties
+538698,1,2100,9,Radějovice,2109,500,2,1okrsek_moreparties
+538710,1,2100,7,Řehenice,2101,443,10,1okrsek_moreparties
+538736,1,1100,11,Praha-Satalice,1100,2424,3,1okrsek_moreparties
+538744,1,7200,15,Březnice,7204,1377,2,1okrsek_moreparties
+538752,1,2100,9,Senohraby,2109,1244,5,1okrsek_moreparties
+538761,1,2100,9,Sibřina,2109,942,2,1okrsek_moreparties
+538779,1,2100,7,Sluhy,2109,726,4,1okrsek_moreparties
+538787,1,2100,9,Sluštice,2109,682,2,1okrsek_moreparties
+538795,1,4100,7,Krásná,4101,614,3,1okrsek_moreparties
+538809,1,2100,15,Strančice,2109,2594,2,1okrsek_moreparties
+538825,1,2100,9,Struhařov,2109,944,2,1okrsek_moreparties
+538841,1,2100,9,Světice,2109,1302,3,1okrsek_moreparties
+538850,1,2100,9,Svojetice,2109,1219,2,1okrsek_moreparties
+538884,1,2100,11,Škvorec,2109,2036,3,1okrsek_moreparties
+538892,1,2100,9,Tehov,2109,1055,2,1okrsek_moreparties
+538914,1,2100,15,Lázně Toušeň,2109,1439,4,1okrsek_moreparties
+538922,1,4100,7,Okrouhlá,4101,256,2,1okrsek_moreparties
+539023,1,4100,9,Třebeň,4101,431,2,1okrsek_moreparties
+539031,1,2100,9,Všestary,2109,952,2,1okrsek_moreparties
+539074,1,4100,7,Vojtanov,4101,232,8,1okrsek_moreparties
+539082,1,2100,7,Zlonín,2109,1091,2,1okrsek_moreparties
+539317,1,2100,7,Jeneč,2110,1299,2,1okrsek_moreparties
+539350,1,2100,9,Jinočany,2110,2110,2,1okrsek_moreparties
+539368,1,2100,15,Kamenný Přívoz,2110,1472,3,1okrsek_moreparties
+539376,1,4100,7,Vlkovice,4101,122,2,1okrsek_moreparties
+539384,1,2100,15,Kněževes,2110,594,2,1okrsek_moreparties
+539406,1,2100,7,Lety,2110,1527,3,1okrsek_moreparties
+539431,1,4100,9,Zádub-Závišín,4101,337,3,1okrsek_moreparties
+539449,1,1100,15,Praha-Lipence,1100,2850,5,1okrsek_moreparties
+539457,1,2100,7,Líšnice,2110,787,2,1okrsek_moreparties
+539490,1,2100,9,Měchenice,2110,834,3,1okrsek_moreparties
+539503,1,2100,9,Ohrobec,2110,1431,3,1okrsek_moreparties
+539520,1,2100,9,Ořech,2110,946,3,1okrsek_moreparties
+539538,1,4100,9,Prameny,4101,106,2,1okrsek_moreparties
+539546,1,2100,7,Petrov,2110,760,2,1okrsek_moreparties
+539554,1,4100,7,Odrava,4101,229,3,1okrsek_moreparties
+539571,1,2100,11,Průhonice,2110,2641,2,1okrsek_moreparties
+539651,1,2100,15,Řitka,2110,1349,4,1okrsek_moreparties
+539686,1,2100,9,Statenice,2110,1547,6,1okrsek_moreparties
+539708,1,2100,9,Středokluky,2110,1221,3,1okrsek_moreparties
+539716,1,3200,7,Měcholupy,3204,217,2,1okrsek_moreparties
+539741,1,3200,7,Štěnovický Borek,3203,606,9,1okrsek_moreparties
+539767,1,2100,9,Tuchoměřice,2110,1568,2,1okrsek_moreparties
+539775,1,2100,9,Tursko,2110,819,2,1okrsek_moreparties
+539805,1,2100,7,Únětice,2110,829,2,1okrsek_moreparties
+539813,1,2100,15,Velké Přílepy,2110,3461,3,1okrsek_moreparties
+539821,1,3200,7,Horní Lukavice,3204,453,4,1okrsek_moreparties
+539856,1,2100,9,Všenory,2110,1684,6,1okrsek_moreparties
+539872,1,2100,11,Zbuzany,2110,1355,3,1okrsek_moreparties
+539881,1,2100,11,Zlatníky-Hodkovice,2110,1335,5,1okrsek_moreparties
+539902,1,2100,15,Zvole,2110,1882,2,1okrsek_moreparties
+539929,1,3200,6,Týniště,3204,50,10,1okrsek_moreparties
+539937,1,3200,7,Skašov,3204,201,19,1okrsek_moreparties
+539945,1,3200,6,Dolce,3204,288,8,1okrsek_moreparties
+539970,1,2100,9,Borotice,2111,408,13,1okrsek_moreparties
+540005,1,7100,5,Lipinka,7102,193,11,1okrsek_moreparties
+540072,1,2100,7,Čenkov,2111,372,9,1okrsek_moreparties
+540099,1,2100,7,Daleké Dušníky,2111,430,10,1okrsek_moreparties
+540145,1,2100,9,Drahlín,2111,552,4,1okrsek_moreparties
+540153,1,2100,7,Drásov,2111,440,2,1okrsek_moreparties
+540161,1,7100,7,Líšnice,7105,400,3,1okrsek_moreparties
+540170,1,2100,7,Drevníky,2111,358,7,1okrsek_moreparties
+540188,1,2100,7,Drhovy,2111,274,2,1okrsek_moreparties
+540200,1,3200,7,Kozlovice,3204,96,10,1okrsek_moreparties
+540269,1,3200,7,Nová Ves,3204,285,9,1okrsek_moreparties
+540285,1,2100,9,Hřiměždice,2111,380,2,1okrsek_moreparties
+540323,1,2100,9,Chotilsko,2111,567,3,1okrsek_moreparties
+540358,1,2100,7,Chraštice,2111,251,2,1okrsek_moreparties
+540366,1,7100,9,Maletín,7105,411,4,1okrsek_moreparties
+540391,1,2100,11,Jesenice,2111,544,13,1okrsek_moreparties
+540412,1,3200,7,Předenice,3204,246,2,1okrsek_moreparties
+540421,1,3200,7,Radkovice,3204,102,7,1okrsek_moreparties
+540439,1,2100,15,Kamýk nad Vltavou,2111,961,3,1okrsek_moreparties
+540447,1,2100,9,Klučenice,2111,447,4,1okrsek_moreparties
+540498,1,2100,15,Kosova Hora,2111,1356,2,1okrsek_moreparties
+540536,1,2100,9,Kozárovice,2111,392,2,1okrsek_moreparties
+540552,1,2100,15,Krásná Hora nad Vltavou,2111,1091,4,1okrsek_moreparties
+540561,1,3200,9,Letkov,3203,858,2,1okrsek_moreparties
+540579,1,2100,9,Křepenice,2111,203,13,1okrsek_moreparties
+540587,1,2100,5,Křešín,2111,140,2,1okrsek_moreparties
+540617,1,3200,5,Líšina,3204,160,7,1okrsek_moreparties
+540633,1,3200,6,Kotovice,3204,299,6,1okrsek_moreparties
+540641,1,3200,7,Mokrouše,3203,299,2,1okrsek_moreparties
+540676,1,3200,7,Srby,3204,174,2,1okrsek_moreparties
+540684,1,7100,15,Písečná,7101,979,2,1okrsek_moreparties
+540692,1,3200,7,Sedliště,3204,111,12,1okrsek_moreparties
+540706,1,3200,5,Vlčtejn,3204,88,2,1okrsek_moreparties
+540714,1,2100,9,Malá Hraštice,2111,1071,4,1okrsek_moreparties
+540731,1,7100,7,Police,7105,212,2,1okrsek_moreparties
+540749,1,2100,9,Milešov,2111,312,3,1okrsek_moreparties
+540781,1,2100,9,Mokrovraty,2111,794,3,1okrsek_moreparties
+540790,1,2100,13,Nalžovice,2111,619,2,1okrsek_moreparties
+540803,1,3200,7,Chlum,3206,51,10,1okrsek_moreparties
+540811,1,2100,11,Nečín,2111,758,2,1okrsek_moreparties
+540820,1,2100,9,Nedrahovice,2111,471,2,1okrsek_moreparties
+540854,1,7100,7,Rájec,7105,516,3,1okrsek_moreparties
+540889,1,2100,7,Nová Ves pod Pleší,2111,1460,5,1okrsek_moreparties
+540897,1,2100,7,Nové Dvory,2111,269,13,1okrsek_moreparties
+540919,1,7100,9,Rovensko,7105,827,2,1okrsek_moreparties
+540943,1,2100,7,Obory,2111,273,11,1okrsek_moreparties
+540951,1,2100,7,Obořiště,2111,700,3,1okrsek_moreparties
+541001,1,3200,5,Hradiště,3206,35,6,1okrsek_moreparties
+541010,1,2100,9,Ouběnice,2111,246,9,1okrsek_moreparties
+541036,1,7100,9,Stará Červená Voda,7101,595,5,1okrsek_moreparties
+541109,1,7100,15,Sudkov,7105,1150,5,1okrsek_moreparties
+541117,1,7100,9,Supíkovice,7101,651,5,1okrsek_moreparties
+541125,1,7100,7,Svébohov,7105,426,3,1okrsek_moreparties
+541133,1,2100,7,Prosenická Lhota,2111,523,7,1okrsek_moreparties
+541141,1,3200,5,Chomle,3206,70,6,1okrsek_moreparties
+541150,1,3200,9,Kamenný Újezd,3206,881,2,1okrsek_moreparties
+541176,1,3200,7,Svojkovice,3206,443,2,1okrsek_moreparties
+541192,1,3200,7,Nevid,3206,182,2,1okrsek_moreparties
+541206,1,2100,9,Rosovice,2111,855,8,1okrsek_moreparties
+541214,1,7100,9,Uhelná,7101,463,3,1okrsek_moreparties
+541222,1,7100,15,Úsov,7105,1139,4,1okrsek_moreparties
+541249,1,7100,15,Vápenná,7101,1189,7,1okrsek_moreparties
+541303,1,7100,15,Vidnava,7101,1198,3,1okrsek_moreparties
+541311,1,2100,7,Smolotely,2111,267,2,1okrsek_moreparties
+541338,1,2100,15,Stará Huť,2111,1569,2,1okrsek_moreparties
+541346,1,7100,5,Vlčice,7101,413,2,1okrsek_moreparties
+541362,1,3200,7,Zadní Chodov,3207,247,6,1okrsek_moreparties
+541371,1,2100,7,Suchodol,2111,406,9,1okrsek_moreparties
+541397,1,2100,11,Svatý Jan,2111,658,2,1okrsek_moreparties
+541401,1,3200,7,Broumov,3207,133,2,1okrsek_moreparties
+541435,1,3200,7,Únehle,3207,137,8,1okrsek_moreparties
+541451,1,2100,5,Třebsko,2111,272,2,1okrsek_moreparties
+541460,1,3200,7,Zhoř,3207,165,2,1okrsek_moreparties
+541478,1,7100,9,Zvole,7105,844,3,1okrsek_moreparties
+541494,1,3200,7,Kokašice,3207,283,2,1okrsek_moreparties
+541559,1,3200,7,Kočov,3207,215,2,1okrsek_moreparties
+541621,1,3200,7,Tisová,3207,460,3,1okrsek_moreparties
+541648,1,7200,15,Branky,7203,1023,7,1okrsek_moreparties
+541711,1,7200,11,Bystřička,7203,1030,4,1okrsek_moreparties
+541737,1,2100,9,Hořovičky,2112,482,4,1okrsek_moreparties
+541800,1,7200,15,Dolní Bečva,7203,1860,2,1okrsek_moreparties
+541826,1,3200,7,Kejnice,3202,104,11,1okrsek_moreparties
+541877,1,2100,13,Kněževes,2112,1012,2,1okrsek_moreparties
+541885,1,3200,9,Týnec,3202,364,3,1okrsek_moreparties
+541893,1,2100,9,Kolešovice,2112,817,3,1okrsek_moreparties
+541907,1,2100,7,Kounov,2112,556,3,1okrsek_moreparties
+541940,1,2100,5,Kroučová,2112,281,2,1okrsek_moreparties
+541958,1,3200,7,Olšany,3202,202,7,1okrsek_moreparties
+541966,1,2100,9,Krupá,2112,448,3,1okrsek_moreparties
+541982,1,2100,9,Křivoklát,2112,693,2,1okrsek_moreparties
+542008,1,2100,7,Lašovice,2112,114,2,1okrsek_moreparties
+542016,1,2100,9,Lišany,2112,659,3,1okrsek_moreparties
+542032,1,2100,11,Lubná,2112,1033,4,1okrsek_moreparties
+542075,1,2100,7,Milostín,2112,308,2,1okrsek_moreparties
+542091,1,3200,7,Horská Kvilda,3202,66,2,1okrsek_moreparties
+542105,1,2100,9,Mšec,2112,897,4,1okrsek_moreparties
+542148,1,3200,7,Modrava,3202,99,2,1okrsek_moreparties
+542199,1,2100,9,Olešná,2112,614,3,1okrsek_moreparties
+542211,1,2100,7,Panoší Újezd,2112,281,2,1okrsek_moreparties
+542237,1,2100,5,Pochvalov,2112,252,7,1okrsek_moreparties
+542253,1,2100,7,Příčina,2112,203,3,1okrsek_moreparties
+542288,1,2100,7,Pustověty,2112,126,2,1okrsek_moreparties
+542318,1,7200,7,Blazice,7201,202,2,1okrsek_moreparties
+542326,1,2100,7,Ruda,2112,759,3,1okrsek_moreparties
+542334,1,2100,7,Rynholec,2112,1023,5,1okrsek_moreparties
+542385,1,2100,7,Skryje,2112,148,2,1okrsek_moreparties
+542431,1,2100,9,Srbeč,2112,307,2,1okrsek_moreparties
+542458,1,2100,7,Svojetín,2112,354,2,1okrsek_moreparties
+542466,1,2100,9,Sýkořice,2112,554,2,1okrsek_moreparties
+542491,1,4200,7,Malíč,4203,194,2,1okrsek_moreparties
+542504,1,2100,5,Třeboc,2112,151,6,1okrsek_moreparties
+542547,1,4200,7,Blšany u Loun,4204,388,4,1okrsek_moreparties
+542571,1,4200,15,Cítoliby,4204,1057,5,1okrsek_moreparties
+542580,1,4200,7,Obora,4204,438,2,1okrsek_moreparties
+542601,1,2100,7,Zavidov,2112,336,2,1okrsek_moreparties
+542628,1,4200,15,Černčice,4204,1320,2,1okrsek_moreparties
+542687,1,7200,15,Horní Bečva,7203,2416,3,1okrsek_moreparties
+542725,1,7200,15,Horní Lideč,7203,1319,2,1okrsek_moreparties
+542750,1,7200,15,Hošťálková,7203,2223,29,1okrsek_moreparties
+542831,1,7200,9,Choryně,7203,752,4,1okrsek_moreparties
+542865,1,7200,11,Jablůnka,7203,2027,7,1okrsek_moreparties
+542903,1,7200,11,Jarcová,7203,855,16,1okrsek_moreparties
+542946,1,7200,15,Kateřinice,7203,1038,24,1okrsek_moreparties
+542997,1,7200,9,Kladeruby,7203,467,3,1okrsek_moreparties
+543012,1,4200,7,Žerotín,4204,204,2,1okrsek_moreparties
+543021,1,7200,9,Kunovice,7203,647,2,1okrsek_moreparties
+543098,1,7200,9,Lačnov,7203,853,3,1okrsek_moreparties
+543128,1,4200,9,Staňkovice,4204,1071,3,1okrsek_moreparties
+544264,1,7200,9,Leskovec,7203,635,3,1okrsek_moreparties
+544272,1,3100,11,Borek,3101,1552,3,1okrsek_moreparties
+544361,1,3100,9,Dívčice,3101,576,2,1okrsek_moreparties
+544370,1,7200,15,Lidečko,7203,1810,3,1okrsek_moreparties
+544434,1,7200,9,Lužná,7203,609,2,1okrsek_moreparties
+544451,1,3100,7,Dynín,3101,341,9,1okrsek_moreparties
+544477,1,5100,9,Stráž nad Nisou,5103,2359,6,1okrsek_moreparties
+544507,1,7200,11,Mikulůvka,7203,811,4,1okrsek_moreparties
+544540,1,3100,7,Hranice,3101,197,2,1okrsek_moreparties
+544558,1,3100,11,Hrdějovice,3101,1510,4,1okrsek_moreparties
+544574,1,7200,9,Oznice,7203,490,10,1okrsek_moreparties
+544582,1,5100,7,Radimovice,5103,350,5,1okrsek_moreparties
+544604,1,5100,7,Žďárek,5103,168,10,1okrsek_moreparties
+544621,1,7200,11,Police,7203,609,4,1okrsek_moreparties
+544647,1,4200,7,Bynovec,4201,335,4,1okrsek_moreparties
+544671,1,7200,7,Prlov,7203,497,2,1okrsek_moreparties
+544680,1,4200,7,Janov,4201,339,2,1okrsek_moreparties
+544698,1,7200,11,Prostřední Bečva,7203,1750,4,1okrsek_moreparties
+544701,1,4200,7,Labská Stráň,4201,232,4,1okrsek_moreparties
+544728,1,7200,9,Pržno,7203,623,2,1okrsek_moreparties
+544787,1,7200,11,Ratiboř,7203,1818,3,1okrsek_moreparties
+544833,1,6100,5,Bačkovice,6104,92,7,1okrsek_moreparties
+544850,1,7200,11,Růžďka,7203,902,5,1okrsek_moreparties
+544876,1,6100,7,Lhotice,6104,147,13,1okrsek_moreparties
+544906,1,7200,7,Seninka,7203,302,2,1okrsek_moreparties
+544931,1,7200,9,Študlov,7204,495,4,1okrsek_moreparties
+544973,1,3100,11,Roudné,3101,1359,2,1okrsek_moreparties
+544990,1,7200,9,Valašská Polanka,7203,1463,3,1okrsek_moreparties
+545007,1,3100,9,Římov,3101,953,2,1okrsek_moreparties
+545031,1,6100,7,Menhartice,6104,128,14,1okrsek_moreparties
+545040,1,6100,7,Radotice,6104,111,12,1okrsek_moreparties
+545082,1,3100,7,Strážkovice,3101,502,9,1okrsek_moreparties
+545104,1,3100,9,Svatý Jan nad Malší,3101,607,3,1okrsek_moreparties
+545112,1,7200,9,Valašské Příkazy,7204,314,2,1okrsek_moreparties
+545121,1,3100,15,Ševětín,3101,1373,3,1okrsek_moreparties
+545139,1,3100,9,Štěpánovice,3101,948,2,1okrsek_moreparties
+545180,1,6100,6,Slavíkovice,6104,192,3,1okrsek_moreparties
+545198,1,7200,15,Vidče,7203,1724,2,1okrsek_moreparties
+545210,1,7200,9,Vigantice,7203,1071,2,1okrsek_moreparties
+545228,1,3100,9,Včelná,3101,2269,3,1okrsek_moreparties
+545244,1,7200,11,Zděchov,7203,568,3,1okrsek_moreparties
+545261,1,3100,9,Vrábče,3101,839,2,1okrsek_moreparties
+545309,1,6100,9,Kožichovice,6104,445,11,1okrsek_moreparties
+545317,1,3100,7,Záboří,3101,377,17,1okrsek_moreparties
+545368,1,3100,9,Žabovřesky,3101,419,3,1okrsek_moreparties
+545376,1,3100,7,Žár,3101,347,3,1okrsek_moreparties
+545406,1,3100,11,Benešov nad Černou,3102,1383,5,1okrsek_moreparties
+545414,1,3100,11,Besednice,3102,805,4,1okrsek_moreparties
+545431,1,3100,9,Brloh,3102,1076,4,1okrsek_moreparties
+545449,1,3100,9,Bujanov,3102,577,4,1okrsek_moreparties
+545457,1,3100,9,Černá v Pošumaví,3102,791,5,1okrsek_moreparties
+545465,1,3100,9,Dolní Dvořiště,3102,1357,6,1okrsek_moreparties
+545481,1,3100,9,Frymburk,3102,1304,4,1okrsek_moreparties
+545490,1,3100,9,Holubov,3102,1089,2,1okrsek_moreparties
+545503,1,3100,9,Horní Dvořiště,3102,455,3,1okrsek_moreparties
+545520,1,3100,9,Hořice na Šumavě,3102,880,2,1okrsek_moreparties
+545538,1,4200,7,Starý Šachov,4201,217,2,1okrsek_moreparties
+545546,1,3100,9,Chvalšiny,3102,1244,2,1okrsek_moreparties
+545597,1,3100,7,Lipno nad Vltavou,3102,639,4,1okrsek_moreparties
+545619,1,3100,11,Malonty,3102,1404,5,1okrsek_moreparties
+545627,1,3100,9,Mirkovice,3102,468,2,1okrsek_moreparties
+545643,1,3100,9,Netřebice,3102,463,5,1okrsek_moreparties
+545660,1,3100,11,Omlenice,3102,574,2,1okrsek_moreparties
+545678,1,4200,9,Markvartice,4201,722,3,1okrsek_moreparties
+545708,1,4200,7,Lobendava,4201,263,2,1okrsek_moreparties
+545716,1,3100,7,Přední Výtoň,3102,191,3,1okrsek_moreparties
+545724,1,3100,11,Přídolí,3102,675,2,1okrsek_moreparties
+545767,1,3100,7,Rožmberk nad Vltavou,3102,373,4,1okrsek_moreparties
+545775,1,3100,9,Rožmitál na Šumavě,3102,446,3,1okrsek_moreparties
+545791,1,4200,7,Merboltice,4201,207,10,1okrsek_moreparties
+545805,1,3100,7,Soběnov,3102,382,9,1okrsek_moreparties
+545864,1,3100,15,Zlatá Koruna,3102,786,3,1okrsek_moreparties
+545872,1,3100,7,Zubčice,3102,439,3,1okrsek_moreparties
+545899,1,4200,7,Františkov nad Ploučnicí,4201,390,2,1okrsek_moreparties
+545902,1,3100,7,Borová Lada,3105,265,3,1okrsek_moreparties
+545953,1,5100,7,Paceřice,5103,362,2,1okrsek_moreparties
+545996,1,5100,9,Černousy,5103,311,2,1okrsek_moreparties
+546020,1,3100,7,Budeč,3103,215,3,1okrsek_moreparties
+546054,1,3100,9,Cizkrajov,3103,513,2,1okrsek_moreparties
+546062,1,4200,5,Pesvice,4202,199,2,1okrsek_moreparties
+546071,1,4200,9,Račetice,4202,414,2,1okrsek_moreparties
+546143,1,3100,11,Dešná,3103,595,2,1okrsek_moreparties
+546151,1,3100,9,Deštná,3103,739,2,1okrsek_moreparties
+546186,1,4200,7,Ryjice,4207,190,3,1okrsek_moreparties
+546216,1,6100,7,Jitkov,6101,238,7,1okrsek_moreparties
+546259,1,5100,9,Kvítkov,5101,230,3,1okrsek_moreparties
+546267,1,5100,9,Tuhaň,5101,278,2,1okrsek_moreparties
+546275,1,5100,7,Slunečná,5101,146,3,1okrsek_moreparties
+546305,1,3100,7,Heřmaneč,3103,89,2,1okrsek_moreparties
+546348,1,4200,7,Srbská Kamenice,4201,260,2,1okrsek_moreparties
+546402,1,3100,9,Hospříz,3103,426,2,1okrsek_moreparties
+546437,1,4200,5,Volevčice,4205,119,2,1okrsek_moreparties
+546445,1,3100,9,Hříšice,3103,335,11,1okrsek_moreparties
+546453,1,4200,7,Kámen,4201,253,2,1okrsek_moreparties
+546488,1,3200,7,Sirá,3206,158,2,1okrsek_moreparties
+546496,1,4200,15,Ludvíkovice,4201,930,2,1okrsek_moreparties
+546518,1,4200,9,Loučná pod Klínovcem,4202,135,3,1okrsek_moreparties
+546534,1,3200,7,Týček,3206,240,13,1okrsek_moreparties
+546577,1,5100,7,Pulečný,5102,476,5,1okrsek_moreparties
+546585,1,5100,7,Jiřetín pod Bukovou,5102,459,2,1okrsek_moreparties
+546593,1,5100,7,Nová Ves,5103,897,3,1okrsek_moreparties
+546607,1,5100,11,Dětřichov,5103,702,2,1okrsek_moreparties
+546623,1,3100,9,Lásenice,3103,556,2,1okrsek_moreparties
+546631,1,5100,9,Bílý Potok,5103,680,6,1okrsek_moreparties
+546674,1,3100,15,Lomnice nad Lužnicí,3103,1780,5,1okrsek_moreparties
+546691,1,4200,7,Lkáň,4203,180,2,1okrsek_moreparties
+546712,1,3100,11,Majdalena,3103,484,3,1okrsek_moreparties
+546721,1,4200,7,Sedlec,4203,218,2,1okrsek_moreparties
+546763,1,4200,7,Horní Řepčice,4203,95,7,1okrsek_moreparties
+546780,1,4200,7,Býčkovice,4203,309,3,1okrsek_moreparties
+546852,1,4200,7,Černěves,4203,228,2,1okrsek_moreparties
+546879,1,4200,9,Líšťany,4204,480,2,1okrsek_moreparties
+546933,1,6100,7,Okřešice,6104,191,7,1okrsek_moreparties
+546984,1,8100,7,Bílov,8104,562,2,1okrsek_moreparties
+547000,1,8100,9,Životice u Nového Jičína,8104,654,5,1okrsek_moreparties
+547018,1,7100,7,Střeň,7102,600,3,1okrsek_moreparties
+547026,1,7100,9,Bystrovany,7102,992,3,1okrsek_moreparties
+547069,1,3100,7,Rapšach,3103,643,2,1okrsek_moreparties
+547077,1,7100,9,Samotišky,7102,1373,2,1okrsek_moreparties
+547131,1,8100,7,Svatoňovice,8105,258,2,1okrsek_moreparties
+547140,1,1100,9,Praha-Lysolaje,1100,1372,3,1okrsek_moreparties
+547204,1,3100,15,Staré Hobzí,3103,515,2,1okrsek_moreparties
+547212,1,3100,9,Staré Město pod Landštejnem,3103,456,3,1okrsek_moreparties
+547328,1,1100,9,Praha-Troja,1100,1410,2,1okrsek_moreparties
+547433,1,7100,9,Vlkoš,7104,682,2,1okrsek_moreparties
+547468,1,3100,7,Zahrádky,3103,252,5,1okrsek_moreparties
+547476,1,5100,9,Paseky nad Jizerou,5104,245,12,1okrsek_moreparties
+547514,1,7100,5,Zábeštní Lhota,7104,176,2,1okrsek_moreparties
+547603,1,6100,9,Bratřice,6103,135,2,1okrsek_moreparties
+547654,1,5200,9,Šestajovice,5203,168,2,1okrsek_moreparties
+547662,1,6100,7,Cetoraz,6103,304,2,1okrsek_moreparties
+547701,1,5200,5,Libchyně,5203,76,2,1okrsek_moreparties
+547735,1,6100,9,Čejov,6103,630,2,1okrsek_moreparties
+547743,1,5200,7,Vernéřovice,5203,318,2,1okrsek_moreparties
+547751,1,5200,9,Bukovice,5203,348,13,1okrsek_moreparties
+547778,1,6100,15,Červená Řečice,6103,1009,3,1okrsek_moreparties
+547786,1,5200,9,Adršpach,5203,468,4,1okrsek_moreparties
+547794,1,5300,7,Hodonín,5301,73,7,1okrsek_moreparties
+547808,1,5300,7,Rozhovice,5301,295,2,1okrsek_moreparties
+547816,1,5300,9,Jeníkov,5301,452,2,1okrsek_moreparties
+547824,1,5300,7,Křižanovice,5301,124,12,1okrsek_moreparties
+547832,1,5300,7,Licibořice,5301,258,11,1okrsek_moreparties
+547841,1,5300,7,Vyžice,5301,216,10,1okrsek_moreparties
+547867,1,5300,7,Bor u Skutče,5301,139,2,1okrsek_moreparties
+547875,1,5300,7,Lipovec,5301,241,3,1okrsek_moreparties
+547883,1,6100,7,Hojanovice,6103,103,2,1okrsek_moreparties
+547905,1,5300,9,Rybník,5304,812,5,1okrsek_moreparties
+547930,1,6100,7,Horní Ves,6103,320,3,1okrsek_moreparties
+547948,1,6100,13,Hořepník,6103,635,17,1okrsek_moreparties
+547956,1,6100,7,Hořice,6103,190,2,1okrsek_moreparties
+548014,1,5300,15,Dlouhá Třebová,5304,1329,3,1okrsek_moreparties
+548031,1,5300,7,Dlouhoňovice,5304,831,8,1okrsek_moreparties
+548049,1,5300,7,Helvíkovice,5304,521,2,1okrsek_moreparties
+548057,1,5200,7,Vrchovnice,5201,66,9,1okrsek_moreparties
+548081,1,6100,9,Jiřice,6103,943,5,1okrsek_moreparties
+548090,1,6100,9,Kaliště,6103,358,11,1okrsek_moreparties
+548120,1,6100,7,Kejžlice,6103,427,12,1okrsek_moreparties
+548146,1,6100,7,Koberovice,6103,157,11,1okrsek_moreparties
+548171,1,6100,9,Košetice,6103,721,14,1okrsek_moreparties
+548197,1,6100,5,Nejepín,6101,83,2,1okrsek_moreparties
+548219,1,6100,7,Křelovice,6103,346,2,1okrsek_moreparties
+548251,1,6100,7,Podmoky,6101,129,2,1okrsek_moreparties
+548260,1,6100,7,Bartoušov,6101,174,8,1okrsek_moreparties
+548278,1,6100,7,Břevnice,6101,152,2,1okrsek_moreparties
+548286,1,6100,7,Knyk,6101,442,16,1okrsek_moreparties
+548316,1,6100,7,Michalovice,6101,220,8,1okrsek_moreparties
+548332,1,6100,15,Lukavec,6103,969,3,1okrsek_moreparties
+548405,1,6100,7,Moraveč,6103,198,9,1okrsek_moreparties
+548413,1,6100,7,Jilem,6101,135,12,1okrsek_moreparties
+548421,1,6100,7,Sedletín,6101,291,11,1okrsek_moreparties
+548430,1,6100,7,Bezděkov,6101,242,2,1okrsek_moreparties
+548472,1,6100,11,Obrataň,6103,788,2,1okrsek_moreparties
+548502,1,6100,9,Onšov,6103,230,2,1okrsek_moreparties
+548529,1,6100,7,Kochánov,6101,181,9,1okrsek_moreparties
+548545,1,6100,7,Píšť,6103,87,9,1okrsek_moreparties
+548570,1,6100,7,Kunemil,6101,111,7,1okrsek_moreparties
+548588,1,6100,7,Okrouhlička,6101,267,14,1okrsek_moreparties
+548642,1,5200,9,Hřibiny-Ledská,5204,366,2,1okrsek_moreparties
+548669,1,5200,7,Rohenice,5204,291,9,1okrsek_moreparties
+548693,1,5200,7,Svídnice,5204,162,9,1okrsek_moreparties
+548715,1,6100,7,Řečice,6103,150,8,1okrsek_moreparties
+548774,1,6100,7,Senožaty,6103,795,3,1okrsek_moreparties
+548791,1,5200,7,Chlístov,5204,80,9,1okrsek_moreparties
+548804,1,5200,9,Lampertice,5205,359,4,1okrsek_moreparties
+548812,1,5200,7,Stanovice,5205,55,2,1okrsek_moreparties
+548847,1,5200,7,Zdobín,5205,134,7,1okrsek_moreparties
+548855,1,5200,7,Bříšťany,5202,245,11,1okrsek_moreparties
+548863,1,5200,7,Milovice u Hořic,5202,297,8,1okrsek_moreparties
+548871,1,5200,7,Petrovičky,5202,51,7,1okrsek_moreparties
+548880,1,5200,7,Sukorady,5202,224,11,1okrsek_moreparties
+548901,1,5200,7,Bílsko u Hořic,5202,124,12,1okrsek_moreparties
+548928,1,5200,7,Kostelec,5202,38,7,1okrsek_moreparties
+548936,1,6100,7,Těmice,6103,385,10,1okrsek_moreparties
+548952,1,5200,5,Budčeves,5202,170,2,1okrsek_moreparties
+548979,1,5200,7,Borek,5202,93,11,1okrsek_moreparties
+548995,1,5200,7,Červená Třemešná,5202,163,8,1okrsek_moreparties
+549011,1,6100,9,Velká Chyška,6103,270,4,1okrsek_moreparties
+549037,1,5200,7,Choteč,5202,212,3,1okrsek_moreparties
+549053,1,6100,9,Veselá,6103,222,10,1okrsek_moreparties
+549061,1,6100,7,Věžná,6103,139,9,1okrsek_moreparties
+549070,1,5200,7,Březina,5202,128,9,1okrsek_moreparties
+549118,1,5200,7,Dílce,5202,63,2,1okrsek_moreparties
+549134,1,6100,7,Vyklantice,6103,142,2,1okrsek_moreparties
+549169,1,5200,7,Kbelnice,5202,221,2,1okrsek_moreparties
+549177,1,6100,7,Zachotín,6103,234,9,1okrsek_moreparties
+549207,1,5200,5,Nevratice,5202,177,2,1okrsek_moreparties
+549215,1,6100,9,Želiv,6103,1145,4,1okrsek_moreparties
+549223,1,5200,5,Chyjice,5202,169,3,1okrsek_moreparties
+549304,1,3100,7,Branice,3104,312,2,1okrsek_moreparties
+549321,1,3100,7,Cerhonice,3104,145,8,1okrsek_moreparties
+549347,1,3100,15,Čížová,3104,1284,2,1okrsek_moreparties
+549355,1,5200,7,Cholenice,5202,223,2,1okrsek_moreparties
+549371,1,3100,7,Dražíč,3101,259,10,1okrsek_moreparties
+549401,1,7200,15,Pozlovice,7204,1250,3,1okrsek_moreparties
+549410,1,3100,7,Hrazany,3104,284,4,1okrsek_moreparties
+549436,1,7200,7,Komárov,7204,315,2,1okrsek_moreparties
+549444,1,7200,7,Oldřichovice,7204,386,2,1okrsek_moreparties
+549461,1,7200,15,Pohořelice,7204,897,3,1okrsek_moreparties
+549479,1,3100,9,Jetětice,3104,348,2,1okrsek_moreparties
+549495,1,3100,9,Kluky,3104,625,4,1okrsek_moreparties
+549525,1,3100,7,Králova Lhota,3104,202,2,1okrsek_moreparties
+549533,1,7200,15,Poteč,7204,751,5,1okrsek_moreparties
+549541,1,3100,9,Kučeř,3104,185,2,1okrsek_moreparties
+549550,1,7200,5,Lhotsko,7204,263,2,1okrsek_moreparties
+549606,1,3100,7,Mišovice,3104,268,2,1okrsek_moreparties
+549622,1,7200,9,Lípa,7204,840,2,1okrsek_moreparties
+549631,1,3100,15,Nadějkov,3107,716,2,1okrsek_moreparties
+549649,1,7200,15,Tečovice,7204,1378,4,1okrsek_moreparties
+549657,1,3100,7,Nevězice,3104,139,4,1okrsek_moreparties
+549720,1,7200,7,Přílepy,7201,993,3,1okrsek_moreparties
+549746,1,6200,15,Předklášteří,6203,1407,2,1okrsek_moreparties
+549789,1,6200,7,Říčky,6203,399,2,1okrsek_moreparties
+549797,1,3100,7,Přeštěnice,3104,276,3,1okrsek_moreparties
+549801,1,3100,9,Putim,3104,547,4,1okrsek_moreparties
+549851,1,3100,9,Skály,3104,300,13,1okrsek_moreparties
+549860,1,3100,9,Slabčice,3104,371,2,1okrsek_moreparties
+549878,1,3100,7,Smetanova Lhota,3104,269,2,1okrsek_moreparties
+549886,1,6100,5,Střítež,6105,101,5,1okrsek_moreparties
+549894,1,6200,7,Skryje,6203,65,2,1okrsek_moreparties
+549908,1,6200,7,Újezd u Tišnova,6203,138,8,1okrsek_moreparties
+549916,1,6100,9,Pikárec,6105,324,3,1okrsek_moreparties
+549924,1,6100,7,Radkov,6105,160,8,1okrsek_moreparties
+549932,1,3100,7,Tálín,3104,164,8,1okrsek_moreparties
+549959,1,6100,7,Ubušínek,6105,92,8,1okrsek_moreparties
+549967,1,7100,7,Hačky,7103,124,4,1okrsek_moreparties
+549983,1,7100,7,Polomí,7103,145,11,1okrsek_moreparties
+549991,1,3100,7,Vráž,3104,314,3,1okrsek_moreparties
+550001,1,3100,5,Vrcovice,3104,179,2,1okrsek_moreparties
+550019,1,6200,7,Vracovice,6207,190,2,1okrsek_moreparties
+550027,1,3100,9,Záhoří,3104,775,3,1okrsek_moreparties
+550035,1,3100,7,Zbelítov,3104,332,11,1okrsek_moreparties
+550060,1,3100,7,Zhoř,3104,310,4,1okrsek_moreparties
+550078,1,6200,7,Přeskače,6207,102,2,1okrsek_moreparties
+550086,1,6200,5,Křídlůvky,6207,248,4,1okrsek_moreparties
+550116,1,3100,7,Bohumilice,3105,332,2,1okrsek_moreparties
+550132,1,6200,9,Olšany,6206,628,4,1okrsek_moreparties
+550141,1,6200,7,Medlovice,6206,376,2,1okrsek_moreparties
+550159,1,3100,9,Bušanovice,3105,261,2,1okrsek_moreparties
+550191,1,6200,7,Uhřice,6206,259,2,1okrsek_moreparties
+550205,1,3100,9,Horní Vltavice,3105,340,2,1okrsek_moreparties
+550213,1,6200,7,Heršpice,6206,875,2,1okrsek_moreparties
+550221,1,3100,9,Hracholusky,3105,497,2,1okrsek_moreparties
+550230,1,3100,15,Husinec,3105,1412,3,1okrsek_moreparties
+550256,1,6200,5,Kašnice,6204,206,5,1okrsek_moreparties
+550264,1,3100,9,Chroboly,3105,583,3,1okrsek_moreparties
+550281,1,6100,7,Hybrálec,6102,493,10,1okrsek_moreparties
+550299,1,6100,7,Smrčná,6102,461,2,1okrsek_moreparties
+550302,1,6100,7,Kuroslepy,6104,156,10,1okrsek_moreparties
+550311,1,6100,5,Třesov,6104,104,6,1okrsek_moreparties
+550329,1,3100,7,Ktiš,3105,468,3,1okrsek_moreparties
+550337,1,3100,7,Kvilda,3105,125,4,1okrsek_moreparties
+550345,1,3100,9,Lažiště,3105,316,3,1okrsek_moreparties
+550370,1,6100,7,Pokojovice,6104,114,8,1okrsek_moreparties
+550388,1,6100,7,Martínkov,6104,244,11,1okrsek_moreparties
+550396,1,3100,7,Němčice,3105,193,7,1okrsek_moreparties
+550400,1,6100,7,Bohušice,6104,136,10,1okrsek_moreparties
+550426,1,3100,9,Mičovice,3105,370,3,1okrsek_moreparties
+550451,1,3100,9,Nová Pec,3105,436,6,1okrsek_moreparties
+550485,1,3100,7,Radhostice,3105,156,2,1okrsek_moreparties
+550523,1,3100,7,Stožec,3105,201,2,1okrsek_moreparties
+550531,1,3100,7,Strážný,3105,391,2,1okrsek_moreparties
+550558,1,3100,9,Svatá Maří,3105,605,6,1okrsek_moreparties
+550566,1,6100,7,Lukov,6104,400,4,1okrsek_moreparties
+550612,1,6100,6,Horní Smrčné,6104,54,8,1okrsek_moreparties
+550639,1,6100,7,Hroznatín,6104,111,11,1okrsek_moreparties
+550663,1,3100,15,Vlachovo Březí,3105,1703,4,1okrsek_moreparties
+550680,1,3100,7,Záblatí,3105,327,4,1okrsek_moreparties
+550701,1,3100,9,Zbytiny,3105,351,2,1okrsek_moreparties
+550710,1,6100,9,Krahulov,6104,277,15,1okrsek_moreparties
+550736,1,7200,7,Hostětín,7202,215,3,1okrsek_moreparties
+550795,1,6200,7,Podbřežice,6206,248,2,1okrsek_moreparties
+550809,1,3100,15,Bavorov,3106,1621,5,1okrsek_moreparties
+550825,1,6200,9,Holubice,6206,1516,5,1okrsek_moreparties
+550965,1,3100,5,Číčenice,3106,455,2,1okrsek_moreparties
+551139,1,3100,7,Chelčice,3106,385,10,1okrsek_moreparties
+551163,1,3100,7,Jinín,3106,225,9,1okrsek_moreparties
+551201,1,3100,13,Katovice,3106,1330,2,1okrsek_moreparties
+551210,1,6200,9,Brno-Kníničky,6202,1059,3,1okrsek_moreparties
+551341,1,3100,7,Litochovice,3106,284,2,1okrsek_moreparties
+551384,1,3100,9,Malenice,3106,696,4,1okrsek_moreparties
+551392,1,3100,7,Mečichov,3106,288,4,1okrsek_moreparties
+551406,1,6200,7,Brno-Jehnice,6202,1039,7,1okrsek_moreparties
+551414,1,3100,7,Miloňovice,3106,261,2,1okrsek_moreparties
+551422,1,6200,7,Brno-Ořešín,6202,591,2,1okrsek_moreparties
+551431,1,6200,7,Brno-Útěchov,6202,827,6,1okrsek_moreparties
+551465,1,2100,5,Košice,2105,55,3,1okrsek_moreparties
+551490,1,3100,7,Branišov,3101,275,2,1okrsek_moreparties
+551503,1,3100,9,Čížkrajice,3101,256,2,1okrsek_moreparties
+551520,1,3100,7,Nihošovice,3106,306,2,1okrsek_moreparties
+551554,1,3100,7,Novosedly,3106,347,10,1okrsek_moreparties
+551562,1,3100,9,Osek,3106,654,8,1okrsek_moreparties
+551589,1,6100,7,Horní Rápotice,6103,172,8,1okrsek_moreparties
+551601,1,3100,9,Turovec,3107,281,2,1okrsek_moreparties
+551619,1,3100,7,Pracejovice,3106,324,2,1okrsek_moreparties
+551686,1,3200,7,Podmokly,3202,137,8,1okrsek_moreparties
+551694,1,8100,9,Velká Štáhle,8101,332,3,1okrsek_moreparties
+551708,1,8100,5,Dlouhá Stráň,8101,93,3,1okrsek_moreparties
+551724,1,8100,7,Mezina,8101,406,2,1okrsek_moreparties
+551732,1,8100,9,Moravskoslezský Kočov,8101,582,3,1okrsek_moreparties
+551741,1,3100,7,Skočice,3106,233,2,1okrsek_moreparties
+551767,1,8100,7,Staré Město,8101,919,2,1okrsek_moreparties
+551813,1,8100,5,Staré Heřminovy,8101,193,3,1okrsek_moreparties
+551830,1,3100,9,Škvořetice,3106,315,3,1okrsek_moreparties
+551848,1,8100,5,Petrovice,8101,141,3,1okrsek_moreparties
+551872,1,8100,5,Hlinka,8101,203,2,1okrsek_moreparties
+551881,1,8100,5,Slezské Pavlovice,8101,190,2,1okrsek_moreparties
+551902,1,8100,7,Malá Štáhle,8101,116,2,1okrsek_moreparties
+551911,1,8100,9,Stará Ves,8101,481,4,1okrsek_moreparties
+551929,1,8100,7,Andělská Hora,8101,395,4,1okrsek_moreparties
+551937,1,3100,7,Uzenice,3106,112,2,1okrsek_moreparties
+551945,1,8100,7,Rudná pod Pradědem,8101,350,2,1okrsek_moreparties
+551988,1,3100,9,Záboří,3106,329,12,1okrsek_moreparties
+551996,1,8100,7,Ludvíkov,8101,282,2,1okrsek_moreparties
+552003,1,8100,7,Čaková,8101,316,3,1okrsek_moreparties
+552011,1,7100,15,Štarnov,7102,846,2,1okrsek_moreparties
+552062,1,7100,7,Bílsko,7102,229,2,1okrsek_moreparties
+552071,1,7100,7,Dubčany,7102,274,2,1okrsek_moreparties
+552089,1,7100,7,Tovéř,7102,627,2,1okrsek_moreparties
+552097,1,3100,9,Borkovice,3107,235,2,1okrsek_moreparties
+552101,1,3100,15,Borotín,3107,696,24,1okrsek_moreparties
+552119,1,7100,9,Věrovany,7102,1405,3,1okrsek_moreparties
+552135,1,3100,7,Březnice,3107,230,7,1okrsek_moreparties
+552151,1,7100,9,Skrbeň,7102,1160,3,1okrsek_moreparties
+552160,1,7100,9,Pňovice,7102,1010,3,1okrsek_moreparties
+552178,1,7100,9,Haňovice,7102,457,2,1okrsek_moreparties
+552186,1,7100,11,Červenka,7102,1445,5,1okrsek_moreparties
+552224,1,3100,7,Dobronice u Bechyně,3107,105,10,1okrsek_moreparties
+552232,1,7100,15,Loučany,7102,638,2,1okrsek_moreparties
+552241,1,3100,15,Dolní Hořice,3107,831,2,1okrsek_moreparties
+552291,1,3100,7,Dražičky,3107,173,2,1okrsek_moreparties
+552305,1,7100,7,Lipina,7102,166,7,1okrsek_moreparties
+552321,1,3100,9,Hlavatce,3107,407,3,1okrsek_moreparties
+552348,1,7100,7,Mladějovice,7102,725,2,1okrsek_moreparties
+552381,1,7100,9,Nová Hradečná,7102,750,3,1okrsek_moreparties
+552402,1,7100,7,Bukovany,7102,650,2,1okrsek_moreparties
+552411,1,7100,9,Přáslavice,7102,1430,4,1okrsek_moreparties
+552445,1,7100,7,Daskabát,7102,608,2,1okrsek_moreparties
+552453,1,3100,7,Chotěmice,3107,116,13,1okrsek_moreparties
+552526,1,8100,7,Nižní Lhoty,8102,303,2,1okrsek_moreparties
+552542,1,8100,9,Dobratice,8102,1322,3,1okrsek_moreparties
+552551,1,8100,9,Staré Město,8102,1473,4,1okrsek_moreparties
+552569,1,8100,7,Staříč,8102,2202,4,1okrsek_moreparties
+552577,1,8100,11,Pstruží,8102,1054,4,1okrsek_moreparties
+552585,1,3100,9,Košice,3107,779,12,1okrsek_moreparties
+552593,1,8100,7,Malenovice,8102,773,5,1okrsek_moreparties
+552607,1,8100,9,Dolní Tošanovice,8102,378,2,1okrsek_moreparties
+552615,1,8100,5,Vělopolí,8102,306,3,1okrsek_moreparties
+552623,1,8100,15,Třanovice,8102,1075,2,1okrsek_moreparties
+552631,1,8100,9,Horní Tošanovice,8102,675,3,1okrsek_moreparties
+552640,1,8100,9,Řeka,8102,560,2,1okrsek_moreparties
+552674,1,8100,9,Střítež,8102,1047,4,1okrsek_moreparties
+552682,1,8100,7,Vyšní Lhoty,8102,860,3,1okrsek_moreparties
+552691,1,8100,15,Žabeň,8102,935,3,1okrsek_moreparties
+552712,1,3100,7,Mlýny,3107,126,11,1okrsek_moreparties
+552721,1,3100,7,Myslkovice,3107,418,9,1okrsek_moreparties
+552747,1,3100,7,Nemyšl,3107,308,4,1okrsek_moreparties
+552755,1,7100,7,Věžky,7104,200,2,1okrsek_moreparties
+552763,1,3100,9,Nová Ves u Chýnova,3107,324,13,1okrsek_moreparties
+552780,1,7100,7,Křtomil,7104,411,2,1okrsek_moreparties
+552798,1,3100,7,Oldřichov,3107,223,9,1okrsek_moreparties
+552810,1,7100,7,Nahošovice,7104,160,9,1okrsek_moreparties
+552844,1,7100,9,Olšovec,7104,507,2,1okrsek_moreparties
+552852,1,3100,9,Pohnání,3107,77,11,1okrsek_moreparties
+552879,1,7100,9,Uhřičice,7104,518,4,1okrsek_moreparties
+552887,1,7100,7,Stříbrnice,7104,245,2,1okrsek_moreparties
+552909,1,7100,15,Měrovice nad Hanou,7104,673,2,1okrsek_moreparties
+552917,1,3100,9,Radenín,3107,502,2,1okrsek_moreparties
+552925,1,3100,7,Radětice,3107,227,9,1okrsek_moreparties
+552941,1,3100,7,Radkov,3107,167,8,1okrsek_moreparties
+552968,1,7100,5,Horní Těšice,7104,152,2,1okrsek_moreparties
+552976,1,3100,7,Rataje,3107,199,10,1okrsek_moreparties
+552992,1,3100,15,Ratibořské Hory,3107,761,2,1okrsek_moreparties
+553000,1,7100,7,Oplocany,7104,340,3,1okrsek_moreparties
+553034,1,3100,7,Řepeč,3107,289,13,1okrsek_moreparties
+553042,1,8100,5,Mladecko,8105,137,2,1okrsek_moreparties
+553051,1,8100,15,Dolní Životice,8105,1026,3,1okrsek_moreparties
+553093,1,8100,9,Hlavnice,8105,656,3,1okrsek_moreparties
+553115,1,8100,7,Lhotka u Litultovic,8105,217,2,1okrsek_moreparties
+553123,1,3100,7,Smilovy Hory,3107,346,4,1okrsek_moreparties
+553158,1,8100,9,Neplachovice,8105,944,10,1okrsek_moreparties
+553174,1,3100,7,Sudoměřice u Tábora,3107,308,18,1okrsek_moreparties
+553204,1,3100,9,Šebířov,3107,334,4,1okrsek_moreparties
+553212,1,7100,7,Janoušov,7105,43,2,1okrsek_moreparties
+553221,1,7100,11,Hrabová,7105,664,3,1okrsek_moreparties
+553247,1,7100,7,Kopřivná,7105,282,2,1okrsek_moreparties
+553255,1,3100,7,Val,3107,257,10,1okrsek_moreparties
+553328,1,3100,9,Vodice,3107,151,12,1okrsek_moreparties
+553336,1,7100,7,Třeština,7105,407,2,1okrsek_moreparties
+553352,1,7100,7,Postřelmůvek,7105,317,2,1okrsek_moreparties
+553361,1,3100,7,Zálší,3107,229,2,1okrsek_moreparties
+553379,1,7100,15,Dolní Studénky,7105,1380,7,1okrsek_moreparties
+553387,1,7100,7,Hraběšice,7105,192,2,1okrsek_moreparties
+553409,1,3100,9,Zvěrotice,3107,404,14,1okrsek_moreparties
+553468,1,7100,9,Velká Kraš,7101,721,5,1okrsek_moreparties
+553476,1,7100,7,Nemile,7105,670,4,1okrsek_moreparties
+553484,1,7100,15,Skorošice,7101,688,3,1okrsek_moreparties
+553492,1,8100,9,Závada,8105,601,2,1okrsek_moreparties
+553506,1,3200,7,Bukovec,3204,124,2,1okrsek_moreparties
+553590,1,3200,9,Nezbavětice,3203,254,12,1okrsek_moreparties
+553611,1,3200,9,Litohlavy,3206,544,2,1okrsek_moreparties
+553620,1,3200,7,Hlohová,3201,284,9,1okrsek_moreparties
+553646,1,4200,7,Dolánky nad Ohří,4203,281,2,1okrsek_moreparties
+553662,1,3200,7,Horní Kamenice,3204,256,12,1okrsek_moreparties
+553719,1,5300,9,Srnojedy,5302,781,2,1okrsek_moreparties
+553735,1,3200,7,Chodov,3201,756,2,1okrsek_moreparties
+553743,1,3200,7,Chodská Lhota,3201,407,9,1okrsek_moreparties
+553751,1,3200,7,Chrastavice,3201,382,2,1okrsek_moreparties
+553760,1,5300,7,Běstovice,5304,431,9,1okrsek_moreparties
+553794,1,3200,15,Klenčí pod Čerchovem,3201,1326,4,1okrsek_moreparties
+553816,1,3200,9,Koloveč,3201,1003,4,1okrsek_moreparties
+553824,1,3200,11,Kout na Šumavě,3201,1095,4,1okrsek_moreparties
+553832,1,3200,7,Křenovy,3201,143,7,1okrsek_moreparties
+553859,1,3200,7,Libkov,3201,118,9,1okrsek_moreparties
+553867,1,3200,7,Loučim,3201,122,11,1okrsek_moreparties
+553875,1,6200,5,Louka,6201,61,6,1okrsek_moreparties
+553905,1,7200,9,Mrlínek,7201,280,2,1okrsek_moreparties
+553921,1,3200,7,Mezholezy,3201,124,2,1okrsek_moreparties
+553930,1,3200,7,Mezholezy,3201,120,2,1okrsek_moreparties
+553956,1,3200,7,Mířkov,3201,304,2,1okrsek_moreparties
+553972,1,6200,7,Rybníček,6206,267,2,1okrsek_moreparties
+553981,1,3200,9,Mrákov,3201,1125,2,1okrsek_moreparties
+553999,1,3200,7,Mutěnín,3201,266,2,1okrsek_moreparties
+554006,1,3200,7,Nemanice,3201,270,2,1okrsek_moreparties
+554022,1,3200,7,Neuměř,3204,140,7,1okrsek_moreparties
+554031,1,3200,7,Nevolice,3201,190,8,1okrsek_moreparties
+554049,1,8100,9,Olbramice,8106,726,3,1okrsek_moreparties
+554057,1,3200,9,Nový Kramolín,3201,229,3,1okrsek_moreparties
+554065,1,8100,7,Jakubčovice nad Odrou,8104,643,2,1okrsek_moreparties
+554073,1,3200,13,Osvračín,3201,648,4,1okrsek_moreparties
+554120,1,3200,11,Pocinovice,3201,591,14,1okrsek_moreparties
+554138,1,3200,11,Postřekov,3201,1094,2,1okrsek_moreparties
+554146,1,7100,7,Vernířovice,7105,202,4,1okrsek_moreparties
+554154,1,3200,7,Puclice,3201,350,5,1okrsek_moreparties
+554162,1,6200,7,Crhov,6201,168,3,1okrsek_moreparties
+554171,1,8100,15,Šenov u Nového Jičína,8104,2059,4,1okrsek_moreparties
+554197,1,8100,9,Branka u Opavy,8105,1073,5,1okrsek_moreparties
+554219,1,8100,15,Nová Bělá,8106,2275,3,1okrsek_moreparties
+554243,1,8100,15,Pustkovec,8106,1356,5,1okrsek_moreparties
+554251,1,3200,7,Spáňov,3201,209,10,1okrsek_moreparties
+554278,1,3200,9,Srby,3201,467,3,1okrsek_moreparties
+554316,1,3200,7,Stráž,3201,213,9,1okrsek_moreparties
+554324,1,8100,15,Lhotka,8106,1388,2,1okrsek_moreparties
+554332,1,8100,9,Hošťálkovice,8106,1768,3,1okrsek_moreparties
+554341,1,3200,7,Tlumačov,3201,419,5,1okrsek_moreparties
+554359,1,3200,7,Trhanov,3201,541,4,1okrsek_moreparties
+554375,1,8100,15,Proskovice,8106,1226,4,1okrsek_moreparties
+554405,1,3200,7,Úsilov,3201,119,2,1okrsek_moreparties
+554421,1,3200,7,Vidice,3201,166,3,1okrsek_moreparties
+554456,1,3200,15,Všeruby,3201,779,4,1okrsek_moreparties
+554502,1,4100,9,Dolní Žandov,4101,1213,2,1okrsek_moreparties
+554511,1,4100,9,Drmoul,4101,1002,4,1okrsek_moreparties
+554545,1,4100,9,Hazlov,4101,1512,5,1okrsek_moreparties
+554570,1,8100,15,Martinov,8106,1164,3,1okrsek_moreparties
+554600,1,4100,9,Lázně Kynžvart,4101,1410,2,1okrsek_moreparties
+554618,1,4100,9,Libá,4101,794,2,1okrsek_moreparties
+554626,1,4100,11,Lipová,4101,708,4,1okrsek_moreparties
+554651,1,4100,7,Milhostov,4101,321,7,1okrsek_moreparties
+554677,1,4100,9,Mnichov,4101,392,2,1okrsek_moreparties
+554693,1,4100,7,Nebanice,4101,349,2,1okrsek_moreparties
+554707,1,4100,7,Nový Kostel,4101,493,3,1okrsek_moreparties
+554715,1,8100,15,Třebovice,8106,1901,4,1okrsek_moreparties
+554723,1,8100,15,Plesná,8106,1537,6,1okrsek_moreparties
+554731,1,3200,11,Plzeň 5-Křimice,3203,2246,2,1okrsek_moreparties
+554740,1,4100,9,Plesná,4101,1904,3,1okrsek_moreparties
+554758,1,3200,11,Plzeň 6-Litice,3203,2152,4,1okrsek_moreparties
+554766,1,3200,9,Plzeň 7-Radčice,3203,1068,5,1okrsek_moreparties
+554774,1,3200,9,Plzeň 8-Černice,3203,1739,5,1okrsek_moreparties
+554812,1,4100,15,Skalná,4101,1905,2,1okrsek_moreparties
+554847,1,5300,7,Mrákotín,5301,341,2,1okrsek_moreparties
+554863,1,5200,9,Dolní Brusnice,5205,394,17,1okrsek_moreparties
+554871,1,6100,7,Střítež,6104,564,2,1okrsek_moreparties
+554880,1,4100,11,Tři Sekery,4101,974,6,1okrsek_moreparties
+554898,1,6200,7,Rostěnice-Zvonovice,6206,543,3,1okrsek_moreparties
+554910,1,8100,9,Vražné,8104,849,4,1okrsek_moreparties
+554936,1,8100,9,Bítov,8104,470,2,1okrsek_moreparties
+554944,1,7100,7,Mrsklesy,7102,693,4,1okrsek_moreparties
+554979,1,4100,9,Abertamy,4102,866,4,1okrsek_moreparties
+554995,1,4100,9,Bečov nad Teplou,4102,918,3,1okrsek_moreparties
+555029,1,4100,15,Bochov,4102,1908,3,1okrsek_moreparties
+555045,1,4100,7,Božičany,4102,603,4,1okrsek_moreparties
+555169,1,4100,7,Horní Blatná,4102,361,2,1okrsek_moreparties
+555185,1,4100,15,Hroznětín,4102,2053,4,1okrsek_moreparties
+555193,1,4200,7,Těchlovice,4201,535,2,1okrsek_moreparties
+555207,1,4100,9,Chyše,4102,588,3,1okrsek_moreparties
+555231,1,6200,9,Suchohrdly,6207,1394,3,1okrsek_moreparties
+555258,1,4100,9,Kolová,4102,824,3,1okrsek_moreparties
+555266,1,6100,9,Nová Ves u Světlé,6101,534,4,1okrsek_moreparties
+555274,1,8100,9,Nové Sedlice,8105,504,2,1okrsek_moreparties
+555282,1,6200,9,Kurdějov,6204,440,5,1okrsek_moreparties
+555291,1,8100,15,Chotěbuz,8103,1358,5,1okrsek_moreparties
+555304,1,4100,9,Krásné Údolí,4102,389,9,1okrsek_moreparties
+555355,1,8100,9,Komárov,8105,1352,2,1okrsek_moreparties
+555363,1,4100,9,Merklín,4102,903,4,1okrsek_moreparties
+555371,1,8100,11,Suché Lazce,8105,1075,2,1okrsek_moreparties
+555401,1,8100,7,Podvihov,8105,752,2,1okrsek_moreparties
+555410,1,8100,7,Zlatníky,8105,364,10,1okrsek_moreparties
+555436,1,8100,7,Milostovice,8105,309,3,1okrsek_moreparties
+555452,1,4100,9,Pernink,4102,596,2,1okrsek_moreparties
+555525,1,4100,9,Pšov,4102,595,4,1okrsek_moreparties
+555550,1,4100,9,Stanovice,4102,610,3,1okrsek_moreparties
+555592,1,4100,7,Stružná,4102,583,2,1okrsek_moreparties
+555614,1,4100,7,Šemnice,4102,659,2,1okrsek_moreparties
+555681,1,4100,9,Útvina,4102,603,9,1okrsek_moreparties
+555690,1,4100,9,Valeč,4102,333,4,1okrsek_moreparties
+555703,1,4100,9,Velichov,4102,498,2,1okrsek_moreparties
+555711,1,4100,7,Verušičky,4102,472,6,1okrsek_moreparties
+556068,1,3200,7,Dlažov,3202,479,2,1okrsek_moreparties
+556084,1,3200,7,Prášily,3202,146,2,1okrsek_moreparties
+556106,1,3200,9,Dolany,3202,974,3,1okrsek_moreparties
+556181,1,3200,15,Hartmanice,3202,929,2,1okrsek_moreparties
+556203,1,3200,9,Hlavňovice,3202,483,8,1okrsek_moreparties
+556343,1,3200,7,Chlistov,3202,145,8,1okrsek_moreparties
+556432,1,3200,15,Kašperské Hory,3202,1375,3,1okrsek_moreparties
+556505,1,3200,7,Křenice,3202,217,2,1okrsek_moreparties
+556700,1,8100,9,Vávrovice,8105,1317,2,1okrsek_moreparties
+556726,1,3200,7,Mokrosuky,3202,137,9,1okrsek_moreparties
+556815,1,3200,7,Nezdice na Šumavě,3202,330,2,1okrsek_moreparties
+556858,1,8100,9,Bravantice,8104,1002,2,1okrsek_moreparties
+556866,1,7200,11,Lhota u Vsetína,7203,790,2,1okrsek_moreparties
+556963,1,6200,9,Spešov,6201,644,4,1okrsek_moreparties
+556971,1,8100,15,Ropice,8102,1683,6,1okrsek_moreparties
+556998,1,7100,9,Jezernice,7104,661,3,1okrsek_moreparties
+557021,1,3200,7,Rejštejn,3202,239,2,1okrsek_moreparties
+557048,1,6200,9,Mouřínov,6206,483,4,1okrsek_moreparties
+557099,1,3200,7,Soběšice,3202,382,4,1okrsek_moreparties
+557102,1,7200,9,Bohuslavice nad Vláří,7204,363,3,1okrsek_moreparties
+557129,1,3200,7,Strašín,3202,315,2,1okrsek_moreparties
+557145,1,7200,7,Lukoveček,7204,466,2,1okrsek_moreparties
+557161,1,3200,9,Svéradice,3202,304,10,1okrsek_moreparties
+557188,1,7200,7,Šelešovice,7201,343,2,1okrsek_moreparties
+557218,1,7100,9,Kobylá nad Vidnavkou,7101,362,6,1okrsek_moreparties
+557226,1,8100,7,Písečná,8102,1047,2,1okrsek_moreparties
+557374,1,3200,7,Velké Hydčice,3202,250,10,1okrsek_moreparties
+557544,1,3200,9,Žichovice,3202,632,2,1okrsek_moreparties
+557731,1,3200,9,Hradec,3204,591,2,1okrsek_moreparties
+557897,1,3200,9,Klášter,3204,234,3,1okrsek_moreparties
+557943,1,3200,7,Kramolín,3204,114,10,1okrsek_moreparties
+557978,1,3200,9,Plzeň 10-Lhota,3203,1660,3,1okrsek_moreparties
+558001,1,3200,9,Losiná,3203,1368,4,1okrsek_moreparties
+558079,1,3200,7,Mohelnice,3204,63,2,1okrsek_moreparties
+558176,1,3200,7,Nové Mitrovice,3204,337,3,1okrsek_moreparties
+558265,1,3200,7,Ptenín,3204,203,8,1okrsek_moreparties
+558401,1,3200,7,Střížovice,3204,384,2,1okrsek_moreparties
+558435,1,3200,11,Štěnovice,3204,2219,7,1okrsek_moreparties
+558443,1,6200,9,Ladná,6204,1225,2,1okrsek_moreparties
+558460,1,3200,15,Tymákov,3203,1046,3,1okrsek_moreparties
+558559,1,3200,7,Vrčeň,3204,338,2,1okrsek_moreparties
+558567,1,3200,9,Vstiš,3204,553,2,1okrsek_moreparties
+558605,1,3200,9,Ždírec,3204,470,2,1okrsek_moreparties
+558656,1,3200,9,Bezvěrov,3205,664,3,1okrsek_moreparties
+558672,1,3200,7,Blatnice,3205,898,2,1okrsek_moreparties
+558699,1,3200,7,Bučí,3205,175,2,1okrsek_moreparties
+558711,1,3200,7,Čeminy,3205,293,2,1okrsek_moreparties
+558745,1,3200,7,Česká Bříza,3205,586,2,1okrsek_moreparties
+558931,1,3200,9,Hvozd,3205,246,2,1okrsek_moreparties
+558940,1,3200,15,Chotíkov,3205,1256,4,1okrsek_moreparties
+558974,1,3200,7,Chříč,3205,225,4,1okrsek_moreparties
+558982,1,3200,7,Jarov,3205,143,10,1okrsek_moreparties
+558991,1,3200,7,Kaceřov,3205,154,10,1okrsek_moreparties
+559016,1,3100,5,Nasavrky,3107,94,10,1okrsek_moreparties
+559041,1,3200,11,Kozojedy,3205,593,3,1okrsek_moreparties
+559067,1,3200,15,Kožlany,3205,1484,2,1okrsek_moreparties
+559091,1,3200,7,Krsy,3205,256,2,1okrsek_moreparties
+559105,1,3200,7,Křelovice,3205,244,2,1okrsek_moreparties
+559130,1,3200,7,Kyšice,3203,1056,3,1okrsek_moreparties
+559148,1,3200,7,Ledce,3205,845,2,1okrsek_moreparties
+559172,1,3200,15,Líšťany,3205,739,2,1okrsek_moreparties
+559199,1,3200,9,Plzeň 9-Malesice,3203,909,4,1okrsek_moreparties
+559237,1,3200,9,Mladotice,3205,600,5,1okrsek_moreparties
+559245,1,3200,5,Mrtník,3205,344,7,1okrsek_moreparties
+559261,1,3200,11,Nečtiny,3205,607,3,1okrsek_moreparties
+559270,1,3200,9,Nekmíř,3205,541,4,1okrsek_moreparties
+559288,1,3200,7,Nevřeň,3205,290,2,1okrsek_moreparties
+559334,1,3200,9,Pernarec,3205,719,2,1okrsek_moreparties
+559369,1,3200,5,Plešnice,3205,275,5,1okrsek_moreparties
+559377,1,3200,9,Pňovany,3205,433,2,1okrsek_moreparties
+559393,1,3200,9,Přehýšov,3205,542,2,1okrsek_moreparties
+559482,1,3200,7,Tis u Blatna,3205,111,2,1okrsek_moreparties
+559504,1,3200,9,Trnová,3205,946,5,1okrsek_moreparties
+559555,1,3200,9,Úlice,3205,438,2,1okrsek_moreparties
+559563,1,3200,9,Úněšov,3205,615,2,1okrsek_moreparties
+559571,1,3200,9,Úterý,3205,466,4,1okrsek_moreparties
+559601,1,3200,9,Vochov,3205,1419,4,1okrsek_moreparties
+559628,1,3200,15,Všeruby,3205,1648,2,1okrsek_moreparties
+559709,1,3200,7,Žilov,3205,448,3,1okrsek_moreparties
+559776,1,3200,9,Dobřív,3206,1314,2,1okrsek_moreparties
+559814,1,3200,11,Holoubkov,3206,1441,3,1okrsek_moreparties
+559849,1,3200,7,Hůrky,3206,224,3,1okrsek_moreparties
+559857,1,3200,7,Cheznovice,3206,727,3,1okrsek_moreparties
+559903,1,3200,7,Kařez,3206,694,2,1okrsek_moreparties
+559962,1,3200,7,Líšná,3206,190,2,1okrsek_moreparties
+560014,1,3200,15,Mýto,3206,1511,2,1okrsek_moreparties
+560081,1,3200,7,Podmokly,3206,245,2,1okrsek_moreparties
+560111,1,3200,7,Přívětice,3206,209,2,1okrsek_moreparties
+560120,1,3200,15,Radnice,3206,1775,4,1okrsek_moreparties
+560146,1,3200,7,Sebečice,3206,71,2,1okrsek_moreparties
+560171,1,3100,5,Budyně,3106,51,7,1okrsek_moreparties
+560189,1,3200,7,Těně,3206,277,2,1okrsek_moreparties
+560201,1,3100,7,Nová Ves,3106,86,2,1okrsek_moreparties
+560227,1,3200,7,Vejvanov,3206,242,2,1okrsek_moreparties
+560235,1,3200,7,Veselá,3206,293,2,1okrsek_moreparties
+560243,1,3100,7,Droužetice,3106,137,10,1okrsek_moreparties
+560251,1,3200,9,Volduchy,3206,1223,3,1okrsek_moreparties
+560278,1,3100,5,Mutěnice,3106,261,2,1okrsek_moreparties
+560308,1,4100,7,Bublava,4103,386,2,1okrsek_moreparties
+560316,1,4100,9,Bukovany,4103,1552,2,1okrsek_moreparties
+560341,1,4100,9,Dolní Nivy,4103,337,3,1okrsek_moreparties
+560375,1,4100,7,Chlum Svaté Maří,4103,297,2,1okrsek_moreparties
+560421,1,4100,7,Kaceřov,4103,424,3,1okrsek_moreparties
+560448,1,3100,7,Běleč,3107,197,2,1okrsek_moreparties
+560456,1,4100,9,Krajková,4103,915,3,1okrsek_moreparties
+560464,1,4100,9,Královské Poříčí,4103,775,4,1okrsek_moreparties
+560481,1,3100,7,Hlasivo,3107,141,8,1okrsek_moreparties
+560502,1,4100,9,Libavské Údolí,4103,518,2,1okrsek_moreparties
+560511,1,3100,7,Řemíčov,3107,98,8,1okrsek_moreparties
+560545,1,4100,13,Lomnice,4103,1367,2,1okrsek_moreparties
+560553,1,3100,7,Pohnánec,3107,59,8,1okrsek_moreparties
+560596,1,4100,7,Přebuz,4103,77,2,1okrsek_moreparties
+560618,1,4100,9,Rovná,4103,301,2,1okrsek_moreparties
+560634,1,3100,9,Krátošice,3107,108,9,1okrsek_moreparties
+560669,1,3100,7,Skrýchov u Malšic,3107,145,8,1okrsek_moreparties
+560677,1,4100,7,Šindelová,4103,308,5,1okrsek_moreparties
+560685,1,4100,11,Vintířov,4103,1208,3,1okrsek_moreparties
+560707,1,4100,9,Vřesová,4103,409,4,1okrsek_moreparties
+560740,1,3200,15,Bezdružice,3207,940,3,1okrsek_moreparties
+560804,1,3200,7,Částkov,3207,333,3,1okrsek_moreparties
+560812,1,3200,15,Černošín,3207,1133,6,1okrsek_moreparties
+560839,1,3200,7,Dlouhý Újezd,3207,392,3,1okrsek_moreparties
+560863,1,3200,9,Halže,3207,967,4,1okrsek_moreparties
+560901,1,3200,15,Chodová Planá,3207,1841,3,1okrsek_moreparties
+560979,1,3200,7,Kšice,3207,226,2,1okrsek_moreparties
+561002,1,3200,7,Lesná,3207,474,4,1okrsek_moreparties
+561011,1,3200,9,Lestkov,3207,376,2,1okrsek_moreparties
+561045,1,3100,7,Smržov,3103,112,3,1okrsek_moreparties
+561053,1,3100,7,Bednáreček,3103,189,2,1okrsek_moreparties
+561070,1,3100,7,Pístina,3103,107,7,1okrsek_moreparties
+561096,1,6100,7,Hojovice,6103,76,2,1okrsek_moreparties
+561100,1,6100,7,Lidmaň,6103,275,3,1okrsek_moreparties
+561126,1,6100,5,Bělá,6103,52,14,1okrsek_moreparties
+561142,1,6100,7,Černov,6103,128,9,1okrsek_moreparties
+561169,1,3200,9,Rozvadov,3207,718,4,1okrsek_moreparties
+561177,1,6100,7,Nová Buková,6103,113,8,1okrsek_moreparties
+561185,1,3200,9,Staré Sedliště,3207,1211,3,1okrsek_moreparties
+561207,1,3200,9,Stráž,3207,1240,3,1okrsek_moreparties
+561223,1,3200,7,Studánka,3207,547,2,1okrsek_moreparties
+561240,1,6100,7,Bořetice,6103,80,8,1okrsek_moreparties
+561274,1,6100,7,Rovná,6103,59,2,1okrsek_moreparties
+561282,1,6100,7,Lhota-Vlasenice,6103,100,7,1okrsek_moreparties
+561291,1,3200,7,Trpísty,3207,257,2,1okrsek_moreparties
+561304,1,3200,7,Třemešné,3207,360,2,1okrsek_moreparties
+561312,1,6100,7,Buřenice,6103,202,10,1okrsek_moreparties
+561321,1,6100,7,Chyšná,6103,101,10,1okrsek_moreparties
+561339,1,6100,7,Chýstovice,6103,42,3,1okrsek_moreparties
+561347,1,6100,7,Martinice u Onšova,6103,55,9,1okrsek_moreparties
+561355,1,6100,7,Těchobuz,6103,73,2,1okrsek_moreparties
+561371,1,6100,7,Krasíkovice,6103,136,7,1okrsek_moreparties
+561398,1,5100,7,Bezděz,5101,342,2,1okrsek_moreparties
+561401,1,5100,5,Blatce,5101,108,2,1okrsek_moreparties
+561410,1,5100,15,Blíževedly,5101,601,2,1okrsek_moreparties
+561428,1,5100,5,Bohatice,5101,233,2,1okrsek_moreparties
+561436,1,6100,7,Polesí,6103,100,8,1okrsek_moreparties
+561487,1,6100,7,Střítež pod Křemešníkem,6103,64,8,1okrsek_moreparties
+561509,1,3100,7,Probulov,3104,66,2,1okrsek_moreparties
+561517,1,3100,7,Přeborov,3104,146,8,1okrsek_moreparties
+561541,1,5100,9,Dubnice,5101,632,2,1okrsek_moreparties
+561568,1,3100,5,Nové Hutě,3105,86,4,1okrsek_moreparties
+561576,1,3100,7,Budkov,3105,93,2,1okrsek_moreparties
+561592,1,5100,7,Horní Libchava,5101,825,3,1okrsek_moreparties
+561649,1,3100,9,Lčovice,3105,136,11,1okrsek_moreparties
+561665,1,5100,9,Jestřebí,5101,828,2,1okrsek_moreparties
+561690,1,3100,5,Hájek,3106,47,7,1okrsek_moreparties
+561738,1,5100,9,Krompach,5101,163,2,1okrsek_moreparties
+561746,1,5100,11,Kunratice u Cvikova,5101,617,3,1okrsek_moreparties
+561754,1,6100,7,Eš,6103,66,9,1okrsek_moreparties
+561762,1,6100,7,Dobrá Voda u Pacova,6103,96,9,1okrsek_moreparties
+561789,1,6100,7,Rodinov,6103,222,12,1okrsek_moreparties
+561797,1,6100,7,Vystrkov,6103,276,10,1okrsek_moreparties
+561801,1,6100,7,Bystrá,6103,127,7,1okrsek_moreparties
+561819,1,6100,7,Mysletín,6103,117,7,1okrsek_moreparties
+561843,1,6100,7,Staré Bříště,6103,74,10,1okrsek_moreparties
+561851,1,5100,7,Noviny pod Ralskem,5101,297,4,1okrsek_moreparties
+561886,1,5100,7,Okna,5101,307,2,1okrsek_moreparties
+561894,1,5100,13,Okrouhlá,5101,572,3,1okrsek_moreparties
+561908,1,6100,7,Žirov,6103,88,11,1okrsek_moreparties
+561916,1,6100,5,Pavlov,6103,126,2,1okrsek_moreparties
+561932,1,6100,7,Dobrá Voda,6103,201,4,1okrsek_moreparties
+561941,1,6100,7,Proseč pod Křemešníkem,6103,83,8,1okrsek_moreparties
+561967,1,6100,9,Olešná,6103,561,3,1okrsek_moreparties
+561983,1,5100,9,Provodín,5101,715,2,1okrsek_moreparties
+561991,1,5100,9,Prysk,5101,438,15,1okrsek_moreparties
+562009,1,6100,7,Rynárec,6103,636,14,1okrsek_moreparties
+562025,1,5100,11,Skalice u České Lípy,5101,1540,6,1okrsek_moreparties
+562033,1,6100,7,Útěchovice pod Stražištěm,6103,101,3,1okrsek_moreparties
+562041,1,6100,7,Lesná,6103,65,9,1okrsek_moreparties
+562050,1,5100,11,Sloup v Čechách,5101,711,2,1okrsek_moreparties
+562068,1,3100,9,Rakovice,3104,213,4,1okrsek_moreparties
+562076,1,5100,15,Sosnová,5101,687,4,1okrsek_moreparties
+562084,1,3100,9,Jickovice,3104,134,11,1okrsek_moreparties
+562114,1,5100,7,Stvolínky,5101,320,2,1okrsek_moreparties
+562131,1,5100,9,Svor,5101,661,3,1okrsek_moreparties
+562157,1,3100,7,Nerestce,3104,110,8,1okrsek_moreparties
+562165,1,3100,9,Zvíkovské Podhradí,3104,201,4,1okrsek_moreparties
+562173,1,5100,9,Velenice,5101,165,2,1okrsek_moreparties
+562181,1,3100,7,Křenovice,3104,174,3,1okrsek_moreparties
+562190,1,3100,7,Olešná,3104,131,2,1okrsek_moreparties
+562203,1,5100,7,Velký Valtinov,5101,194,3,1okrsek_moreparties
+562211,1,3100,7,Varvažov,3104,182,2,1okrsek_moreparties
+562220,1,5100,7,Volfartice,5101,713,2,1okrsek_moreparties
+562246,1,5100,11,Zahrádky,5101,719,6,1okrsek_moreparties
+562254,1,3100,5,Paseky,3104,177,2,1okrsek_moreparties
+562301,1,3100,5,Dolní Novosedly,3104,240,2,1okrsek_moreparties
+562319,1,3100,7,Horní Slatina,3103,134,9,1okrsek_moreparties
+562327,1,3100,7,Třebětice,3103,337,3,1okrsek_moreparties
+562343,1,4200,7,Arnoltice,4201,420,3,1okrsek_moreparties
+562360,1,3100,7,Nová Ves nad Lužnicí,3103,339,2,1okrsek_moreparties
+562378,1,3100,5,Staňkov,3103,200,2,1okrsek_moreparties
+562408,1,4200,9,Dobkovice,4201,648,3,1okrsek_moreparties
+562424,1,3100,5,Županovice,3103,56,2,1okrsek_moreparties
+562432,1,4200,9,Dolní Podluží,4201,1176,4,1okrsek_moreparties
+562459,1,3100,7,Polště,3103,110,8,1okrsek_moreparties
+562467,1,3100,7,Dolní Pěna,3103,405,2,1okrsek_moreparties
+562491,1,3100,7,Kačlehy,3103,108,2,1okrsek_moreparties
+562505,1,4200,9,Horní Podluží,4201,813,3,1okrsek_moreparties
+562530,1,4200,9,Chřibská,4201,1323,6,1okrsek_moreparties
+562556,1,4200,7,Jetřichovice,4201,396,5,1okrsek_moreparties
+562572,1,4200,7,Jiřetín pod Jedlovou,4201,638,3,1okrsek_moreparties
+562629,1,3100,7,Vydří,3103,123,2,1okrsek_moreparties
+562645,1,4200,11,Kytlice,4201,466,3,1okrsek_moreparties
+562653,1,3100,7,Ponědrážka,3103,80,2,1okrsek_moreparties
+562661,1,4200,7,Lipová,4201,579,3,1okrsek_moreparties
+562670,1,3100,7,Ponědraž,3103,120,3,1okrsek_moreparties
+562688,1,3100,5,Klec,3103,166,2,1okrsek_moreparties
+562700,1,4200,7,Malá Veleň,4201,452,2,1okrsek_moreparties
+562718,1,4200,9,Malšovice,4201,968,3,1okrsek_moreparties
+562769,1,3100,7,Jilem,3103,125,10,1okrsek_moreparties
+562785,1,3100,7,Horní Němčice,3103,74,2,1okrsek_moreparties
+562793,1,4200,7,Rybniště,4201,663,2,1okrsek_moreparties
+562831,1,3100,5,Hrachoviště,3103,78,2,1okrsek_moreparties
+562840,1,3100,9,Domanín,3103,399,5,1okrsek_moreparties
+562874,1,4200,7,Valkeřice,4201,394,3,1okrsek_moreparties
+562904,1,3100,7,Hodonice,3107,130,11,1okrsek_moreparties
+562912,1,4200,15,Velký Šenov,4201,1979,9,1okrsek_moreparties
+562921,1,4200,9,Verneřice,4201,1162,4,1okrsek_moreparties
+562939,1,4200,7,Veselé,4201,358,2,1okrsek_moreparties
+562955,1,3100,5,Košín,3107,92,6,1okrsek_moreparties
+562980,1,4200,9,Bílence,4202,235,2,1okrsek_moreparties
+563005,1,4200,9,Boleboř,4202,311,4,1okrsek_moreparties
+563013,1,4200,15,Březno,4202,1436,5,1okrsek_moreparties
+563021,1,4200,9,Černovice,4202,652,2,1okrsek_moreparties
+563030,1,3100,7,Krtov,3107,161,8,1okrsek_moreparties
+563048,1,4200,7,Domašín,4202,194,2,1okrsek_moreparties
+563056,1,4200,7,Droužkovice,4202,821,2,1okrsek_moreparties
+563064,1,4200,9,Hora Svatého Šebestiána,4202,335,3,1okrsek_moreparties
+563072,1,4200,7,Hrušovany,4202,536,4,1okrsek_moreparties
+563111,1,4200,9,Kalek,4202,250,2,1okrsek_moreparties
+563137,1,4200,15,Kovářská,4202,978,5,1okrsek_moreparties
+563145,1,3100,7,Chrbonín,3107,157,9,1okrsek_moreparties
+563170,1,3100,5,Svrabov,3107,53,9,1okrsek_moreparties
+563188,1,4200,7,Libědice,4202,238,2,1okrsek_moreparties
+563196,1,3100,7,Radimovice u Tábora,3107,61,3,1okrsek_moreparties
+563200,1,4200,9,Málkov,4202,946,5,1okrsek_moreparties
+563218,1,4200,9,Mašťov,4202,556,4,1okrsek_moreparties
+563226,1,4200,9,Měděnec,4202,140,3,1okrsek_moreparties
+563234,1,3100,9,Meziříčí,3107,179,2,1okrsek_moreparties
+563242,1,4200,9,Místo,4202,424,3,1okrsek_moreparties
+563251,1,3100,5,Balkova Lhota,3107,151,6,1okrsek_moreparties
+563277,1,4200,9,Otvice,4202,675,2,1okrsek_moreparties
+563285,1,4200,7,Perštejn,4202,1149,8,1okrsek_moreparties
+563323,1,4200,9,Radonice,4202,1185,4,1okrsek_moreparties
+563331,1,4200,7,Rokle,4202,415,3,1okrsek_moreparties
+563340,1,4200,11,Spořice,4202,1521,2,1okrsek_moreparties
+563358,1,4200,9,Strupčice,4202,1087,5,1okrsek_moreparties
+563366,1,3100,7,Bečice,3107,78,9,1okrsek_moreparties
+563374,1,3100,7,Psárov,3107,106,10,1okrsek_moreparties
+563382,1,4200,15,Údlice,4202,1266,4,1okrsek_moreparties
+563412,1,4200,9,Veliká Ves,4202,327,2,1okrsek_moreparties
+563439,1,4200,9,Vilémov,4202,611,4,1okrsek_moreparties
+563447,1,3100,6,Vlčeves,3107,113,10,1okrsek_moreparties
+563455,1,3100,7,Nová Ves u Mladé Vožice,3107,184,12,1okrsek_moreparties
+563463,1,4200,7,Vrskmaň,4202,328,2,1okrsek_moreparties
+563471,1,4200,7,Všehrdy,4202,156,2,1okrsek_moreparties
+563480,1,4200,7,Všestudy,4202,181,3,1okrsek_moreparties
+563498,1,4200,9,Výsluní,4202,276,5,1okrsek_moreparties
+563501,1,4200,9,Vysoká Pec,4202,1120,3,1okrsek_moreparties
+563528,1,5100,7,Albrechtice v Jizerských horách,5102,345,3,1okrsek_moreparties
+563536,1,5100,9,Bedřichov,5102,345,6,1okrsek_moreparties
+563544,1,3100,7,Libějice,3107,122,10,1okrsek_moreparties
+563561,1,5100,9,Držkov,5102,589,2,1okrsek_moreparties
+563587,1,3100,7,Lom,3107,178,7,1okrsek_moreparties
+563595,1,5100,9,Janov nad Nisou,5102,1411,3,1okrsek_moreparties
+563625,1,3100,7,Haškovcova Lhota,3107,69,10,1okrsek_moreparties
+563633,1,5100,9,Josefův Důl,5102,877,3,1okrsek_moreparties
+563676,1,5100,7,Líšný,5102,263,2,1okrsek_moreparties
+563722,1,3100,7,Černýšovice,3107,88,7,1okrsek_moreparties
+563731,1,5100,11,Nová Ves nad Nisou,5102,835,3,1okrsek_moreparties
+563765,1,3100,7,Drahov,3107,156,7,1okrsek_moreparties
+563781,1,5100,9,Rádlo,5102,947,2,1okrsek_moreparties
+563790,1,5100,15,Rychnov u Jablonce nad Nisou,5102,2756,2,1okrsek_moreparties
+563803,1,5100,7,Skuhrov,5102,607,2,1okrsek_moreparties
+563854,1,5100,11,Zásada,5102,890,4,1okrsek_moreparties
+563897,1,3100,7,Žíšov,3107,244,3,1okrsek_moreparties
+563919,1,5100,9,Bílý Kostel nad Nisou,5103,1063,2,1okrsek_moreparties
+563943,1,5100,7,Cetenov,5103,111,7,1okrsek_moreparties
+563951,1,3100,5,Únice,3106,64,2,1okrsek_moreparties
+563978,1,3100,7,Kubova Huť,3105,94,2,1okrsek_moreparties
+563986,1,3100,7,Klenovice,3107,658,4,1okrsek_moreparties
+563994,1,5100,9,Dolní Řasnice,5103,560,4,1okrsek_moreparties
+564036,1,5100,9,Habartice,5103,473,4,1okrsek_moreparties
+564052,1,5100,9,Hlavice,5103,222,10,1okrsek_moreparties
+564087,1,2100,7,Poštovice,2103,213,8,1okrsek_moreparties
+564109,1,5100,15,Chotyně,5103,1036,2,1okrsek_moreparties
+564125,1,2100,7,Plchov,2103,199,2,1okrsek_moreparties
+564133,1,5100,9,Jindřichovice pod Smrkem,5103,631,3,1okrsek_moreparties
+564141,1,5100,7,Kobyly,5103,362,3,1okrsek_moreparties
+564150,1,2100,7,Libochovičky,2103,75,8,1okrsek_moreparties
+564176,1,5100,9,Kryštofovo Údolí,5103,400,2,1okrsek_moreparties
+564214,1,2100,7,Počaply,2111,105,2,1okrsek_moreparties
+564222,1,2100,5,Nestrašovice,2111,60,2,1okrsek_moreparties
+564249,1,2100,9,Chrást,2111,207,17,1okrsek_moreparties
+564257,1,2100,5,Horčápsko,2111,80,2,1okrsek_moreparties
+564273,1,2100,7,Svojšice,2111,109,2,1okrsek_moreparties
+564281,1,5100,7,Oldřichov v Hájích,5103,788,2,1okrsek_moreparties
+564290,1,5100,11,Osečná,5103,1179,2,1okrsek_moreparties
+564303,1,5100,9,Pěnčín,5103,707,2,1okrsek_moreparties
+564311,1,5100,9,Pertoltice,5103,288,2,1okrsek_moreparties
+564338,1,2100,7,Županovice,2111,70,10,1okrsek_moreparties
+564346,1,2100,5,Lazsko,2111,215,2,1okrsek_moreparties
+564354,1,5100,15,Příšovice,5103,1283,2,1okrsek_moreparties
+564389,1,2100,7,Radětice,2111,190,7,1okrsek_moreparties
+564427,1,5100,7,Světlá pod Ještědem,5103,958,3,1okrsek_moreparties
+564435,1,5100,7,Svijanský Újezd,5103,428,4,1okrsek_moreparties
+564443,1,5100,9,Svijany,5103,349,3,1okrsek_moreparties
+564478,1,2100,5,Narysov,2111,276,3,1okrsek_moreparties
+564486,1,2100,11,Podlesí,2111,1099,5,1okrsek_moreparties
+564508,1,2100,7,Dubno,2111,348,2,1okrsek_moreparties
+564524,1,2100,5,Nepomuk,2111,236,2,1okrsek_moreparties
+564583,1,2100,7,Starosedlský Hrádek,2111,136,5,1okrsek_moreparties
+564605,1,2100,7,Hlubyně,2111,140,10,1okrsek_moreparties
+564613,1,4200,9,Brňany,4203,462,3,1okrsek_moreparties
+564621,1,4200,15,Brozany nad Ohří,4203,1287,4,1okrsek_moreparties
+564664,1,2100,5,Bukovany,2111,85,7,1okrsek_moreparties
+564681,1,2100,5,Drahobudice,2104,254,2,1okrsek_moreparties
+564711,1,4200,15,Čížkovice,4203,1475,6,1okrsek_moreparties
+564745,1,4200,9,Dobříň,4203,546,11,1okrsek_moreparties
+564753,1,4200,7,Doksany,4203,436,2,1okrsek_moreparties
+564770,1,4200,7,Drahobuz,4203,284,2,1okrsek_moreparties
+564788,1,2100,7,Prusice,2109,91,2,1okrsek_moreparties
+564800,1,2100,7,Hradešín,2104,551,2,1okrsek_moreparties
+564818,1,4200,7,Dušníky,4203,438,2,1okrsek_moreparties
+564834,1,4200,9,Evaň,4203,289,4,1okrsek_moreparties
+564851,1,4200,15,Horní Beřkovice,4203,955,3,1okrsek_moreparties
+564869,1,2100,7,Březí,2109,619,2,1okrsek_moreparties
+564877,1,4200,15,Hoštka,4203,1751,4,1okrsek_moreparties
+564885,1,2100,7,Doubek,2109,464,8,1okrsek_moreparties
+564907,1,2100,9,Nupaky,2109,1876,4,1okrsek_moreparties
+564915,1,2100,9,Herink,2109,981,2,1okrsek_moreparties
+564931,1,4200,7,Chodovlice,4203,149,2,1okrsek_moreparties
+564982,1,2100,7,Květnice,2109,1860,3,1okrsek_moreparties
+565016,1,4200,7,Keblice,4203,377,2,1okrsek_moreparties
+565024,1,4200,9,Klapý,4203,493,2,1okrsek_moreparties
+565032,1,4200,7,Kleneč,4203,564,2,1okrsek_moreparties
+565041,1,2100,7,Břežany,2112,123,11,1okrsek_moreparties
+565059,1,4200,9,Kostomlaty pod Řípem,4203,434,2,1okrsek_moreparties
+565091,1,4200,9,Kyškovice,4203,281,3,1okrsek_moreparties
+565105,1,4200,5,Levín,4203,143,3,1okrsek_moreparties
+565156,1,4200,7,Libochovany,4203,565,2,1okrsek_moreparties
+565181,1,2100,5,Děkov,2112,221,2,1okrsek_moreparties
+565199,1,2100,7,Kolešov,2112,146,2,1okrsek_moreparties
+565211,1,4200,9,Lovečkovice,4203,584,6,1okrsek_moreparties
+565237,1,4200,7,Lukavec,4203,383,2,1okrsek_moreparties
+565245,1,4200,15,Malé Žernoseky,4203,729,2,1okrsek_moreparties
+565261,1,2100,5,Přílepy,2112,227,9,1okrsek_moreparties
+565270,1,2100,5,Janov,2112,140,7,1okrsek_moreparties
+565300,1,4200,7,Mnetěš,4203,567,2,1okrsek_moreparties
+565334,1,2100,7,Hvozd,2112,167,2,1okrsek_moreparties
+565385,1,2100,5,Kozojedy,2112,96,5,1okrsek_moreparties
+565407,1,2100,7,Smilovice,2112,79,7,1okrsek_moreparties
+565431,1,4200,7,Polepy,4203,1311,2,1okrsek_moreparties
+565466,1,2100,7,Milý,2112,195,4,1okrsek_moreparties
+565491,1,4200,7,Račiněves,4203,611,2,1okrsek_moreparties
+565512,1,2100,5,Václavy,2112,66,2,1okrsek_moreparties
+565539,1,2100,9,Sovínky,2107,323,2,1okrsek_moreparties
+565580,1,2100,7,Plužná,2107,258,2,1okrsek_moreparties
+565601,1,4200,9,Slatina,4203,267,2,1okrsek_moreparties
+565644,1,2100,7,Mečeříž,2107,560,2,1okrsek_moreparties
+565661,1,2100,5,Řitonice,2107,82,2,1okrsek_moreparties
+565679,1,4200,15,Straškov-Vodochody,4203,1068,2,1okrsek_moreparties
+565695,1,4200,9,Sulejovice,4203,686,3,1okrsek_moreparties
+565725,1,2100,7,Veselice,2107,130,7,1okrsek_moreparties
+565733,1,2100,7,Hrušov,2107,239,2,1okrsek_moreparties
+565741,1,4200,9,Travčice,4203,595,2,1okrsek_moreparties
+565784,1,2100,7,Charvatce,2107,347,2,1okrsek_moreparties
+565792,1,4200,9,Třebušín,4203,582,2,1okrsek_moreparties
+565806,1,4200,7,Úpohlavy,4203,270,3,1okrsek_moreparties
+565831,1,4200,11,Vědomice,4203,885,4,1okrsek_moreparties
+565881,1,4200,7,Vražkov,4203,408,3,1okrsek_moreparties
+565890,1,4200,9,Vrbice,4203,548,2,1okrsek_moreparties
+565920,1,2100,7,Sudoměř,2107,104,8,1okrsek_moreparties
+565938,1,4200,7,Žabovřesky nad Ohří,4203,273,2,1okrsek_moreparties
+565946,1,4200,7,Žalhostice,4203,516,5,1okrsek_moreparties
+565997,1,4200,11,Bitozeves,4204,460,3,1okrsek_moreparties
+566004,1,4200,7,Blatno,4204,495,2,1okrsek_moreparties
+566012,1,4200,7,Blažim,4204,293,2,1okrsek_moreparties
+566047,1,2100,7,Košátky,2107,228,3,1okrsek_moreparties
+566055,1,3200,7,Vřeskovice,3202,327,7,1okrsek_moreparties
+566071,1,3200,7,Všekary,3204,105,11,1okrsek_moreparties
+566098,1,3200,7,Černovice,3204,151,2,1okrsek_moreparties
+566101,1,3200,7,Štichov,3204,82,10,1okrsek_moreparties
+566128,1,4200,7,Deštnice,4204,222,3,1okrsek_moreparties
+566161,1,3200,9,Úboč,3201,130,14,1okrsek_moreparties
+566233,1,4200,7,Chlumčany,4204,571,2,1okrsek_moreparties
+566241,1,4200,9,Chožov,4204,527,3,1okrsek_moreparties
+566292,1,3200,7,Mnichov,3201,217,2,1okrsek_moreparties
+566306,1,4200,9,Krásný Dvůr,4204,636,5,1okrsek_moreparties
+566322,1,4200,11,Lenešice,4204,1398,4,1okrsek_moreparties
+566349,1,4200,9,Libčeves,4204,937,4,1okrsek_moreparties
+566365,1,3200,7,Poděvousy,3201,231,9,1okrsek_moreparties
+566381,1,4200,7,Libořice,4204,352,3,1okrsek_moreparties
+566390,1,3200,7,Hlince,3205,73,2,1okrsek_moreparties
+566411,1,4200,7,Lišany,4204,153,2,1okrsek_moreparties
+566489,1,3200,7,Brodeslavy,3205,69,2,1okrsek_moreparties
+566501,1,4200,9,Nepomyšl,4204,421,4,1okrsek_moreparties
+566527,1,4200,9,Očihov,4204,381,4,1okrsek_moreparties
+566535,1,4200,9,Panenský Týnec,4204,439,2,1okrsek_moreparties
+566560,1,4200,9,Petrohrad,4204,645,6,1okrsek_moreparties
+566632,1,3200,7,Černíkovice,3205,89,8,1okrsek_moreparties
+566659,1,4200,9,Raná,4204,247,2,1okrsek_moreparties
+566675,1,4100,7,Vrbice,4102,197,2,1okrsek_moreparties
+566683,1,3200,7,Dražovice,3202,157,2,1okrsek_moreparties
+566691,1,3200,7,Vlčí,3204,78,10,1okrsek_moreparties
+566713,1,4200,7,Slavětín,4204,614,2,1okrsek_moreparties
+566721,1,4200,9,Smolnice,4204,436,19,1okrsek_moreparties
+566756,1,3200,9,Bdeněves,3205,752,2,1okrsek_moreparties
+566781,1,3200,7,Pastuchovice,3205,67,7,1okrsek_moreparties
+566802,1,3200,7,Terešov,3206,176,2,1okrsek_moreparties
+566829,1,4200,5,Toužetín,4204,289,6,1okrsek_moreparties
+566870,1,4200,7,Velemyšleves,4204,350,6,1okrsek_moreparties
+566896,1,4200,7,Veltěže,4204,402,3,1okrsek_moreparties
+566900,1,4200,7,Růžová,4201,583,2,1okrsek_moreparties
+566918,1,4200,7,Vinařice,4204,248,3,1okrsek_moreparties
+566926,1,4200,7,Vrbno nad Lesy,4204,198,2,1okrsek_moreparties
+566969,1,3200,9,Výrov,3205,449,2,1okrsek_moreparties
+566993,1,3200,7,Ostrovec-Lhotka,3206,105,2,1okrsek_moreparties
+567001,1,3200,7,Lhota pod Radčem,3206,310,12,1okrsek_moreparties
+567019,1,4200,7,Žiželice,4204,411,3,1okrsek_moreparties
+567051,1,4200,7,Bělušice,4205,211,3,1okrsek_moreparties
+567060,1,4200,15,Braňany,4205,1200,3,1okrsek_moreparties
+567078,1,4200,7,Brandov,4205,278,2,1okrsek_moreparties
+567086,1,3200,7,Příšov,3205,315,4,1okrsek_moreparties
+567167,1,4200,9,Hora Svaté Kateřiny,4205,439,2,1okrsek_moreparties
+567191,1,4200,7,Klíny,4205,160,3,1okrsek_moreparties
+567221,1,4200,7,Korozluky,4205,229,2,1okrsek_moreparties
+567272,1,4200,9,Louka u Litvínova,4205,699,2,1okrsek_moreparties
+567281,1,4200,7,Lužice,4205,575,3,1okrsek_moreparties
+567299,1,4200,7,Malé Březno,4205,237,2,1okrsek_moreparties
+567302,1,4200,7,Mariánské Radčice,4205,469,3,1okrsek_moreparties
+567329,1,4200,9,Nová Ves v Horách,4205,482,4,1okrsek_moreparties
+567353,1,4200,7,Polerady,4205,226,2,1okrsek_moreparties
+567426,1,4200,9,Želenice,4205,485,3,1okrsek_moreparties
+567469,1,4200,9,Bořislav,4206,398,2,1okrsek_moreparties
+567523,1,4200,9,Háj u Duchcova,4206,1313,3,1okrsek_moreparties
+567531,1,4200,15,Hostomice,4206,1189,3,1okrsek_moreparties
+567566,1,4200,9,Hrobčice,4206,1097,4,1okrsek_moreparties
+567582,1,4200,7,Jeníkov,4206,886,3,1okrsek_moreparties
+567604,1,4200,7,Kladruby,4206,423,7,1okrsek_moreparties
+567655,1,4200,9,Ledvice,4206,531,3,1okrsek_moreparties
+567698,1,4200,7,Měrunice,4206,325,2,1okrsek_moreparties
+567701,1,4200,9,Mikulov,4206,219,14,1okrsek_moreparties
+567710,1,4200,9,Modlany,4206,1077,3,1okrsek_moreparties
+567728,1,4200,9,Moldava,4206,180,4,1okrsek_moreparties
+567809,1,4200,7,Rtyně nad Bílinou,4206,818,2,1okrsek_moreparties
+567833,1,4200,7,Srbice,4206,461,2,1okrsek_moreparties
+567841,1,4200,9,Světec,4206,987,5,1okrsek_moreparties
+567850,1,4200,7,Újezdeček,4206,860,3,1okrsek_moreparties
+567876,1,4200,9,Žalany,4206,520,3,1okrsek_moreparties
+567884,1,4200,7,Žim,4206,222,9,1okrsek_moreparties
+567931,1,4200,7,Dolní Zálezly,4207,569,2,1okrsek_moreparties
+567973,1,4200,7,Homole u Panny,4207,391,3,1okrsek_moreparties
+568058,1,4200,15,Libouchec,4207,1894,4,1okrsek_moreparties
+568180,1,8100,7,Kružberk,8105,238,2,1okrsek_moreparties
+568198,1,8100,7,Staré Těchanovice,8105,133,5,1okrsek_moreparties
+568228,1,8100,15,Darkovice,8105,1358,2,1okrsek_moreparties
+568236,1,8100,15,Děhylov,8105,762,2,1okrsek_moreparties
+568244,1,8100,15,Vřesina,8105,1652,5,1okrsek_moreparties
+568287,1,4200,7,Tašov,4207,126,2,1okrsek_moreparties
+568309,1,4200,9,Tisá,4207,971,4,1okrsek_moreparties
+568317,1,8100,7,Radkov,8105,501,4,1okrsek_moreparties
+568333,1,8100,7,Štáblovice,8105,674,2,1okrsek_moreparties
+568341,1,8100,7,Uhlířov,8105,379,2,1okrsek_moreparties
+568368,1,8100,9,Hlubočec,8105,579,2,1okrsek_moreparties
+568376,1,8100,9,Rohov,8105,615,2,1okrsek_moreparties
+568384,1,4200,7,Zubrnice,4207,231,3,1okrsek_moreparties
+568392,1,7100,15,Doloplazy,7102,1346,4,1okrsek_moreparties
+568422,1,8100,15,Velké Albrechtice,8104,1158,2,1okrsek_moreparties
+568431,1,8100,7,Bordovice,8104,651,3,1okrsek_moreparties
+568449,1,8100,9,Zbyslavice,8106,659,2,1okrsek_moreparties
+568465,1,6100,7,Borek,6101,124,2,1okrsek_moreparties
+568473,1,8100,9,Závišice,8104,1077,4,1okrsek_moreparties
+568481,1,8100,11,Bernartice nad Odrou,8104,988,2,1okrsek_moreparties
+568503,1,6100,11,Česká Bělá,6101,1083,3,1okrsek_moreparties
+568511,1,8100,9,Hostašovice,8104,777,2,1okrsek_moreparties
+568538,1,6100,7,Dlouhá Ves,6101,450,2,1okrsek_moreparties
+568546,1,8100,15,Kunín,8104,1825,2,1okrsek_moreparties
+568554,1,8100,15,Rybí,8104,1243,2,1okrsek_moreparties
+568562,1,8100,7,Heřmanice u Oder,8104,365,3,1okrsek_moreparties
+568589,1,8100,9,Mankovice,8104,554,2,1okrsek_moreparties
+568597,1,6100,9,Dolní Krupá,6101,426,3,1okrsek_moreparties
+568619,1,6100,7,Druhanov,6101,163,11,1okrsek_moreparties
+568643,1,8100,9,Kateřinice,8104,686,2,1okrsek_moreparties
+568660,1,6100,15,Havlíčkova Borová,6101,976,4,1okrsek_moreparties
+568686,1,8100,9,Mošnov,8104,744,2,1okrsek_moreparties
+568694,1,6100,9,Hněvkovice,6101,613,3,1okrsek_moreparties
+568724,1,6100,7,Hradec,6101,256,7,1okrsek_moreparties
+568732,1,8100,9,Ženklava,8104,1130,4,1okrsek_moreparties
+568775,1,8100,9,Pustějov,8104,959,3,1okrsek_moreparties
+568791,1,8100,15,Soběšovice,8102,935,4,1okrsek_moreparties
+568813,1,8100,7,Pražmo,8102,892,4,1okrsek_moreparties
+568821,1,6100,9,Kámen,6101,388,12,1okrsek_moreparties
+568830,1,8100,15,Řepiště,8102,1891,3,1okrsek_moreparties
+568848,1,6100,7,Kamenná Lhota,6101,260,9,1okrsek_moreparties
+568856,1,6100,7,Klokočov,6101,121,11,1okrsek_moreparties
+568881,1,6100,7,Kojetín,6101,162,9,1okrsek_moreparties
+568899,1,6100,9,Kozlov,6101,225,13,1okrsek_moreparties
+568929,1,6100,9,Krásná Hora,6101,511,3,1okrsek_moreparties
+568937,1,6100,7,Krátká Ves,6101,131,6,1okrsek_moreparties
+568961,1,7100,7,Vilémov,7102,433,2,1okrsek_moreparties
+568970,1,6100,7,Kynice,6101,102,13,1okrsek_moreparties
+568996,1,6100,7,Leškovice,6101,89,9,1okrsek_moreparties
+569003,1,7100,9,Liboš,7102,635,2,1okrsek_moreparties
+569020,1,6100,15,Libice nad Doubravou,6101,857,4,1okrsek_moreparties
+569046,1,6100,9,Lipnice nad Sázavou,6101,641,5,1okrsek_moreparties
+569054,1,7100,7,Strukov,7102,163,13,1okrsek_moreparties
+569062,1,6100,9,Lučice,6101,642,2,1okrsek_moreparties
+569071,1,6100,7,Malčín,6101,200,10,1okrsek_moreparties
+569089,1,6100,9,Maleč,6101,637,2,1okrsek_moreparties
+569097,1,8100,7,Moravice,8105,237,13,1okrsek_moreparties
+569101,1,8100,7,Třebom,8105,217,4,1okrsek_moreparties
+569127,1,6100,7,Modlíkov,6101,165,7,1okrsek_moreparties
+569143,1,7100,9,Křenovice,7104,428,2,1okrsek_moreparties
+569151,1,6100,7,Nová Ves u Leštiny,6101,120,7,1okrsek_moreparties
+569160,1,6100,9,Nová Ves u Chotěboře,6101,531,2,1okrsek_moreparties
+569178,1,7100,7,Bohuslávky,7104,317,2,1okrsek_moreparties
+569241,1,6100,5,Pavlov,6101,130,8,1okrsek_moreparties
+569305,1,7100,9,Chromeč,7105,562,2,1okrsek_moreparties
+569330,1,7100,7,Ostružná,7101,171,3,1okrsek_moreparties
+569348,1,6100,7,Příseka,6101,436,2,1okrsek_moreparties
+569381,1,7100,7,Mírov,7105,345,3,1okrsek_moreparties
+569399,1,6100,9,Rozsochatec,6101,518,2,1okrsek_moreparties
+569402,1,6100,7,Rušinov,6101,163,7,1okrsek_moreparties
+569411,1,6100,7,Rybníček,6101,68,7,1okrsek_moreparties
+569429,1,6100,9,Sázavka,6101,321,2,1okrsek_moreparties
+569437,1,7100,9,Bratrušov,7105,630,7,1okrsek_moreparties
+569453,1,7100,7,Velké Kunětice,7101,520,2,1okrsek_moreparties
+569470,1,6100,7,Skuhrov,6101,294,11,1okrsek_moreparties
+569496,1,7200,5,Podolí,7203,271,2,1okrsek_moreparties
+569500,1,8100,11,Horní Lhota,8106,850,4,1okrsek_moreparties
+569518,1,6100,9,Sobíňov,6101,721,3,1okrsek_moreparties
+569542,1,7100,9,Horní Újezd,7104,426,3,1okrsek_moreparties
+569551,1,8100,9,Nové Heřminovy,8101,355,5,1okrsek_moreparties
+569577,1,8100,9,Oborná,8101,437,3,1okrsek_moreparties
+569615,1,6100,7,Tis,6101,375,12,1okrsek_moreparties
+569623,1,6100,9,Trpišovice,6101,177,2,1okrsek_moreparties
+569631,1,8100,15,Sviadnov,8102,2178,4,1okrsek_moreparties
+569658,1,6100,11,Úsobí,6101,694,2,1okrsek_moreparties
+569666,1,8100,9,Hladké Životice,8104,1004,4,1okrsek_moreparties
+569704,1,6100,9,Věžnice,6101,430,3,1okrsek_moreparties
+569721,1,6100,9,Vilémovice,6101,261,12,1okrsek_moreparties
+569771,1,7100,7,Suchonice,7102,172,2,1okrsek_moreparties
+569798,1,7100,9,Horní Loděnice,7102,344,3,1okrsek_moreparties
+569801,1,6100,9,Žižkovo Pole,6101,391,3,1okrsek_moreparties
+569828,1,5200,7,Babice,5201,184,2,1okrsek_moreparties
+569836,1,5200,7,Barchov,5201,293,7,1okrsek_moreparties
+569844,1,7100,7,Lužice,7102,399,2,1okrsek_moreparties
+569879,1,5200,9,Blešno,5201,439,15,1okrsek_moreparties
+569909,1,8100,7,Chvalíkovice,8105,698,3,1okrsek_moreparties
+569925,1,5200,11,Černožice,5201,1092,3,1okrsek_moreparties
+569941,1,5200,7,Divec,5201,252,2,1okrsek_moreparties
+569950,1,8100,7,Čermná ve Slezsku,8105,381,4,1okrsek_moreparties
+569968,1,5200,7,Dobřenice,5201,566,2,1okrsek_moreparties
+569992,1,5200,7,Habřina,5201,317,3,1okrsek_moreparties
+570001,1,5200,9,Hlušice,5201,709,2,1okrsek_moreparties
+570010,1,5200,7,Hněvčeves,5201,167,3,1okrsek_moreparties
+570028,1,5200,11,Holohlavy,5201,911,2,1okrsek_moreparties
+570036,1,8100,11,Větřkovice,8105,755,2,1okrsek_moreparties
+570052,1,5200,7,Hrádek,5201,175,10,1okrsek_moreparties
+570079,1,7100,15,Týn nad Bečvou,7104,814,2,1okrsek_moreparties
+570087,1,5200,7,Humburky,5201,404,6,1okrsek_moreparties
+570095,1,7100,7,Vyšehoří,7105,262,7,1okrsek_moreparties
+570133,1,5200,7,Jeníkovice,5201,481,8,1okrsek_moreparties
+570184,1,5200,9,Kosičky,5201,343,3,1okrsek_moreparties
+570214,1,5200,9,Kunčice,5201,385,2,1okrsek_moreparties
+570222,1,5200,7,Lejšovka,5201,231,11,1okrsek_moreparties
+570231,1,5200,9,Lhota pod Libčany,5201,973,2,1okrsek_moreparties
+570257,1,5200,7,Libníkovice,5201,169,2,1okrsek_moreparties
+570265,1,5200,7,Librantice,5201,596,2,1okrsek_moreparties
+570273,1,5200,7,Libřice,5201,303,2,1okrsek_moreparties
+570290,1,5200,7,Lišice,5201,161,10,1okrsek_moreparties
+570303,1,5200,7,Lodín,5201,429,10,1okrsek_moreparties
+570311,1,5200,9,Lochenice,5201,607,11,1okrsek_moreparties
+570320,1,5200,9,Lovčice,5201,718,12,1okrsek_moreparties
+570338,1,7100,7,Zborov,7105,225,2,1okrsek_moreparties
+570354,1,5200,5,Lužany,5201,122,2,1okrsek_moreparties
+570371,1,7200,9,Ústí,7203,620,11,1okrsek_moreparties
+570401,1,5200,7,Mlékosrby,5201,228,8,1okrsek_moreparties
+570435,1,5200,7,Mžany,5201,412,3,1okrsek_moreparties
+570443,1,5200,9,Neděliště,5201,376,3,1okrsek_moreparties
+570494,1,5200,7,Nové Město,5201,388,2,1okrsek_moreparties
+570516,1,5200,7,Ohnišťany,5201,337,10,1okrsek_moreparties
+570524,1,5200,7,Olešnice,5201,380,2,1okrsek_moreparties
+570541,1,5200,5,Osičky,5201,154,6,1okrsek_moreparties
+570575,1,5200,7,Písek,5201,271,11,1okrsek_moreparties
+570648,1,5200,9,Prasek,5201,607,3,1okrsek_moreparties
+570672,1,5200,15,Předměřice nad Labem,5201,1841,2,1okrsek_moreparties
+570681,1,5200,7,Převýšov,5201,341,3,1okrsek_moreparties
+570702,1,5200,7,Račice nad Trotinou,5201,158,8,1okrsek_moreparties
+570711,1,5200,7,Radíkovice,5201,190,7,1okrsek_moreparties
+570745,1,5200,9,Roudnice,5201,696,11,1okrsek_moreparties
+570753,1,2100,5,Prodašice,2107,91,2,1okrsek_moreparties
+570761,1,2100,7,Ujkovice,2107,110,9,1okrsek_moreparties
+570770,1,2100,7,Loukov,2107,197,8,1okrsek_moreparties
+570788,1,2100,11,Bradlec,2107,1304,2,1okrsek_moreparties
+570800,1,5200,7,Skalice,5201,654,2,1okrsek_moreparties
+570818,1,2100,7,Dalovice,2107,256,3,1okrsek_moreparties
+570834,1,5200,9,Skřivany,5201,1118,3,1okrsek_moreparties
+570885,1,5200,9,Smržov,5201,506,4,1okrsek_moreparties
+570893,1,2100,7,Obrubce,2107,233,9,1okrsek_moreparties
+570907,1,5200,7,Sovětice,5201,234,7,1okrsek_moreparties
+570915,1,5200,7,Stará Voda,5201,141,9,1okrsek_moreparties
+570940,1,2100,9,Dolní Stakory,2107,325,2,1okrsek_moreparties
+570982,1,2100,7,Tuřice,2107,417,2,1okrsek_moreparties
+571016,1,5200,7,Šaplava,5201,118,8,1okrsek_moreparties
+571024,1,5200,7,Těchlovice,5201,358,10,1okrsek_moreparties
+571067,1,2100,7,Doubravička,2107,151,15,1okrsek_moreparties
+571105,1,5200,7,Výrava,5201,412,2,1okrsek_moreparties
+571130,1,5200,5,Zachrašťany,5201,230,2,1okrsek_moreparties
+571148,1,2100,5,Rokytovec,2107,161,2,1okrsek_moreparties
+571181,1,5300,11,Běstvina,5301,550,2,1okrsek_moreparties
+571199,1,2100,7,Bratřínov,2110,198,2,1okrsek_moreparties
+571202,1,5300,9,Bojanov,5301,644,4,1okrsek_moreparties
+571237,1,5300,7,Bousov,5301,215,2,1okrsek_moreparties
+571253,1,5300,7,Ctětín,5301,247,4,1okrsek_moreparties
+571261,1,2100,9,Kytín,2110,554,3,1okrsek_moreparties
+571288,1,2100,7,Zahořany,2110,328,2,1okrsek_moreparties
+571296,1,5300,7,České Lhotice,5301,110,9,1okrsek_moreparties
+571300,1,5300,7,Dědová,5301,136,2,1okrsek_moreparties
+571334,1,2100,5,Okoř,2110,104,2,1okrsek_moreparties
+571351,1,2100,9,Úholičky,2110,811,2,1okrsek_moreparties
+571407,1,5300,9,Hluboká,5301,193,12,1okrsek_moreparties
+571423,1,2100,7,Zichovec,2103,196,10,1okrsek_moreparties
+571431,1,2100,7,Vrbičany,2103,205,2,1okrsek_moreparties
+571440,1,5300,9,Holetín,5301,797,3,1okrsek_moreparties
+571474,1,5300,9,Horní Bradlo,5301,426,3,1okrsek_moreparties
+571482,1,5300,7,Hošťalovice,5301,146,9,1okrsek_moreparties
+571504,1,5300,7,Hroubovice,5301,342,2,1okrsek_moreparties
+571512,1,2100,5,Kutrovice,2103,108,2,1okrsek_moreparties
+571580,1,5300,7,Kladno,5301,245,2,1okrsek_moreparties
+571598,1,2100,5,Zájezd,2103,124,5,1okrsek_moreparties
+571601,1,2100,7,Libovice,2103,377,8,1okrsek_moreparties
+571610,1,5300,7,Kočí,5301,694,2,1okrsek_moreparties
+571652,1,5300,7,Krásné,5301,147,10,1okrsek_moreparties
+571687,1,2100,7,Klášterní Skalice,2104,132,10,1okrsek_moreparties
+571709,1,5300,5,Leštinka,5301,163,10,1okrsek_moreparties
+571717,1,2100,7,Kšely,2104,219,2,1okrsek_moreparties
+571725,1,5300,7,Libkov,5301,81,11,1okrsek_moreparties
+571733,1,5300,7,Liboměřice,5301,157,12,1okrsek_moreparties
+571750,1,5300,7,Lozice,5301,159,2,1okrsek_moreparties
+571768,1,5300,11,Lukavice,5301,884,2,1okrsek_moreparties
+571784,1,2100,15,Libiš,2106,2333,8,1okrsek_moreparties
+571792,1,2100,7,Kozomín,2106,469,2,1okrsek_moreparties
+571806,1,2100,7,Nová Ves u Bakova,2107,293,2,1okrsek_moreparties
+571814,1,2100,9,Zdětín,2107,622,2,1okrsek_moreparties
+571822,1,5300,7,Míčov-Sušice,5301,257,2,1okrsek_moreparties
+571865,1,2100,7,Mukařov,2107,211,7,1okrsek_moreparties
+571911,1,5300,15,Nasavrky,5301,1674,5,1okrsek_moreparties
+571920,1,5300,9,Nové Hrady,5304,296,13,1okrsek_moreparties
+571946,1,2100,9,Branžež,2107,232,10,1okrsek_moreparties
+571954,1,2100,7,Sudovo Hlavno,2109,517,3,1okrsek_moreparties
+571997,1,2100,5,Neveklovice,2107,71,7,1okrsek_moreparties
+572004,1,5300,9,Perálec,5301,243,14,1okrsek_moreparties
+572021,1,2100,7,Vrátno,2107,159,2,1okrsek_moreparties
+572039,1,5300,7,Podhořany u Ronova,5301,249,14,1okrsek_moreparties
+572047,1,5200,7,Kyje,5202,74,2,1okrsek_moreparties
+572071,1,5300,11,Prachovice,5301,1404,3,1okrsek_moreparties
+572098,1,5300,9,Prosetín,5301,805,4,1okrsek_moreparties
+572101,1,5300,9,Předhradí,5301,399,2,1okrsek_moreparties
+572110,1,5300,6,Přestavlky,5301,203,11,1okrsek_moreparties
+572136,1,5200,7,Kozojedy,5202,167,10,1okrsek_moreparties
+572144,1,5200,5,Sekeřice,5202,120,6,1okrsek_moreparties
+572217,1,5300,9,Řestoky,5301,473,2,1okrsek_moreparties
+572250,1,5300,7,Březinky,5303,124,10,1okrsek_moreparties
+572276,1,5300,15,Sobětuchy,5301,996,3,1okrsek_moreparties
+572292,1,5300,7,Vrážné,5303,60,7,1okrsek_moreparties
+572306,1,5300,7,Stradouň,5304,181,8,1okrsek_moreparties
+572314,1,5300,7,Střemošice,5301,168,11,1okrsek_moreparties
+572322,1,5300,9,Studnice,5301,458,2,1okrsek_moreparties
+572349,1,5300,9,Svratouch,5301,891,4,1okrsek_moreparties
+572357,1,5300,9,Desná,5303,371,16,1okrsek_moreparties
+572365,1,5300,9,Horní Újezd,5303,392,2,1okrsek_moreparties
+572373,1,5300,9,Poříčí u Litomyšle,5303,517,14,1okrsek_moreparties
+572381,1,5300,7,Tisovec,5301,342,2,1okrsek_moreparties
+572390,1,5300,7,Trhová Kamenice,5301,956,2,1okrsek_moreparties
+572420,1,5300,9,Tuněchody,5301,604,2,1okrsek_moreparties
+572438,1,5300,5,Nová Ves u Jarošova,5303,67,6,1okrsek_moreparties
+572454,1,5300,7,Vápenný Podol,5301,330,16,1okrsek_moreparties
+572471,1,5300,7,Vejvanovice,5301,315,2,1okrsek_moreparties
+572497,1,5300,9,Vítanov,5301,448,2,1okrsek_moreparties
+572501,1,5300,9,Vojtěchov,5301,396,2,1okrsek_moreparties
+572527,1,5300,7,Vortová,5301,226,2,1okrsek_moreparties
+572535,1,5300,7,Vrbatův Kostelec,5301,370,2,1okrsek_moreparties
+572560,1,5300,7,Banín,5303,308,3,1okrsek_moreparties
+572578,1,5300,15,Zaječice,5301,1024,2,1okrsek_moreparties
+572594,1,5300,7,Kukle,5303,84,2,1okrsek_moreparties
+572616,1,5300,7,Tržek,5303,159,10,1okrsek_moreparties
+572624,1,5300,7,Útěchov,5303,344,3,1okrsek_moreparties
+572667,1,5200,7,Bašnice,5202,209,8,1okrsek_moreparties
+572675,1,5200,9,Běchary,5202,263,13,1okrsek_moreparties
+572683,1,5300,7,Dětřichov u Moravské Třebové,5303,188,11,1okrsek_moreparties
+572691,1,5300,15,Hradec nad Svitavou,5303,1669,3,1okrsek_moreparties
+572705,1,5200,9,Boháňka,5202,264,2,1okrsek_moreparties
+572713,1,5300,9,Javorník,5303,412,4,1okrsek_moreparties
+572721,1,5300,9,Opatovec,5303,729,2,1okrsek_moreparties
+572730,1,5300,7,Chmelík,5303,181,10,1okrsek_moreparties
+572772,1,5200,7,Bystřice,5202,343,11,1okrsek_moreparties
+572799,1,5300,7,Časy,5302,233,10,1okrsek_moreparties
+572802,1,5300,5,Malé Výkleky,5302,142,2,1okrsek_moreparties
+572837,1,5200,9,Dobrá Voda u Hořic,5202,583,2,1okrsek_moreparties
+572853,1,5300,5,Pravy,5302,108,2,1okrsek_moreparties
+572870,1,5300,9,Němčice,5302,778,3,1okrsek_moreparties
+572888,1,5300,7,Újezd u Sezemic,5302,220,3,1okrsek_moreparties
+572918,1,5200,9,Holovousy,5202,534,2,1okrsek_moreparties
+572934,1,5300,7,Stéblová,5302,271,10,1okrsek_moreparties
+572951,1,5300,7,Podůlšany,5302,160,9,1okrsek_moreparties
+572969,1,5200,9,Chomutice,5202,591,3,1okrsek_moreparties
+572977,1,5300,7,Dubany,5302,304,9,1okrsek_moreparties
+572985,1,5300,5,Třebosice,5302,243,8,1okrsek_moreparties
+572993,1,5200,9,Jeřice,5202,409,2,1okrsek_moreparties
+573001,1,5200,7,Jičíněves,5202,619,2,1okrsek_moreparties
+573027,1,5300,7,Sovolusky,5302,129,10,1okrsek_moreparties
+573043,1,5200,5,Kněžnice,5202,268,2,1okrsek_moreparties
+573051,1,5200,7,Konecchlumí,5202,411,13,1okrsek_moreparties
+573086,1,5200,7,Lískovice,5202,220,2,1okrsek_moreparties
+573132,1,5200,7,Starý Bydžov,5201,431,4,1okrsek_moreparties
+573141,1,5200,9,Lukavec u Hořic,5202,313,3,1okrsek_moreparties
+573159,1,5200,9,Lužany,5202,590,14,1okrsek_moreparties
+573167,1,5200,9,Markvartice,5202,503,2,1okrsek_moreparties
+573175,1,5200,11,Miletín,5202,933,2,1okrsek_moreparties
+573183,1,5200,7,Zelenecká Lhota,5202,163,10,1okrsek_moreparties
+573221,1,5200,7,Rohoznice,5202,311,9,1okrsek_moreparties
+573230,1,5200,7,Nemyčeves,5202,353,3,1okrsek_moreparties
+573256,1,5200,7,Šárovcova Lhota,5202,204,10,1okrsek_moreparties
+573281,1,5200,7,Ostružno,5202,96,8,1okrsek_moreparties
+573299,1,5200,15,Pecka,5202,1292,2,1okrsek_moreparties
+573302,1,5200,7,Svatojanský Újezd,5202,104,8,1okrsek_moreparties
+573311,1,5200,9,Podhorní Újezd a Vojice,5202,645,3,1okrsek_moreparties
+573337,1,5200,7,Dřevěnice,5202,266,7,1okrsek_moreparties
+573345,1,5200,7,Podůlší,5202,252,9,1okrsek_moreparties
+573370,1,5200,5,Radim,5202,444,2,1okrsek_moreparties
+573388,1,5200,7,Litoboř,5203,104,8,1okrsek_moreparties
+573418,1,5100,9,Martinice v Krkonoších,5104,619,3,1okrsek_moreparties
+573426,1,5300,5,Anenská Studánka,5304,170,2,1okrsek_moreparties
+573434,1,7200,7,Lhota,7204,903,2,1okrsek_moreparties
+573442,1,5200,7,Samšina,5202,255,13,1okrsek_moreparties
+573451,1,5200,7,Sběř,5202,316,2,1okrsek_moreparties
+573485,1,6100,7,Lesůňky,6104,79,9,1okrsek_moreparties
+573515,1,5300,6,Kunětice,5302,357,7,1okrsek_moreparties
+573531,1,5200,9,Puchlovice,5201,107,9,1okrsek_moreparties
+573540,1,5200,9,Střevač,5202,280,6,1okrsek_moreparties
+573558,1,6100,7,Boňkov,6101,75,2,1okrsek_moreparties
+573566,1,6100,7,Bělá,6101,218,9,1okrsek_moreparties
+573574,1,6100,7,Chřenovice,6101,150,8,1okrsek_moreparties
+573582,1,6100,7,Víska,6101,179,2,1okrsek_moreparties
+573591,1,6100,7,Pohleď,6101,68,7,1okrsek_moreparties
+573604,1,6100,7,Služátky,6101,150,2,1okrsek_moreparties
+573612,1,5200,9,Třebnouševes,5202,279,2,1okrsek_moreparties
+573621,1,5200,7,Hvozdnice,5201,261,3,1okrsek_moreparties
+573639,1,5200,7,Třtěnice,5202,345,9,1okrsek_moreparties
+573710,1,5200,7,Kobylice,5201,268,7,1okrsek_moreparties
+573736,1,5200,7,Vidochov,5202,352,8,1okrsek_moreparties
+573744,1,5200,7,Zdechovice,5201,164,10,1okrsek_moreparties
+573752,1,5200,7,Vitiněves,5202,339,8,1okrsek_moreparties
+573787,1,5300,7,Klešice,5301,402,3,1okrsek_moreparties
+573795,1,5200,9,Vršce,5202,230,2,1okrsek_moreparties
+573833,1,5200,7,Žeretice,5202,250,2,1okrsek_moreparties
+573841,1,5200,7,Židovice,5202,111,13,1okrsek_moreparties
+573850,1,5200,5,Žlunice,5202,226,7,1okrsek_moreparties
+573876,1,5300,9,Zderaz,5301,277,23,1okrsek_moreparties
+573892,1,5200,11,Bohuslavice,5203,1011,4,1okrsek_moreparties
+573914,1,5200,9,Božanov,5203,367,3,1okrsek_moreparties
+573931,1,5200,7,Brzice,5203,233,11,1okrsek_moreparties
+573949,1,5300,7,Biskupice,5301,82,2,1okrsek_moreparties
+573957,1,5200,9,Černčice,5203,482,2,1okrsek_moreparties
+574023,1,5200,7,Dolní Radechová,5203,747,2,1okrsek_moreparties
+574058,1,5200,5,Heřmánkovice,5203,472,3,1okrsek_moreparties
+574066,1,5200,7,Horní Radechová,5203,522,2,1okrsek_moreparties
+574074,1,5200,9,Hořičky,5203,573,2,1okrsek_moreparties
+574091,1,5300,7,Žlebské Chvalovice,5301,137,9,1okrsek_moreparties
+574112,1,5200,9,Chvalkovice,5203,792,2,1okrsek_moreparties
+574139,1,5200,15,Jasenná,5203,740,3,1okrsek_moreparties
+574171,1,5200,7,Křinice,5203,427,4,1okrsek_moreparties
+574198,1,5300,9,Spojil,5302,527,2,1okrsek_moreparties
+574228,1,5200,7,Martínkovice,5203,511,2,1okrsek_moreparties
+574244,1,5200,7,Mezilesí,5203,251,9,1okrsek_moreparties
+574287,1,5200,11,Nový Hrádek,5203,853,3,1okrsek_moreparties
+574295,1,5200,7,Nový Ples,5203,349,2,1okrsek_moreparties
+574317,1,5200,7,Otovice,5203,339,3,1okrsek_moreparties
+574325,1,5300,7,Gruna,5303,240,7,1okrsek_moreparties
+574333,1,5300,7,Radkov,5303,117,2,1okrsek_moreparties
+574350,1,5200,15,Provodov-Šonov,5203,1199,2,1okrsek_moreparties
+574376,1,5200,7,Rasošky,5203,720,3,1okrsek_moreparties
+574392,1,5300,9,Sázava,5304,562,2,1okrsek_moreparties
+574422,1,5200,7,Slatina nad Úpou,5203,311,12,1okrsek_moreparties
+574431,1,5200,7,Slavětín nad Metují,5203,259,10,1okrsek_moreparties
+574449,1,5300,6,Kosořín,5304,185,6,1okrsek_moreparties
+574465,1,5200,7,Stárkov,5203,645,2,1okrsek_moreparties
+574490,1,5200,9,Suchý Důl,5203,399,10,1okrsek_moreparties
+574511,1,5200,5,Šonov,5203,290,3,1okrsek_moreparties
+574562,1,5200,9,Velká Jesenice,5203,734,3,1okrsek_moreparties
+574571,1,5200,9,Velké Petrovice,5203,414,10,1okrsek_moreparties
+574589,1,5200,9,Velký Třebešov,5203,311,2,1okrsek_moreparties
+574597,1,5200,7,Vilantice,5205,208,2,1okrsek_moreparties
+574601,1,5200,7,Vlkov,5203,391,2,1okrsek_moreparties
+574627,1,5200,5,Vršovka,5203,145,12,1okrsek_moreparties
+574651,1,5200,7,Zábrodí,5203,570,2,1okrsek_moreparties
+574686,1,5200,9,Žďár nad Metují,5203,663,18,1okrsek_moreparties
+574694,1,5200,7,Žďárky,5203,574,2,1okrsek_moreparties
+574783,1,5300,7,Borek,5302,286,9,1okrsek_moreparties
+574791,1,5300,7,Brloh,5302,219,9,1okrsek_moreparties
+574805,1,5300,9,Břehy,5302,1090,3,1okrsek_moreparties
+574830,1,5300,7,Bukovka,5302,398,2,1okrsek_moreparties
+574902,1,5300,7,Dolany,5302,405,2,1okrsek_moreparties
+574929,1,5300,7,Dolní Ředice,5302,997,2,1okrsek_moreparties
+574953,1,5300,7,Dříteč,5302,591,2,1okrsek_moreparties
+575046,1,5300,5,Hrobice,5302,229,2,1okrsek_moreparties
+575054,1,5300,11,Choltice,5302,1198,4,1okrsek_moreparties
+575097,1,5300,5,Chýšť,5302,207,4,1okrsek_moreparties
+575101,1,5300,7,Jankovice,5302,324,8,1okrsek_moreparties
+575119,1,5300,5,Jaroslav,5302,245,8,1okrsek_moreparties
+575135,1,5300,7,Jeníkovice,5302,239,2,1okrsek_moreparties
+575143,1,5300,7,Jezbořice,5302,373,3,1okrsek_moreparties
+575232,1,5300,15,Kostěnice,5302,559,19,1okrsek_moreparties
+575259,1,5300,7,Labské Chrčice,5302,256,3,1okrsek_moreparties
+575305,1,5300,7,Libišany,5302,591,2,1okrsek_moreparties
+575372,1,5300,9,Mikulovice,5302,1296,5,1okrsek_moreparties
+575437,1,5300,15,Ostřešany,5302,1104,2,1okrsek_moreparties
+575461,1,5300,7,Poběžovice u Holic,5302,299,11,1okrsek_moreparties
+575470,1,5300,7,Poběžovice u Přelouče,5302,119,7,1okrsek_moreparties
+575518,1,5300,7,Přelovice,5302,222,2,1okrsek_moreparties
+575534,1,5300,9,Ráby,5302,569,3,1okrsek_moreparties
+575551,1,5300,7,Rohovládova Bělá,5302,603,2,1okrsek_moreparties
+575569,1,5300,7,Rohoznice,5302,269,6,1okrsek_moreparties
+575615,1,5300,7,Selmice,5302,132,5,1okrsek_moreparties
+575623,1,5300,9,Semín,5302,609,3,1okrsek_moreparties
+575658,1,5300,7,Slepotice,5302,442,2,1okrsek_moreparties
+575666,1,5300,7,Sopřeč,5302,284,10,1okrsek_moreparties
+575712,1,5300,7,Staré Jesenčany,5302,419,7,1okrsek_moreparties
+575721,1,5300,7,Staré Ždánice,5302,698,2,1okrsek_moreparties
+575739,1,5300,7,Starý Mateřov,5302,824,3,1okrsek_moreparties
+575755,1,5300,7,Stojice,5302,205,10,1okrsek_moreparties
+575771,1,5300,9,Svinčany,5302,512,3,1okrsek_moreparties
+575780,1,5300,7,Svojšice,5302,289,2,1okrsek_moreparties
+575844,1,5300,7,Turkovice,5302,312,2,1okrsek_moreparties
+575887,1,5300,5,Úhřetická Lhota,5302,284,8,1okrsek_moreparties
+575909,1,5300,7,Újezd u Přelouče,5302,234,4,1okrsek_moreparties
+575917,1,5300,5,Urbanice,5302,63,2,1okrsek_moreparties
+575933,1,5300,7,Vápno,5302,132,10,1okrsek_moreparties
+575941,1,5300,7,Veliny,5302,489,2,1okrsek_moreparties
+576000,1,5300,7,Vysoké Chvojno,5302,427,2,1okrsek_moreparties
+576077,1,5200,15,Albrechtice nad Orlicí,5204,989,2,1okrsek_moreparties
+576093,1,5200,7,Bartošovice v Orlických horách,5204,198,3,1okrsek_moreparties
+576115,1,5200,7,Bohdašín,5204,212,9,1okrsek_moreparties
+576123,1,5200,9,Bolehošť,5204,594,3,1okrsek_moreparties
+576140,1,5200,9,Borovnice,5204,396,3,1okrsek_moreparties
+576174,1,5200,7,Byzhradec,5204,219,8,1okrsek_moreparties
+576182,1,5200,15,Častolovice,5204,1707,5,1okrsek_moreparties
+576204,1,5200,11,Černíkovice,5204,798,3,1okrsek_moreparties
+576247,1,5200,9,Deštné v Orlických horách,5204,546,2,1okrsek_moreparties
+576280,1,5200,7,Dobřany,5204,133,9,1okrsek_moreparties
+576310,1,5200,7,Chleny,5204,213,8,1okrsek_moreparties
+576336,1,5200,11,Javornice,5204,1101,3,1okrsek_moreparties
+576352,1,5200,7,Jílovice,5201,319,9,1okrsek_moreparties
+576387,1,5200,7,Kostelecké Horky,5204,161,8,1okrsek_moreparties
+576395,1,5200,7,Kounov,5204,236,2,1okrsek_moreparties
+576409,1,5200,7,Králova Lhota,5204,245,14,1okrsek_moreparties
+576441,1,5200,7,Lhoty u Potštejna,5204,346,11,1okrsek_moreparties
+576468,1,5200,9,Lično,5204,635,2,1okrsek_moreparties
+576476,1,5200,9,Lípa nad Orlicí,5204,577,2,1okrsek_moreparties
+576492,1,5200,7,Lukavice,5204,627,2,1okrsek_moreparties
+576549,1,5200,7,Nová Ves,5204,219,2,1okrsek_moreparties
+576557,1,5200,7,Očelice,5204,230,11,1okrsek_moreparties
+576573,1,5200,9,Olešnice v Orlických horách,5204,398,3,1okrsek_moreparties
+576611,1,5200,7,Osečnice,5204,293,4,1okrsek_moreparties
+576620,1,5200,7,Pěčín,5204,476,4,1okrsek_moreparties
+576671,1,5200,11,Potštejn,5204,978,5,1okrsek_moreparties
+576689,1,5200,15,Přepychy,5204,637,2,1okrsek_moreparties
+576701,1,5200,15,Rokytnice v Orlických horách,5204,1971,5,1okrsek_moreparties
+576727,1,5200,9,Rybná nad Zdobnicí,5204,411,2,1okrsek_moreparties
+576735,1,5200,7,Říčky v Orlických horách,5204,99,2,1okrsek_moreparties
+576751,1,5200,9,Semechnice,5204,437,4,1okrsek_moreparties
+576786,1,5200,11,Slatina nad Zdobnicí,5204,846,4,1okrsek_moreparties
+576875,1,5200,7,Val,5204,301,2,1okrsek_moreparties
+576972,1,5100,7,Bělá,5104,274,2,1okrsek_moreparties
+576999,1,5100,15,Benešov u Semil,5104,851,4,1okrsek_moreparties
+577014,1,5100,7,Bradlecká Lhota,5104,230,2,1okrsek_moreparties
+577057,1,5100,7,Čistá u Horek,5104,576,2,1okrsek_moreparties
+577073,1,5100,9,Háje nad Jizerou,5104,668,5,1okrsek_moreparties
+577081,1,5100,9,Harrachov,5102,1301,3,1okrsek_moreparties
+577146,1,5100,9,Hrubá Skála,5104,603,2,1okrsek_moreparties
+577171,1,5100,5,Jesenný,5104,481,2,1okrsek_moreparties
+577201,1,5100,7,Kacanovy,5104,212,9,1okrsek_moreparties
+577219,1,5100,15,Karlovice,5104,785,18,1okrsek_moreparties
+577227,1,5100,9,Klokočí,5104,191,2,1okrsek_moreparties
+577243,1,5100,7,Kruh,5104,462,9,1okrsek_moreparties
+577294,1,5100,15,Libštát,5104,952,3,1okrsek_moreparties
+577332,1,5100,7,Mříčná,5104,576,2,1okrsek_moreparties
+577341,1,5100,7,Nová Ves nad Popelkou,5104,650,3,1okrsek_moreparties
+577367,1,5100,9,Olešnice,5104,209,10,1okrsek_moreparties
+577391,1,5100,7,Peřimov,5104,278,11,1okrsek_moreparties
+577405,1,5100,15,Poniklá,5104,1099,3,1okrsek_moreparties
+577413,1,5100,11,Přepeře,5104,966,2,1okrsek_moreparties
+577421,1,5100,9,Příkrý,5104,241,2,1okrsek_moreparties
+577430,1,5100,9,Radostná pod Kozákovem,5104,447,13,1okrsek_moreparties
+577448,1,5100,7,Rakousy,5104,104,8,1okrsek_moreparties
+577464,1,5100,7,Roprachtice,5104,284,12,1okrsek_moreparties
+577499,1,5100,9,Roztoky u Jilemnice,5104,1052,3,1okrsek_moreparties
+577529,1,5100,7,Slaná,5104,666,4,1okrsek_moreparties
+577561,1,5100,7,Svojek,5104,177,2,1okrsek_moreparties
+577642,1,5100,7,Veselá,5104,236,2,1okrsek_moreparties
+577651,1,5100,9,Víchová nad Jizerou,5104,888,3,1okrsek_moreparties
+577669,1,5100,9,Vítkovice,5104,340,4,1okrsek_moreparties
+577685,1,5100,7,Vyskeř,5104,408,2,1okrsek_moreparties
+577707,1,5100,7,Záhoří,5104,496,2,1okrsek_moreparties
+577723,1,5100,7,Žernov,5104,179,8,1okrsek_moreparties
+577812,1,5300,7,Bohuňov,5303,128,7,1okrsek_moreparties
+577839,1,5300,15,Borová,5303,1029,4,1okrsek_moreparties
+577863,1,5300,15,Brněnec,5303,1258,2,1okrsek_moreparties
+577871,1,5300,7,Březina,5303,317,2,1okrsek_moreparties
+577910,1,5300,9,Budislav,5303,466,2,1okrsek_moreparties
+577928,1,5300,15,Bystré,5303,1480,3,1okrsek_moreparties
+577936,1,5300,11,Cerekvice nad Loučnou,5303,852,2,1okrsek_moreparties
+577944,1,5300,15,Čistá,5303,980,4,1okrsek_moreparties
+578002,1,4100,7,Velký Luh,4101,167,4,1okrsek_moreparties
+578011,1,4100,5,Chodov,4102,118,3,1okrsek_moreparties
+578029,1,4100,7,Vysoká Pec,4102,336,13,1okrsek_moreparties
+578037,1,5300,7,Hartmanice,5303,277,2,1okrsek_moreparties
+578096,1,5300,13,Chornice,5303,856,2,1okrsek_moreparties
+578100,1,5300,7,Chotěnov,5303,134,9,1okrsek_moreparties
+578118,1,5300,9,Chotovice,5303,145,2,1okrsek_moreparties
+578126,1,5300,7,Chrastavec,5303,218,9,1okrsek_moreparties
+578134,1,5300,9,Janov,5303,971,3,1okrsek_moreparties
+578142,1,5300,7,Janůvky,5303,59,9,1okrsek_moreparties
+578151,1,5300,9,Jaroměřice,5303,1166,2,1okrsek_moreparties
+578169,1,5300,7,Jarošov,5303,180,11,1okrsek_moreparties
+578185,1,5300,15,Jedlová,5303,1039,2,1okrsek_moreparties
+578215,1,5300,7,Kamenná Horka,5303,320,3,1okrsek_moreparties
+578223,1,3200,7,Nehodiv,3202,72,7,1okrsek_moreparties
+578258,1,5300,9,Korouhev,5303,786,10,1okrsek_moreparties
+578266,1,5300,7,Koruna,5303,155,4,1okrsek_moreparties
+578291,1,5300,11,Květná,5303,401,2,1okrsek_moreparties
+578312,1,3200,7,Zborovy,3202,115,2,1okrsek_moreparties
+578339,1,5300,9,Linhartice,5303,619,10,1okrsek_moreparties
+578355,1,5300,15,Lubná,5303,941,2,1okrsek_moreparties
+578363,1,5300,9,Makov,5303,326,3,1okrsek_moreparties
+578398,1,5300,7,Mikuleč,5303,267,2,1okrsek_moreparties
+578401,1,5300,9,Mladějov na Moravě,5303,447,2,1okrsek_moreparties
+578410,1,3200,7,Maňovice,3202,46,2,1okrsek_moreparties
+578436,1,3200,7,Slatina,3202,105,9,1okrsek_moreparties
+578452,1,5300,7,Nedvězí,5303,200,8,1okrsek_moreparties
+578479,1,5300,15,Oldřiš,5303,639,5,1okrsek_moreparties
+578487,1,5300,15,Opatov,5303,1187,2,1okrsek_moreparties
+578495,1,3200,7,Čímice,3202,159,3,1okrsek_moreparties
+578509,1,5300,11,Osík,5303,1021,4,1okrsek_moreparties
+578517,1,3200,5,Domoraz,3202,54,5,1okrsek_moreparties
+578533,1,3200,7,Nezamyslice,3202,206,12,1okrsek_moreparties
+578550,1,5300,9,Pohledy,5303,298,3,1okrsek_moreparties
+578568,1,3200,5,Čmelíny,3204,129,3,1okrsek_moreparties
+578592,1,3200,7,Třebčice,3204,128,2,1okrsek_moreparties
+578622,1,5300,9,Příluka,5303,165,12,1okrsek_moreparties
+578649,1,5300,7,Pustá Rybná,5303,156,9,1okrsek_moreparties
+578657,1,5300,15,Radiměř,5303,1151,3,1okrsek_moreparties
+578665,1,3200,7,Dražeň,3205,157,3,1okrsek_moreparties
+578681,1,5300,9,Rozhraní,5303,319,2,1okrsek_moreparties
+578703,1,5300,7,Rudná,5303,149,10,1okrsek_moreparties
+578720,1,5300,9,Sádek,5303,553,2,1okrsek_moreparties
+578738,1,5300,9,Sebranice,5303,980,2,1okrsek_moreparties
+578746,1,5300,7,Sedliště,5303,230,8,1okrsek_moreparties
+578789,1,5300,9,Staré Město,5303,1031,4,1okrsek_moreparties
+578797,1,3200,9,Štichovice,3205,110,2,1okrsek_moreparties
+578835,1,5300,7,Suchá Lhota,5303,84,12,1okrsek_moreparties
+578851,1,5300,7,Široký Důl,5303,406,2,1okrsek_moreparties
+578894,1,5300,9,Trstěnice,5303,523,3,1okrsek_moreparties
+578908,1,5300,9,Třebařov,5303,910,3,1okrsek_moreparties
+578932,1,5300,11,Vendolí,5303,977,2,1okrsek_moreparties
+578959,1,5300,7,Víska u Jevíčka,5303,176,2,1okrsek_moreparties
+578967,1,5300,5,Vítějeves,5303,421,2,1okrsek_moreparties
+579033,1,3200,7,Kornatice,3206,245,11,1okrsek_moreparties
+579041,1,5200,9,Batňovice,5205,778,4,1okrsek_moreparties
+579050,1,5200,15,Bernartice,5205,884,4,1okrsek_moreparties
+579076,1,5200,7,Bílé Poličany,5205,152,16,1okrsek_moreparties
+579092,1,5200,7,Borovnice,5205,370,2,1okrsek_moreparties
+579106,1,5200,9,Čermná,5205,400,2,1okrsek_moreparties
+579122,1,5200,11,Dolní Branná,5205,998,3,1okrsek_moreparties
+579165,1,5200,11,Dolní Lánov,5205,760,2,1okrsek_moreparties
+579173,1,5200,7,Dolní Olešnice,5205,378,2,1okrsek_moreparties
+579220,1,5200,15,Havlovice,5205,972,2,1okrsek_moreparties
+579238,1,5200,9,Horní Brusnice,5205,440,9,1okrsek_moreparties
+579254,1,5200,7,Horní Kalná,5205,366,2,1okrsek_moreparties
+579262,1,5200,15,Horní Maršov,5205,935,2,1okrsek_moreparties
+579319,1,5200,11,Chotěvice,5205,989,4,1okrsek_moreparties
+579327,1,5200,15,Choustníkovo Hradiště,5205,554,2,1okrsek_moreparties
+579351,1,5200,15,Janské Lázně,5205,655,6,1okrsek_moreparties
+579378,1,5200,11,Jívka,5205,563,2,1okrsek_moreparties
+579416,1,5200,9,Kuks,5205,263,3,1okrsek_moreparties
+579424,1,5200,9,Kunčice nad Labem,5205,575,3,1okrsek_moreparties
+579475,1,5200,9,Libňatov,5205,371,13,1okrsek_moreparties
+579483,1,5200,7,Libotov,5205,180,7,1okrsek_moreparties
+579491,1,3200,7,Vranov,3207,196,2,1okrsek_moreparties
+579513,1,5200,15,Malé Svatoňovice,5205,1469,3,1okrsek_moreparties
+579530,1,5200,9,Maršov u Úpice,5205,185,14,1okrsek_moreparties
+579548,1,5200,15,Mladé Buky,5205,2274,4,1okrsek_moreparties
+579602,1,5200,9,Prosečné,5205,576,2,1okrsek_moreparties
+579629,1,5200,9,Radvanice,5205,950,4,1okrsek_moreparties
+579661,1,5200,7,Staré Buky,5205,648,3,1okrsek_moreparties
+579726,1,5200,9,Suchovršice,5205,364,9,1okrsek_moreparties
+579742,1,5200,15,Špindlerův Mlýn,5205,979,5,1okrsek_moreparties
+579769,1,5200,9,Třebihošť,5205,450,21,1okrsek_moreparties
+579793,1,5200,7,Velký Vřešťov,5205,240,3,1okrsek_moreparties
+579823,1,5200,7,Vlčice,5205,550,3,1okrsek_moreparties
+579866,1,5200,5,Zlatá Olešnice,5205,214,2,1okrsek_moreparties
+579947,1,5300,9,Brandýs nad Orlicí,5304,1295,3,1okrsek_moreparties
+579963,1,5300,7,Bučina,5304,265,12,1okrsek_moreparties
+579980,1,5300,9,Cotkytle,5304,401,3,1okrsek_moreparties
+579998,1,5300,7,Čenkovice,5304,187,12,1okrsek_moreparties
+580040,1,5300,7,České Heřmanice,5304,607,4,1okrsek_moreparties
+580058,1,5300,9,České Libchavy,5304,644,18,1okrsek_moreparties
+580074,1,5300,9,Damníkov,5304,674,2,1okrsek_moreparties
+580091,1,5300,7,Dobříkov,5304,554,2,1okrsek_moreparties
+580163,1,5300,7,Dolní Morava,5304,407,3,1okrsek_moreparties
+580228,1,5300,7,Hejnice,5304,211,8,1okrsek_moreparties
+580261,1,5300,11,Hnátnice,5304,809,3,1okrsek_moreparties
+580333,1,5300,9,Horní Třešňovec,5304,622,3,1okrsek_moreparties
+580392,1,5300,9,Jamné nad Orlicí,5304,691,2,1okrsek_moreparties
+580406,1,5300,7,Javorník,5304,245,2,1okrsek_moreparties
+580414,1,5300,7,Jehnědí,5304,329,8,1okrsek_moreparties
+580422,1,5300,7,Kameničná,5304,332,13,1okrsek_moreparties
+580431,1,5300,9,Klášterec nad Orlicí,5304,892,2,1okrsek_moreparties
+580465,1,5300,7,Koldín,5304,379,2,1okrsek_moreparties
+580490,1,5300,7,Krasíkov,5304,297,2,1okrsek_moreparties
+580503,1,5300,11,Kunvald,5304,917,4,1okrsek_moreparties
+580562,1,5300,7,Libecina,5304,189,2,1okrsek_moreparties
+580571,1,5300,9,Lichkov,5304,508,3,1okrsek_moreparties
+580589,1,5300,11,Líšnice,5304,764,2,1okrsek_moreparties
+580619,1,5300,7,Lubník,5304,369,2,1okrsek_moreparties
+580635,1,5300,9,Luková,5304,761,3,1okrsek_moreparties
+580643,1,5300,11,Mistrovice,5304,613,2,1okrsek_moreparties
+580660,1,5300,7,Mostek,5304,262,9,1okrsek_moreparties
+580678,1,5300,5,Nasavrky,5304,139,7,1okrsek_moreparties
+580686,1,5300,9,Nekoř,5304,954,3,1okrsek_moreparties
+580724,1,5300,7,Orličky,5304,289,3,1okrsek_moreparties
+580732,1,5300,7,Ostrov,5304,699,3,1okrsek_moreparties
+580767,1,5300,7,Petrovice,5304,254,2,1okrsek_moreparties
+580775,1,5300,9,Písečná,5304,571,2,1okrsek_moreparties
+580783,1,5300,5,Plchovice,5304,62,3,1okrsek_moreparties
+580805,1,5300,7,Podlesí,5304,271,9,1okrsek_moreparties
+580821,1,5300,9,Přívrat,5304,355,11,1okrsek_moreparties
+580830,1,5300,7,Pustina,5304,62,7,1okrsek_moreparties
+580848,1,5300,15,Rudoltice,5304,1941,4,1okrsek_moreparties
+580872,1,5300,9,Řetová,5304,695,2,1okrsek_moreparties
+580902,1,5300,7,Seč,5304,157,9,1okrsek_moreparties
+580970,1,5300,9,Sruby,5304,586,2,1okrsek_moreparties
+580988,1,5300,7,Strážná,5304,103,2,1okrsek_moreparties
+580996,1,5300,7,Studené,5304,184,9,1okrsek_moreparties
+581003,1,5300,7,Sudislav nad Orlicí,5304,144,8,1okrsek_moreparties
+581011,1,5300,7,Sudslava,5304,176,10,1okrsek_moreparties
+581046,1,5300,9,Tatenice,5304,856,2,1okrsek_moreparties
+581062,1,5300,7,Tisová,5304,575,3,1okrsek_moreparties
+581071,1,5300,9,Třebovice,5304,798,2,1okrsek_moreparties
+581089,1,5300,7,Újezd u Chocně,5304,320,2,1okrsek_moreparties
+581119,1,5300,9,Verměřovice,5304,760,3,1okrsek_moreparties
+581194,1,5300,7,Zádolí,5304,95,8,1okrsek_moreparties
+581208,1,5300,11,Záchlumí,5304,744,15,1okrsek_moreparties
+581216,1,5300,7,Zálší,5304,230,9,1okrsek_moreparties
+581224,1,5300,15,Zámrsk,5304,749,2,1okrsek_moreparties
+581267,1,5300,7,Žampach,5304,281,9,1okrsek_moreparties
+581275,1,5300,9,Žichlínek,5304,1005,6,1okrsek_moreparties
+581313,1,6200,7,Bedřichov,6201,225,8,1okrsek_moreparties
+581321,1,6200,7,Běleč,6203,179,8,1okrsek_moreparties
+581330,1,6200,15,Benešov,6201,675,3,1okrsek_moreparties
+581356,1,6200,7,Borotín,6201,428,3,1okrsek_moreparties
+581364,1,6200,15,Bořitov,6201,1281,4,1okrsek_moreparties
+581381,1,6200,7,Brťov-Jeneč,6201,348,14,1okrsek_moreparties
+581402,1,6200,7,Brumov,6203,253,9,1okrsek_moreparties
+581437,1,6200,5,Bukovice,6203,84,2,1okrsek_moreparties
+581453,1,6200,7,Bukovinka,6201,614,2,1okrsek_moreparties
+581470,1,6200,9,Cetkovice,6201,756,2,1okrsek_moreparties
+581496,1,6200,15,Černá Hora,6201,2139,5,1okrsek_moreparties
+581500,1,6200,9,Černovice,6201,390,9,1okrsek_moreparties
+581534,1,6200,7,Chrudichromy,6201,211,2,1okrsek_moreparties
+581542,1,6200,9,Doubravice nad Svitavou,6201,1372,6,1okrsek_moreparties
+581593,1,6200,7,Hodonín,6201,111,2,1okrsek_moreparties
+581631,1,6200,7,Horní Poříčí,6201,261,2,1okrsek_moreparties
+581666,1,6200,9,Jabloňany,6201,407,2,1okrsek_moreparties
+581721,1,6200,7,Kněževes,6201,167,2,1okrsek_moreparties
+581739,1,6200,9,Knínice,6201,937,5,1okrsek_moreparties
+581755,1,6200,9,Kořenec,6201,356,2,1okrsek_moreparties
+581763,1,6200,13,Kotvrdovice,6201,922,3,1okrsek_moreparties
+581771,1,6200,5,Kozárov,6201,117,5,1okrsek_moreparties
+581801,1,6200,9,Křetín,6201,482,3,1okrsek_moreparties
+581810,1,6200,7,Křtěnov,6201,214,2,1okrsek_moreparties
+581828,1,6200,9,Křtiny,6201,818,4,1okrsek_moreparties
+581852,1,6200,5,Kunice,6201,188,7,1okrsek_moreparties
+581861,1,6200,7,Kuničky,6201,279,3,1okrsek_moreparties
+581887,1,6200,9,Lazinov,6201,173,2,1okrsek_moreparties
+581909,1,6200,9,Lažany,6201,417,2,1okrsek_moreparties
+581933,1,6200,5,Lhota u Lysic,6201,134,10,1okrsek_moreparties
+581941,1,6200,5,Lhota u Olešnice,6201,43,2,1okrsek_moreparties
+581950,1,6200,15,Lipovec,6201,1190,3,1okrsek_moreparties
+581968,1,6200,11,Lipůvka,6201,1394,5,1okrsek_moreparties
+581976,1,6200,15,Lomnice,6203,1460,5,1okrsek_moreparties
+582018,1,6200,15,Lysice,6201,1877,3,1okrsek_moreparties
+582085,1,6200,7,Němčice,6201,466,2,1okrsek_moreparties
+582115,1,6200,7,Obora,6201,338,2,1okrsek_moreparties
+582123,1,6200,7,Ochoz u Tišnova,6203,122,8,1okrsek_moreparties
+582131,1,6200,9,Okrouhlá,6201,617,3,1okrsek_moreparties
+582158,1,6200,15,Olešnice,6201,1640,5,1okrsek_moreparties
+582166,1,6200,15,Olomučany,6201,1063,3,1okrsek_moreparties
+582174,1,6200,7,Osiky,6203,121,12,1okrsek_moreparties
+582182,1,6200,15,Ostrov u Macochy,6201,1104,2,1okrsek_moreparties
+582191,1,6200,7,Pamětice,6201,252,9,1okrsek_moreparties
+582221,1,6200,9,Prostřední Poříčí,6201,262,3,1okrsek_moreparties
+582247,1,6200,15,Ráječko,6201,1373,3,1okrsek_moreparties
+582255,1,6200,7,Rašov,6203,243,2,1okrsek_moreparties
+582263,1,6200,7,Rohozec,6203,234,12,1okrsek_moreparties
+582271,1,6200,9,Rozseč nad Kunštátem,6201,565,2,1okrsek_moreparties
+582298,1,6200,15,Rudice,6201,979,2,1okrsek_moreparties
+582336,1,6200,9,Skalice nad Svitavou,6201,619,2,1okrsek_moreparties
+582344,1,6200,7,Skrchov,6201,120,5,1okrsek_moreparties
+582352,1,6200,9,Sloup,6201,946,2,1okrsek_moreparties
+582433,1,6200,5,Svinošice,6201,378,2,1okrsek_moreparties
+582450,1,6200,7,Synalov,6203,121,2,1okrsek_moreparties
+582468,1,6200,7,Šebetov,6201,831,2,1okrsek_moreparties
+582484,1,6200,7,Šošůvka,6201,669,2,1okrsek_moreparties
+582506,1,6200,7,Tasovice,6201,68,10,1okrsek_moreparties
+582531,1,6200,7,Uhřice,6201,299,14,1okrsek_moreparties
+582565,1,6200,7,Unín,6203,229,10,1okrsek_moreparties
+582573,1,6200,7,Úsobrno,6201,444,2,1okrsek_moreparties
+582581,1,6200,9,Valchov,6201,450,2,1okrsek_moreparties
+582611,1,6200,7,Vážany,6201,235,9,1okrsek_moreparties
+582620,1,6200,7,Stvolová,6201,163,14,1okrsek_moreparties
+582654,1,6200,7,Vilémovice,6201,335,2,1okrsek_moreparties
+582671,1,6200,7,Voděrady,6201,544,3,1okrsek_moreparties
+582727,1,6200,7,Zbraslavec,6201,224,3,1okrsek_moreparties
+582735,1,6200,5,Zhoř,6203,69,2,1okrsek_moreparties
+582751,1,6200,11,Žďárná,6201,761,5,1okrsek_moreparties
+582794,1,6200,9,Babice nad Svitavou,6203,1374,3,1okrsek_moreparties
+582808,1,6200,7,Babice u Rosic,6203,779,3,1okrsek_moreparties
+582832,1,6200,7,Biskoupky,6203,185,4,1okrsek_moreparties
+582841,1,6200,9,Blažovice,6203,1208,2,1okrsek_moreparties
+582875,1,6200,7,Braníškov,6203,210,2,1okrsek_moreparties
+582891,1,6200,5,Březina,6203,347,6,1okrsek_moreparties
+582913,1,6200,15,Čebín,6203,1839,4,1okrsek_moreparties
+582921,1,6200,7,Česká,6203,1005,2,1okrsek_moreparties
+582948,1,6200,11,Deblín,6203,1087,4,1okrsek_moreparties
+582964,1,6200,11,Domašov,6203,667,2,1okrsek_moreparties
+582972,1,6200,15,Drásov,6203,2029,2,1okrsek_moreparties
+582999,1,6200,7,Hajany,6203,647,2,1okrsek_moreparties
+583014,1,6200,7,Heroltice,6203,221,10,1okrsek_moreparties
+583022,1,6200,9,Hlína,6203,310,11,1okrsek_moreparties
+583031,1,6200,9,Holasice,6203,1285,3,1okrsek_moreparties
+583057,1,6200,7,Hostěnice,6203,810,4,1okrsek_moreparties
+583111,1,6200,7,Chudčice,6203,1005,2,1okrsek_moreparties
+583154,1,6200,7,Javůrek,6203,335,2,1okrsek_moreparties
+583197,1,6200,7,Kanice,6203,1082,6,1okrsek_moreparties
+583219,1,6200,15,Kobylnice,6203,1172,3,1okrsek_moreparties
+583227,1,6200,9,Kovalovice,6203,663,2,1okrsek_moreparties
+583243,1,6200,7,Kupařovice,6203,349,2,1okrsek_moreparties
+583260,1,6200,9,Lažánky,6203,703,6,1okrsek_moreparties
+583286,1,6200,13,Lelekovice,6203,1883,2,1okrsek_moreparties
+583294,1,6200,5,Lesní Hluboké,6203,272,2,1okrsek_moreparties
+583308,1,6200,5,Litostrov,6203,124,2,1okrsek_moreparties
+583316,1,6200,9,Lomnička,6203,577,2,1okrsek_moreparties
+583324,1,6200,7,Lukovany,6203,631,2,1okrsek_moreparties
+583332,1,6200,9,Malešovice,6203,765,2,1okrsek_moreparties
+583341,1,6200,11,Malhostovice,6203,989,4,1okrsek_moreparties
+583383,1,6200,15,Měnín,6203,1837,3,1okrsek_moreparties
+583502,1,6200,9,Nová Ves,6203,812,3,1okrsek_moreparties
+583511,1,6200,15,Nové Bránice,6203,746,3,1okrsek_moreparties
+583529,1,6200,7,Odrovice,6203,247,2,1okrsek_moreparties
+583537,1,6200,9,Ochoz u Brna,6203,1529,2,1okrsek_moreparties
+583545,1,6200,9,Omice,6203,834,3,1okrsek_moreparties
+583553,1,6200,9,Opatovice,6203,1105,2,1okrsek_moreparties
+583596,1,6200,15,Ostopovice,6203,1731,2,1okrsek_moreparties
+583600,1,6200,7,Ostrovačice,6203,790,3,1okrsek_moreparties
+583634,1,6200,15,Podolí,6203,1451,2,1okrsek_moreparties
+583651,1,6200,7,Popovice,6203,335,3,1okrsek_moreparties
+583669,1,6200,15,Popůvky,6203,1709,2,1okrsek_moreparties
+583677,1,6200,15,Pozořice,6203,2286,5,1okrsek_moreparties
+583685,1,6200,9,Prace,6203,939,3,1okrsek_moreparties
+583693,1,6200,9,Pravlov,6203,646,5,1okrsek_moreparties
+583715,1,6200,7,Příbram na Moravě,6203,661,3,1okrsek_moreparties
+583731,1,6200,11,Přísnotice,6203,872,5,1okrsek_moreparties
+583740,1,6200,9,Radostice,6203,778,2,1okrsek_moreparties
+583774,1,6200,9,Rebešovice,6203,1052,2,1okrsek_moreparties
+583821,1,6200,7,Řícmanice,6203,816,6,1okrsek_moreparties
+583847,1,6200,7,Sentice,6203,650,3,1okrsek_moreparties
+583855,1,6200,7,Silůvky,6203,821,2,1okrsek_moreparties
+583863,1,6200,11,Sivice,6203,1095,3,1okrsek_moreparties
+583880,1,6200,9,Sobotovice,6203,619,3,1okrsek_moreparties
+583898,1,6200,15,Sokolnice,6203,2335,3,1okrsek_moreparties
+583901,1,6200,7,Stanoviště,6203,400,8,1okrsek_moreparties
+583928,1,6200,7,Svatoslav,6203,443,3,1okrsek_moreparties
+583936,1,6200,15,Syrovice,6203,1929,2,1okrsek_moreparties
+583961,1,6200,9,Štěpánovice,6203,491,4,1okrsek_moreparties
+583979,1,6200,11,Telnice,6203,1627,4,1okrsek_moreparties
+583995,1,6200,15,Těšany,6203,1266,4,1okrsek_moreparties
+584011,1,6200,9,Trboušany,6203,370,2,1okrsek_moreparties
+584037,1,6200,15,Tvarožná,6203,1325,3,1okrsek_moreparties
+584061,1,6200,7,Unkovice,6203,743,2,1okrsek_moreparties
+584070,1,6200,7,Úsuší,6203,126,8,1okrsek_moreparties
+584096,1,6200,9,Velatice,6203,740,2,1okrsek_moreparties
+584118,1,6200,13,Veverské Knínice,6203,954,2,1okrsek_moreparties
+584126,1,6200,9,Viničné Šumice,6203,1347,5,1okrsek_moreparties
+584134,1,6200,5,Vohančice,6203,200,5,1okrsek_moreparties
+584142,1,6200,15,Vojkovice,6203,1202,2,1okrsek_moreparties
+584151,1,6200,9,Vranov,6203,841,4,1okrsek_moreparties
+584177,1,6200,7,Vysoké Popovice,6203,727,4,1okrsek_moreparties
+584185,1,6200,9,Zakřany,6203,799,3,1okrsek_moreparties
+584193,1,6200,7,Zálesná Zhoř,6203,60,2,1okrsek_moreparties
+584215,1,6200,15,Zbraslav,6203,1285,3,1okrsek_moreparties
+584231,1,6200,15,Žabčice,6203,1630,4,1okrsek_moreparties
+584240,1,6200,11,Žatčany,6203,929,3,1okrsek_moreparties
+584266,1,6200,9,Želešice,6203,1832,7,1okrsek_moreparties
+584274,1,6200,9,Železné,6203,517,2,1okrsek_moreparties
+584304,1,6200,7,Bavory,6204,392,4,1okrsek_moreparties
+584321,1,6200,15,Boleradice,6204,903,3,1okrsek_moreparties
+584339,1,6200,9,Borkovany,6204,850,2,1okrsek_moreparties
+584347,1,6200,15,Bořetice,6204,1293,4,1okrsek_moreparties
+584355,1,6200,7,Brod nad Dyjí,6204,522,2,1okrsek_moreparties
+584363,1,6200,15,Brumovice,6204,1025,4,1okrsek_moreparties
+584371,1,6200,15,Březí,6204,1696,4,1okrsek_moreparties
+584380,1,6200,9,Bulhary,6204,714,6,1okrsek_moreparties
+584410,1,6200,7,Dobré Pole,6204,470,3,1okrsek_moreparties
+584436,1,6200,7,Dolní Věstonice,6204,292,5,1okrsek_moreparties
+584452,1,6200,15,Hlohovec,6204,1289,3,1okrsek_moreparties
+584461,1,6200,7,Horní Bojanovice,6204,664,4,1okrsek_moreparties
+584479,1,6200,7,Horní Věstonice,6204,496,2,1okrsek_moreparties
+584517,1,6200,9,Ivaň,6203,759,3,1okrsek_moreparties
+584541,1,6200,7,Klentnice,6204,488,4,1okrsek_moreparties
+584568,1,6200,15,Kobylí,6204,1966,3,1okrsek_moreparties
+584584,1,6200,15,Krumvíř,6204,1230,2,1okrsek_moreparties
+584592,1,6200,15,Křepice,6204,1305,4,1okrsek_moreparties
+584673,1,6200,15,Moravský Žižkov,6204,1458,3,1okrsek_moreparties
+584681,1,6200,9,Morkůvky,6204,522,2,1okrsek_moreparties
+584703,1,6200,9,Němčičky,6204,703,4,1okrsek_moreparties
+584711,1,6200,7,Nikolčice,6204,771,4,1okrsek_moreparties
+584720,1,6200,15,Nosislav,6203,1349,2,1okrsek_moreparties
+584746,1,6200,15,Novosedly,6204,1278,2,1okrsek_moreparties
+584754,1,6200,7,Nový Přerov,6204,348,4,1okrsek_moreparties
+584762,1,6200,15,Pasohlávky,6203,727,4,1okrsek_moreparties
+584771,1,6200,7,Pavlov,6204,583,5,1okrsek_moreparties
+584789,1,6200,7,Perná,6204,797,3,1okrsek_moreparties
+584819,1,6200,11,Popice,6204,981,2,1okrsek_moreparties
+584835,1,6200,9,Pouzdřany,6204,789,3,1okrsek_moreparties
+584843,1,6200,9,Přibice,6203,1046,2,1okrsek_moreparties
+584878,1,6200,7,Sedlec,6204,854,3,1okrsek_moreparties
+584908,1,6200,9,Starovičky,6204,904,5,1okrsek_moreparties
+584916,1,6200,7,Strachotín,6204,794,6,1okrsek_moreparties
+584932,1,6200,15,Šitbořice,6204,2095,2,1okrsek_moreparties
+584959,1,6200,15,Týnec,6204,1086,6,1okrsek_moreparties
+584967,1,6200,15,Uherčice,6204,1073,3,1okrsek_moreparties
+584991,1,6200,9,Velké Hostěrádky,6204,500,2,1okrsek_moreparties
+585009,1,6200,15,Velké Němčice,6204,1759,5,1okrsek_moreparties
+585025,1,6200,7,Vlasatice,6203,889,3,1okrsek_moreparties
+585041,1,6200,9,Vrbice,6204,1050,2,1okrsek_moreparties
+585050,1,6200,15,Zaječí,6204,1492,3,1okrsek_moreparties
+585076,1,7200,9,Biskupice,7204,676,2,1okrsek_moreparties
+585092,1,7200,9,Bohuslavice u Zlína,7204,741,2,1okrsek_moreparties
+585106,1,7200,9,Bratřejov,7204,783,5,1okrsek_moreparties
+585131,1,7200,9,Březová,7204,509,2,1okrsek_moreparties
+585149,1,7200,9,Březůvky,7204,717,4,1okrsek_moreparties
+585181,1,7200,7,Doubravy,7204,583,2,1okrsek_moreparties
+585190,1,7200,9,Drnovice,7204,414,2,1okrsek_moreparties
+585203,1,7200,9,Držková,7204,366,2,1okrsek_moreparties
+585220,1,7200,15,Halenkovice,7204,2012,4,1okrsek_moreparties
+585238,1,7200,7,Haluzice,7204,81,2,1okrsek_moreparties
+585246,1,7200,9,Horní Lhota,7204,585,4,1okrsek_moreparties
+585254,1,7200,7,Hostišová,7204,553,2,1okrsek_moreparties
+585262,1,7200,9,Hrobice,7204,457,2,1okrsek_moreparties
+585271,1,7200,11,Hřivínův Újezd,7204,532,2,1okrsek_moreparties
+585289,1,7200,15,Hvozdná,7204,1311,3,1okrsek_moreparties
+585319,1,7200,7,Jestřabí,7204,269,3,1okrsek_moreparties
+585343,1,7200,13,Kašava,7204,936,2,1okrsek_moreparties
+585432,1,7200,7,Loučka,7204,436,3,1okrsek_moreparties
+585441,1,7200,11,Ludkovice,7204,716,3,1okrsek_moreparties
+585467,1,7200,15,Lukov,7204,1734,3,1okrsek_moreparties
+585483,1,7200,9,Lutonina,7204,411,2,1okrsek_moreparties
+585491,1,7200,7,Machová,7204,671,2,1okrsek_moreparties
+585505,1,7200,7,Mysločovice,7204,679,4,1okrsek_moreparties
+585521,1,7200,7,Návojná,7204,691,2,1okrsek_moreparties
+585530,1,7200,9,Nedašov,7204,1353,3,1okrsek_moreparties
+585548,1,7200,7,Nedašova Lhota,7204,680,2,1okrsek_moreparties
+585556,1,7200,7,Neubuz,7204,456,2,1okrsek_moreparties
+585611,1,7200,9,Podkopná Lhota,7204,314,3,1okrsek_moreparties
+585661,1,7200,9,Provodov,7204,776,2,1okrsek_moreparties
+585670,1,7200,9,Racková,7204,859,2,1okrsek_moreparties
+585734,1,7200,9,Sehradice,7204,675,2,1okrsek_moreparties
+585769,1,7200,7,Slopné,7204,551,2,1okrsek_moreparties
+585793,1,7200,15,Spytihněv,7204,1666,2,1okrsek_moreparties
+585807,1,7200,9,Šanov,7204,468,2,1okrsek_moreparties
+585815,1,7200,7,Šarovy,7204,254,2,1okrsek_moreparties
+585866,1,7200,9,Trnava,7204,1172,3,1okrsek_moreparties
+585874,1,7200,5,Ublo,7204,299,3,1okrsek_moreparties
+585882,1,7200,15,Újezd,7204,1186,4,1okrsek_moreparties
+585912,1,7200,11,Velký Ořechov,7204,750,3,1okrsek_moreparties
+585963,1,7200,7,Vlčková,7204,410,3,1okrsek_moreparties
+585971,1,7200,9,Všemina,7204,1130,5,1okrsek_moreparties
+586013,1,7200,9,Žlutava,7204,1196,2,1okrsek_moreparties
+586030,1,6200,9,Archlebov,6205,871,3,1okrsek_moreparties
+586056,1,6200,7,Blatnička,6205,411,5,1okrsek_moreparties
+586064,1,6200,7,Světlá,6201,246,12,1okrsek_moreparties
+586072,1,6200,9,Bukovany,6205,690,2,1okrsek_moreparties
+586099,1,6200,9,Čejč,6205,1244,3,1okrsek_moreparties
+586129,1,6200,15,Dambořice,6205,1485,3,1okrsek_moreparties
+586145,1,6200,9,Domanín,6205,1007,3,1okrsek_moreparties
+586188,1,6200,15,Hroznová Lhota,6205,1168,2,1okrsek_moreparties
+586196,1,6200,9,Hrubá Vrbka,6205,629,2,1okrsek_moreparties
+586200,1,6200,7,Hýsly,6205,413,3,1okrsek_moreparties
+586218,1,6200,9,Javorník,6205,668,2,1okrsek_moreparties
+586226,1,6200,7,Ježov,6205,707,5,1okrsek_moreparties
+586251,1,6200,7,Kelčany,6205,247,7,1okrsek_moreparties
+586269,1,6200,11,Kněždub,6205,1050,2,1okrsek_moreparties
+586277,1,6200,9,Kostelec,6205,901,3,1okrsek_moreparties
+586293,1,6200,7,Kuželov,6205,404,2,1okrsek_moreparties
+586315,1,6200,5,Labuty,6205,170,2,1okrsek_moreparties
+586323,1,6200,15,Lipov,6205,1437,6,1okrsek_moreparties
+586331,1,6200,15,Louka,6205,929,6,1okrsek_moreparties
+586340,1,6200,9,Lovčice,6205,830,2,1okrsek_moreparties
+586374,1,6200,15,Mikulčice,6205,1981,4,1okrsek_moreparties
+586391,1,6200,7,Moravany,6205,729,5,1okrsek_moreparties
+586421,1,6200,9,Násedlovice,6205,860,2,1okrsek_moreparties
+586439,1,6200,7,Nechvalín,6205,345,3,1okrsek_moreparties
+586455,1,6200,9,Nová Lhota,6205,641,4,1okrsek_moreparties
+586471,1,6200,5,Ostrovánky,6205,223,3,1okrsek_moreparties
+586480,1,6200,11,Petrov,6205,1316,2,1okrsek_moreparties
+586501,1,6200,9,Radějov,6205,834,2,1okrsek_moreparties
+586536,1,6200,5,Skalka,6205,148,2,1okrsek_moreparties
+586544,1,6200,7,Skoronice,6205,518,2,1okrsek_moreparties
+586552,1,6200,9,Sobůlky,6205,831,6,1okrsek_moreparties
+586561,1,6200,9,Starý Poddvorov,6205,950,4,1okrsek_moreparties
+586579,1,6200,7,Stavěšice,6205,356,4,1okrsek_moreparties
+586595,1,6200,7,Strážovice,6205,602,3,1okrsek_moreparties
+586609,1,6200,11,Sudoměřice,6205,1265,3,1okrsek_moreparties
+586633,1,6200,7,Syrovín,6205,338,2,1okrsek_moreparties
+586650,1,6200,9,Tasov,6205,539,2,1okrsek_moreparties
+586668,1,6200,7,Těmice,6205,920,4,1okrsek_moreparties
+586676,1,6200,7,Terezín,6205,384,2,1okrsek_moreparties
+586684,1,6200,11,Tvarožná Lhota,6205,919,2,1okrsek_moreparties
+586692,1,6200,7,Uhřice,6205,758,4,1okrsek_moreparties
+586731,1,6200,7,Věteřov,6205,495,2,1okrsek_moreparties
+586749,1,6200,9,Vlkoš,6205,1042,2,1okrsek_moreparties
+586781,1,6200,9,Žádovice,6205,736,2,1okrsek_moreparties
+586790,1,6200,15,Žarošice,6205,1110,3,1okrsek_moreparties
+586811,1,6200,9,Želetice,6205,508,2,1okrsek_moreparties
+586838,1,6200,7,Žeraviny,6205,189,2,1okrsek_moreparties
+586871,1,7200,7,Lipová,7204,369,3,1okrsek_moreparties
+586919,1,7200,7,Rudimov,7204,255,2,1okrsek_moreparties
+586960,1,7200,5,Křekov,7204,185,2,1okrsek_moreparties
+586994,1,7200,7,Vlachova Lhota,7204,213,3,1okrsek_moreparties
+587001,1,6100,9,Černíč,6102,127,3,1okrsek_moreparties
+587010,1,6100,7,Dlouhá Brtnice,6102,374,2,1okrsek_moreparties
+587044,1,6100,11,Dolní Cerekev,6102,1265,2,1okrsek_moreparties
+587061,1,6100,5,Dolní Vilímeč,6102,100,6,1okrsek_moreparties
+587079,1,6100,7,Doupě,6102,100,8,1okrsek_moreparties
+587095,1,6100,9,Dušejov,6102,475,2,1okrsek_moreparties
+587109,1,6100,7,Dyjice,6102,135,2,1okrsek_moreparties
+587117,1,6100,7,Čížov,6102,291,2,1okrsek_moreparties
+587141,1,6100,9,Hodice,6102,720,4,1okrsek_moreparties
+587176,1,6100,7,Rančířov,6102,467,2,1okrsek_moreparties
+587184,1,6100,7,Borovná,6102,82,10,1okrsek_moreparties
+587206,1,6100,7,Horní Myslová,6102,91,2,1okrsek_moreparties
+587231,1,6100,7,Zadní Vydří,6102,50,7,1okrsek_moreparties
+587249,1,6100,9,Jamné,6102,565,2,1okrsek_moreparties
+587257,1,7200,7,Zástřizly,7201,140,11,1okrsek_moreparties
+587273,1,6100,7,Jezdovice,6102,246,2,1okrsek_moreparties
+587303,1,6100,7,Jindřichovice,6102,93,7,1okrsek_moreparties
+587320,1,6100,7,Kalhov,6102,126,7,1okrsek_moreparties
+587338,1,6100,7,Kaliště,6102,168,2,1okrsek_moreparties
+587401,1,6100,9,Kostelec,6102,869,2,1okrsek_moreparties
+587419,1,6100,7,Kostelní Myslová,6102,68,7,1okrsek_moreparties
+587427,1,6100,7,Kozlov,6102,473,14,1okrsek_moreparties
+587435,1,6100,9,Krahulčí,6102,625,2,1okrsek_moreparties
+587443,1,6100,9,Krasonice,6102,198,2,1okrsek_moreparties
+587451,1,6100,5,Lhotka,6102,96,2,1okrsek_moreparties
+587460,1,6100,7,Stropešín,6104,132,3,1okrsek_moreparties
+587494,1,6100,7,Markvartice,6102,194,4,1okrsek_moreparties
+587516,1,6100,7,Meziříčko,6105,173,11,1okrsek_moreparties
+587532,1,6100,7,Mirošov,6102,162,11,1okrsek_moreparties
+587541,1,6100,15,Mrákotín,6102,875,3,1okrsek_moreparties
+587559,1,6100,11,Mysletice,6102,125,15,1okrsek_moreparties
+587567,1,6100,7,Mysliboř,6102,201,9,1okrsek_moreparties
+587583,1,6100,7,Nevcehle,6102,233,8,1okrsek_moreparties
+587591,1,6100,15,Nová Říše,6102,830,3,1okrsek_moreparties
+587605,1,6100,7,Lomy,6104,129,7,1okrsek_moreparties
+587630,1,6100,7,Ořechov,6102,69,12,1okrsek_moreparties
+587681,1,6100,7,Pavlov,6102,401,2,1okrsek_moreparties
+587699,1,6100,7,Valdíkov,6104,109,11,1okrsek_moreparties
+587729,1,6200,11,Nový Šaldorf-Sedlešovice,6207,1697,5,1okrsek_moreparties
+587745,1,6100,15,Puklice,6102,857,5,1okrsek_moreparties
+587761,1,6100,7,Radkov,6102,237,2,1okrsek_moreparties
+587770,1,6100,5,Milešín,6105,80,11,1okrsek_moreparties
+587834,1,6100,9,Řásná,6102,234,2,1okrsek_moreparties
+587842,1,6100,9,Křídla,6105,375,9,1okrsek_moreparties
+587851,1,6100,9,Řídelov,6102,79,2,1okrsek_moreparties
+587869,1,6100,5,Vlachovice,6105,137,2,1okrsek_moreparties
+587877,1,6100,7,Sedlatice,6102,56,10,1okrsek_moreparties
+587885,1,6100,7,Sedlejov,6102,301,9,1okrsek_moreparties
+587893,1,6100,7,Velké Tresné,6105,106,2,1okrsek_moreparties
+587907,1,6200,9,Katov,6203,272,13,1okrsek_moreparties
+587923,1,6100,15,Stará Říše,6102,622,4,1okrsek_moreparties
+587931,1,6100,15,Stonařov,6102,1096,4,1okrsek_moreparties
+587958,1,6100,7,Střítež,6102,457,2,1okrsek_moreparties
+587974,1,6100,9,Nové Dvory,6105,328,4,1okrsek_moreparties
+587982,1,6100,7,Suchá,6102,251,2,1okrsek_moreparties
+587991,1,6100,5,Svojkovice,6102,45,3,1okrsek_moreparties
+588008,1,6100,7,Šimanov,6102,224,2,1okrsek_moreparties
+588041,1,6100,7,Třeštice,6102,165,7,1okrsek_moreparties
+588067,1,6100,7,Urbanov,6102,137,7,1okrsek_moreparties
+588075,1,6100,9,Ústí,6102,222,2,1okrsek_moreparties
+588083,1,6100,7,Vanov,6102,85,7,1okrsek_moreparties
+588091,1,6100,7,Vanůvek,6102,37,7,1okrsek_moreparties
+588113,1,6100,15,Velký Beranov,6102,1276,3,1okrsek_moreparties
+588121,1,6100,9,Větrný Jeníkov,6102,627,3,1okrsek_moreparties
+588130,1,6100,7,Věžnice,6102,155,2,1okrsek_moreparties
+588156,1,6100,7,Vílanec,6102,317,2,1okrsek_moreparties
+588164,1,6100,7,Volevčice,6102,71,9,1okrsek_moreparties
+588181,1,6100,7,Vysoké Studnice,6102,411,7,1okrsek_moreparties
+588199,1,6100,7,Vystrčenovice,6102,118,8,1okrsek_moreparties
+588211,1,6100,7,Zbilidy,6102,229,2,1okrsek_moreparties
+588229,1,6100,7,Zbinohy,6102,103,8,1okrsek_moreparties
+588237,1,6100,7,Sazomín,6105,258,11,1okrsek_moreparties
+588245,1,6100,7,Zdeňkov,6102,54,8,1okrsek_moreparties
+588270,1,6100,7,Žatec,6102,114,10,1okrsek_moreparties
+588326,1,7200,7,Bezměrov,7201,531,5,1okrsek_moreparties
+588334,1,6100,7,Vysoké,6105,189,9,1okrsek_moreparties
+588342,1,6100,7,Vícenice,6104,187,9,1okrsek_moreparties
+588377,1,7200,7,Brusné,7201,360,2,1okrsek_moreparties
+588385,1,7200,15,Břest,7201,952,3,1okrsek_moreparties
+588407,1,7200,7,Cetechovice,7201,189,16,1okrsek_moreparties
+588431,1,7200,9,Dřínov,7201,432,3,1okrsek_moreparties
+588482,1,7200,7,Hoštice,7201,155,2,1okrsek_moreparties
+588555,1,7200,9,Jankovice,7201,404,3,1okrsek_moreparties
+588636,1,7200,7,Kurovice,7201,264,2,1okrsek_moreparties
+588652,1,7200,9,Kyselovice,7201,499,2,1okrsek_moreparties
+588661,1,7200,7,Lechotice,7201,435,3,1okrsek_moreparties
+588717,1,7200,9,Lubná,7201,456,2,1okrsek_moreparties
+588725,1,7200,9,Ludslavice,7201,483,2,1okrsek_moreparties
+588741,1,7200,9,Martinice,7201,818,3,1okrsek_moreparties
+588806,1,7200,7,Nítkovice,7201,234,2,1okrsek_moreparties
+588822,1,7200,9,Osíčko,7201,451,2,1okrsek_moreparties
+588831,1,7200,7,Pacetluky,7201,227,12,1okrsek_moreparties
+588873,1,7200,9,Podhradní Lhota,7201,462,4,1okrsek_moreparties
+588890,1,7200,15,Pravčice,7201,719,2,1okrsek_moreparties
+588903,1,7200,7,Prusinovice,7201,1189,2,1okrsek_moreparties
+588946,1,7200,7,Roštění,7201,666,3,1okrsek_moreparties
+588954,1,7200,15,Roštín,7201,701,2,1okrsek_moreparties
+588971,1,7200,9,Rymice,7201,599,2,1okrsek_moreparties
+588989,1,7200,7,Skaštice,7201,378,2,1okrsek_moreparties
+589047,1,7200,7,Střížovice,7201,243,2,1okrsek_moreparties
+589098,1,7200,9,Třebětice,7201,277,2,1okrsek_moreparties
+589152,1,7200,7,Zahnašovice,7201,321,2,1okrsek_moreparties
+589161,1,7200,11,Záříčí,7201,713,4,1okrsek_moreparties
+589225,1,7200,15,Žalkovice,7201,580,2,1okrsek_moreparties
+589233,1,7200,9,Žeranovice,7201,810,2,1okrsek_moreparties
+589268,1,7100,9,Bedihošť,7103,1095,5,1okrsek_moreparties
+589284,1,7100,7,Biskupice,7103,303,2,1okrsek_moreparties
+589292,1,7100,7,Bohuslavice,7103,446,2,1okrsek_moreparties
+589306,1,7100,7,Bousín,7103,128,2,1okrsek_moreparties
+589349,1,7100,7,Budětsko,7103,414,3,1okrsek_moreparties
+589357,1,7100,7,Buková,7103,303,3,1okrsek_moreparties
+589365,1,7100,7,Čehovice,7103,512,3,1okrsek_moreparties
+589381,1,7100,7,Čechy pod Kosířem,7103,1045,4,1okrsek_moreparties
+589390,1,7100,7,Čelčice,7103,511,3,1okrsek_moreparties
+589420,1,7100,7,Dětkovice,7103,535,2,1okrsek_moreparties
+589446,1,7100,11,Dobromilice,7103,815,8,1okrsek_moreparties
+589454,1,7100,7,Doloplazy,7103,530,3,1okrsek_moreparties
+589489,1,7100,7,Dřevnovice,7103,487,2,1okrsek_moreparties
+589497,1,7100,7,Dzbel,7103,232,2,1okrsek_moreparties
+589501,1,7100,7,Hluchov,7103,337,3,1okrsek_moreparties
+589543,1,7100,7,Hrubčice,7103,828,4,1okrsek_moreparties
+589578,1,7100,7,Ivaň,7103,461,3,1okrsek_moreparties
+589586,1,7100,7,Jesenec,7103,297,2,1okrsek_moreparties
+589608,1,7100,11,Klenovice na Hané,7103,832,3,1okrsek_moreparties
+589616,1,7100,7,Klopotovice,7103,281,2,1okrsek_moreparties
+589659,1,7100,9,Kralice na Hané,7103,1681,8,1okrsek_moreparties
+589683,1,7100,7,Lešany,7103,377,9,1okrsek_moreparties
+589713,1,7100,9,Malé Hradisko,7103,372,3,1okrsek_moreparties
+589721,1,7100,9,Mořice,7103,519,4,1okrsek_moreparties
+589730,1,7100,11,Mostkovice,7103,1597,3,1okrsek_moreparties
+589764,1,7100,15,Nezamyslice,7103,1485,4,1okrsek_moreparties
+589799,1,7100,7,Obědkovice,7103,283,2,1okrsek_moreparties
+589811,1,7100,7,Ochoz,7103,195,6,1okrsek_moreparties
+589845,1,7100,9,Otaslavice,7103,1301,5,1okrsek_moreparties
+589870,1,7100,7,Pěnčín,7103,766,2,1okrsek_moreparties
+589888,1,7100,9,Pivín,7103,723,2,1okrsek_moreparties
+589918,1,7100,7,Prostějovičky,7103,310,4,1okrsek_moreparties
+589951,1,7100,7,Raková u Konice,7103,214,4,1okrsek_moreparties
+589969,1,7100,7,Rakůvka,7103,101,9,1okrsek_moreparties
+589993,1,7100,7,Skalka,7103,274,2,1okrsek_moreparties
+590002,1,7100,9,Skřípov,7103,326,2,1okrsek_moreparties
+590011,1,7100,7,Slatinky,7103,595,2,1okrsek_moreparties
+590029,1,7100,9,Smržice,7103,1600,5,1okrsek_moreparties
+590070,1,7100,9,Stražisko,7103,423,4,1okrsek_moreparties
+590096,1,7100,7,Šubířov,7103,265,3,1okrsek_moreparties
+590100,1,7100,9,Tištín,7103,458,3,1okrsek_moreparties
+590134,1,7100,7,Víceměřice,7103,556,4,1okrsek_moreparties
+590142,1,7100,7,Vícov,7103,553,4,1okrsek_moreparties
+590193,1,7100,11,Vrchoslavice,7103,602,4,1okrsek_moreparties
+590207,1,7100,7,Vřesovice,7103,576,2,1okrsek_moreparties
+590282,1,6100,7,Bačice,6104,200,2,1okrsek_moreparties
+590304,1,6100,7,Benetice,6104,193,10,1okrsek_moreparties
+590321,1,6100,7,Blatnice,6104,355,3,1okrsek_moreparties
+590347,1,6100,7,Bochovice,6104,148,15,1okrsek_moreparties
+590363,1,6100,7,Bransouze,6104,214,7,1okrsek_moreparties
+590380,1,6100,11,Březník,6104,702,4,1okrsek_moreparties
+590401,1,6100,15,Budišov,6104,1186,7,1okrsek_moreparties
+590410,1,6100,9,Budkov,6104,348,3,1okrsek_moreparties
+590436,1,6100,15,Čáslavice,6104,552,2,1okrsek_moreparties
+590444,1,6100,7,Čechočovice,6104,338,9,1okrsek_moreparties
+590452,1,6100,9,Čechtín,6104,306,19,1okrsek_moreparties
+590461,1,6100,7,Červená Lhota,6104,184,9,1okrsek_moreparties
+590479,1,6100,9,Číhalín,6104,219,14,1okrsek_moreparties
+590487,1,6100,7,Číchov,6104,226,8,1okrsek_moreparties
+590495,1,6100,7,Čikov,6104,192,7,1okrsek_moreparties
+590517,1,6100,11,Dalešice,6104,560,4,1okrsek_moreparties
+590525,1,6100,7,Dědice,6104,126,9,1okrsek_moreparties
+590533,1,6100,9,Dešov,6104,425,15,1okrsek_moreparties
+590550,1,6100,7,Dolní Vilémovice,6104,427,2,1okrsek_moreparties
+590568,1,6100,9,Domamil,6104,311,3,1okrsek_moreparties
+590576,1,6100,15,Dukovany,6104,883,4,1okrsek_moreparties
+590584,1,6100,11,Hartvíkovice,6104,552,4,1okrsek_moreparties
+590592,1,6100,7,Heraltice,6104,362,4,1okrsek_moreparties
+590614,1,6100,7,Hluboké,6104,208,2,1okrsek_moreparties
+590622,1,6100,7,Hodov,6104,302,2,1okrsek_moreparties
+590631,1,6100,7,Horní Heřmanice,6104,141,10,1okrsek_moreparties
+590657,1,6100,7,Horní Vilémovice,6104,84,8,1okrsek_moreparties
+590665,1,6100,7,Hornice,6104,59,9,1okrsek_moreparties
+590690,1,6100,7,Hvězdoňovice,6104,115,7,1okrsek_moreparties
+590703,1,6100,9,Chlístov,6104,306,15,1okrsek_moreparties
+590711,1,6100,9,Chlum,6104,145,9,1okrsek_moreparties
+590746,1,6100,15,Jakubov u Moravských Budějovic,6104,629,2,1okrsek_moreparties
+590797,1,6100,7,Jinošov,6104,239,11,1okrsek_moreparties
+590801,1,6100,7,Kamenná,6104,219,7,1okrsek_moreparties
+590827,1,6100,7,Kladeruby nad Oslavou,6104,198,2,1okrsek_moreparties
+590843,1,6100,15,Kněžice,6102,1355,3,1okrsek_moreparties
+590860,1,6100,7,Kojetice,6104,452,8,1okrsek_moreparties
+590886,1,6100,7,Koněšín,6104,504,2,1okrsek_moreparties
+590894,1,6100,7,Kostníky,6104,184,9,1okrsek_moreparties
+590908,1,6100,9,Kouty,6104,390,3,1okrsek_moreparties
+590941,1,6100,15,Kralice nad Oslavou,6104,1012,5,1okrsek_moreparties
+590959,1,6100,7,Kramolín,6104,125,9,1okrsek_moreparties
+590967,1,6100,9,Krhov,6104,174,17,1okrsek_moreparties
+590975,1,6100,7,Krokočín,6104,211,2,1okrsek_moreparties
+590983,1,6100,7,Lesná,6104,94,7,1okrsek_moreparties
+591025,1,6100,7,Lhánice,6104,167,6,1okrsek_moreparties
+591041,1,6100,9,Lipník,6104,400,12,1okrsek_moreparties
+591092,1,6100,7,Loukovice,6104,124,2,1okrsek_moreparties
+591114,1,6100,9,Markvartice,6104,280,11,1okrsek_moreparties
+591122,1,6100,7,Mastník,6104,216,2,1okrsek_moreparties
+591157,1,6100,6,Mikulovice,6104,224,6,1okrsek_moreparties
+591165,1,6100,9,Mladoňovice,6104,406,3,1okrsek_moreparties
+591173,1,6100,15,Mohelno,6104,1349,3,1okrsek_moreparties
+591220,1,6100,7,Nárameč,6104,349,2,1okrsek_moreparties
+591246,1,6100,9,Nová Ves,6104,251,14,1okrsek_moreparties
+591262,1,6100,7,Nový Telečkov,6104,102,10,1okrsek_moreparties
+591319,1,6100,11,Opatov,6104,773,4,1okrsek_moreparties
+591327,1,6100,7,Oponešice,6104,181,7,1okrsek_moreparties
+591335,1,6100,7,Ostašov,6104,162,2,1okrsek_moreparties
+591360,1,6100,9,Petrovice,6104,417,4,1okrsek_moreparties
+591394,1,6100,7,Police,6104,330,9,1okrsek_moreparties
+591416,1,6100,9,Pozďatín,6104,157,3,1okrsek_moreparties
+591424,1,6100,7,Přeckov,6104,76,10,1okrsek_moreparties
+591432,1,6100,15,Předín,6104,677,2,1okrsek_moreparties
+591441,1,6100,7,Přešovice,6104,138,2,1okrsek_moreparties
+591459,1,6100,9,Přibyslavice,6104,795,6,1okrsek_moreparties
+591491,1,6100,7,Pucov,6104,159,4,1okrsek_moreparties
+591521,1,6100,7,Račice,6104,88,2,1okrsek_moreparties
+591548,1,6100,9,Radkovice u Hrotovic,6104,343,4,1okrsek_moreparties
+591556,1,6100,7,Radonín,6104,80,8,1okrsek_moreparties
+591564,1,6100,7,Radošov,6104,158,9,1okrsek_moreparties
+591581,1,6100,7,Rapotice,6104,537,2,1okrsek_moreparties
+591611,1,6100,11,Rokytnice nad Rokytnou,6104,838,2,1okrsek_moreparties
+591637,1,6100,9,Rudíkov,6104,727,4,1okrsek_moreparties
+591645,1,6100,7,Římov,6104,440,8,1okrsek_moreparties
+591661,1,6200,9,Senorady,6203,386,12,1okrsek_moreparties
+591688,1,6100,9,Slavětice,6104,236,2,1okrsek_moreparties
+591742,1,6100,13,Stařeč,6104,1679,4,1okrsek_moreparties
+591769,1,6100,9,Studenec,6104,601,2,1okrsek_moreparties
+591777,1,6100,7,Studnice,6104,125,9,1okrsek_moreparties
+591785,1,6100,7,Sudice,6104,352,3,1okrsek_moreparties
+591793,1,6100,7,Svatoslav,6104,265,8,1okrsek_moreparties
+591807,1,6100,11,Šebkovice,6104,483,2,1okrsek_moreparties
+591815,1,6100,9,Štěměchy,6104,298,15,1okrsek_moreparties
+591831,1,6100,9,Tasov,6105,682,3,1okrsek_moreparties
+591858,1,6100,9,Třebelovice,6104,425,3,1okrsek_moreparties
+591866,1,6100,9,Třebenice,6104,445,23,1okrsek_moreparties
+591874,1,6100,15,Valeč,6104,828,6,1okrsek_moreparties
+591912,1,6100,7,Vlčatín,6104,151,13,1okrsek_moreparties
+591947,1,6100,7,Zahrádka,6104,145,10,1okrsek_moreparties
+591955,1,6100,7,Zárubice,6104,117,9,1okrsek_moreparties
+591963,1,6100,7,Zašovice,6104,123,12,1okrsek_moreparties
+591980,1,6100,7,Zvěrkovice,6104,213,2,1okrsek_moreparties
+592013,1,7200,15,Babice,7202,1839,3,1okrsek_moreparties
+592072,1,7200,9,Břestek,7202,844,5,1okrsek_moreparties
+592099,1,7200,9,Březová,7202,977,3,1okrsek_moreparties
+592111,1,7200,9,Bystřice pod Lopeníkem,7202,831,2,1okrsek_moreparties
+592137,1,7200,7,Částkov,7202,382,3,1okrsek_moreparties
+592153,1,7200,7,Drslavice,7202,500,2,1okrsek_moreparties
+592188,1,7200,15,Horní Němčí,7202,802,4,1okrsek_moreparties
+592218,1,7200,9,Huštěnovice,7202,995,2,1okrsek_moreparties
+592226,1,7200,15,Jalubí,7202,1809,5,1okrsek_moreparties
+592234,1,7200,7,Jankovice,7202,454,2,1okrsek_moreparties
+592269,1,7200,15,Kněžpole,7202,1090,4,1okrsek_moreparties
+592277,1,7200,9,Komňa,7202,551,4,1okrsek_moreparties
+592285,1,7200,9,Korytná,7202,921,4,1okrsek_moreparties
+592293,1,7200,9,Kostelany nad Moravou,7202,908,2,1okrsek_moreparties
+592323,1,7200,9,Kudlovice,7202,973,2,1okrsek_moreparties
+592340,1,7200,7,Lopeník,7202,228,2,1okrsek_moreparties
+592391,1,7200,9,Modrá,7202,713,2,1okrsek_moreparties
+592404,1,7200,9,Nedachlebice,7202,796,2,1okrsek_moreparties
+592412,1,7200,15,Nedakonice,7202,1631,7,1okrsek_moreparties
+592421,1,7200,9,Nezdenice,7202,726,2,1okrsek_moreparties
+592447,1,7200,9,Ořechov,7202,778,5,1okrsek_moreparties
+592471,1,7200,11,Osvětimany,7202,892,5,1okrsek_moreparties
+592498,1,7200,15,Pitín,7202,905,2,1okrsek_moreparties
+592501,1,7200,9,Podolí,7202,890,5,1okrsek_moreparties
+592528,1,7200,9,Popovice,7202,998,2,1okrsek_moreparties
+592552,1,7200,9,Rudice,7202,458,2,1okrsek_moreparties
+592561,1,7200,7,Salaš,7202,412,2,1okrsek_moreparties
+592609,1,7200,15,Starý Hrozenkov,7202,795,3,1okrsek_moreparties
+592625,1,7200,7,Stříbrnice,7202,426,2,1okrsek_moreparties
+592641,1,7200,9,Suchá Loz,7202,1102,4,1okrsek_moreparties
+592692,1,7200,15,Topolná,7202,1600,4,1okrsek_moreparties
+592706,1,7200,13,Traplice,7202,1154,2,1okrsek_moreparties
+592714,1,7200,5,Tučapy,7202,251,4,1okrsek_moreparties
+592722,1,7200,9,Tupesy,7202,1143,3,1okrsek_moreparties
+592773,1,7200,7,Vápenice,7202,198,3,1okrsek_moreparties
+592781,1,7200,9,Vážany,7202,433,4,1okrsek_moreparties
+592790,1,7200,11,Velehrad,7202,1112,4,1okrsek_moreparties
+592846,1,7200,9,Záhorovice,7202,1010,2,1okrsek_moreparties
+592862,1,7200,9,Zlechov,7202,1630,4,1okrsek_moreparties
+592871,1,7200,7,Žítková,7202,172,2,1okrsek_moreparties
+592919,1,6200,11,Bošovice,6206,1256,6,1okrsek_moreparties
+592927,1,6200,15,Brankovice,6206,884,3,1okrsek_moreparties
+592978,1,6200,7,Dětkovice,6206,273,2,1okrsek_moreparties
+592986,1,6200,7,Dobročkovice,6206,227,2,1okrsek_moreparties
+592994,1,6200,15,Dražovice,6206,953,2,1okrsek_moreparties
+593028,1,6200,7,Habrovany,6206,878,5,1okrsek_moreparties
+593036,1,6200,9,Hlubočany,6206,518,3,1okrsek_moreparties
+593044,1,6200,9,Hodějice,6206,1083,2,1okrsek_moreparties
+593052,1,6200,11,Hostěrádky-Rešov,6206,845,3,1okrsek_moreparties
+593061,1,6200,9,Hoštice-Heroltice,6206,629,3,1okrsek_moreparties
+593079,1,6200,7,Hrušky,6206,757,2,1okrsek_moreparties
+593095,1,6200,7,Chvalkovice,6206,271,2,1okrsek_moreparties
+593125,1,6200,7,Ježkovice,6206,381,3,1okrsek_moreparties
+593141,1,6200,7,Kobeřice u Brna,6206,718,3,1okrsek_moreparties
+593150,1,6200,7,Kojátky,6206,369,2,1okrsek_moreparties
+593168,1,6200,9,Komořany,6206,743,2,1okrsek_moreparties
+593184,1,6200,7,Kožušice,6206,105,2,1okrsek_moreparties
+593222,1,6200,11,Křižanovice,6206,818,3,1okrsek_moreparties
+593249,1,6200,9,Kučerov,6206,496,4,1okrsek_moreparties
+593257,1,6200,15,Letonice,6206,1378,4,1okrsek_moreparties
+593265,1,6200,9,Lovčičky,6206,744,3,1okrsek_moreparties
+593273,1,6200,9,Luleč,6206,974,2,1okrsek_moreparties
+593281,1,6200,7,Lysovice,6206,290,2,1okrsek_moreparties
+593320,1,6200,7,Milešovice,6206,668,2,1okrsek_moreparties
+593346,1,6200,11,Moravské Málkovice,6206,583,3,1okrsek_moreparties
+593371,1,6200,9,Němčany,6206,793,2,1okrsek_moreparties
+593389,1,6200,9,Nemochovice,6206,300,2,1okrsek_moreparties
+593401,1,6200,9,Nemotice,6206,427,2,1okrsek_moreparties
+593419,1,6200,9,Nesovice,6206,1083,5,1okrsek_moreparties
+593427,1,6200,7,Nevojice,6206,411,2,1okrsek_moreparties
+593435,1,6200,7,Nížkovice,6206,743,2,1okrsek_moreparties
+593460,1,6200,7,Orlovice,6206,307,2,1okrsek_moreparties
+593478,1,6200,11,Otnice,6206,1594,3,1okrsek_moreparties
+593486,1,6200,7,Podivice,6206,173,2,1okrsek_moreparties
+593532,1,6200,9,Rašovice,6206,688,3,1okrsek_moreparties
+593567,1,6200,9,Ruprechtov,6206,594,3,1okrsek_moreparties
+593605,1,6200,7,Studnice,6206,494,4,1okrsek_moreparties
+593613,1,6200,15,Šaratice,6206,1056,3,1okrsek_moreparties
+593621,1,6200,15,Švábenice,6206,1026,2,1okrsek_moreparties
+593656,1,6200,9,Vážany,6206,452,3,1okrsek_moreparties
+593664,1,6200,7,Vážany nad Litavou,6206,741,4,1okrsek_moreparties
+593681,1,6200,9,Velešovice,6206,1239,2,1okrsek_moreparties
+593702,1,6200,5,Zelená Hora,6206,309,2,1okrsek_moreparties
+593729,1,6200,7,Bantice,6207,288,3,1okrsek_moreparties
+593753,1,6200,7,Bítov,6207,133,6,1okrsek_moreparties
+593770,1,6200,9,Blížkovice,6207,1198,3,1okrsek_moreparties
+593788,1,6200,9,Bohutice,6207,661,4,1okrsek_moreparties
+593818,1,6200,7,Boskovštejn,6207,160,2,1okrsek_moreparties
+593826,1,6200,15,Božice,6207,1575,2,1okrsek_moreparties
+593851,1,6200,7,Citonice,6207,597,3,1okrsek_moreparties
+593869,1,6200,7,Ctidružice,6207,291,2,1okrsek_moreparties
+593877,1,6200,7,Čejkovice,6207,237,2,1okrsek_moreparties
+593885,1,6200,5,Čermákovice,6207,97,2,1okrsek_moreparties
+593893,1,6200,7,Černín,6207,149,9,1okrsek_moreparties
+593907,1,6200,7,Damnice,6207,355,2,1okrsek_moreparties
+593931,1,6200,7,Dobřínsko,6207,395,3,1okrsek_moreparties
+593958,1,6200,7,Dolenice,6207,135,2,1okrsek_moreparties
+593966,1,6200,7,Dolní Dubňany,6207,481,2,1okrsek_moreparties
+593974,1,6200,11,Dyjákovice,6207,877,4,1okrsek_moreparties
+593982,1,6200,9,Dyjákovičky,6207,572,4,1okrsek_moreparties
+593991,1,6200,7,Dyje,6207,484,3,1okrsek_moreparties
+594008,1,6200,7,Džbánice,6207,138,2,1okrsek_moreparties
+594016,1,6200,7,Grešlové Mýto,6207,208,2,1okrsek_moreparties
+594024,1,6200,7,Havraníky,6207,304,3,1okrsek_moreparties
+594032,1,6200,11,Hevlín,6207,1350,5,1okrsek_moreparties
+594041,1,6200,9,Hluboké Mašůvky,6207,830,5,1okrsek_moreparties
+594059,1,6200,7,Hnanice,6207,365,3,1okrsek_moreparties
+594067,1,6200,11,Hodonice,6207,1779,4,1okrsek_moreparties
+594083,1,6200,7,Horní Dubňany,6207,287,2,1okrsek_moreparties
+594091,1,6200,7,Horní Dunajovice,6207,628,2,1okrsek_moreparties
+594105,1,6200,7,Horní Kounice,6207,294,2,1okrsek_moreparties
+594113,1,6200,9,Hostěradice,6207,1618,5,1okrsek_moreparties
+594121,1,6200,7,Hostim,6207,410,3,1okrsek_moreparties
+594130,1,6200,11,Hrabětice,6207,855,3,1okrsek_moreparties
+594148,1,6200,11,Hrádek,6207,925,6,1okrsek_moreparties
+594172,1,6200,9,Chvalovice,6207,675,4,1okrsek_moreparties
+594181,1,6200,7,Jamolice,6207,451,3,1okrsek_moreparties
+594199,1,6200,13,Jaroslavice,6207,1247,3,1okrsek_moreparties
+594202,1,6200,9,Jevišovice,6207,1146,3,1okrsek_moreparties
+594211,1,6200,7,Jezeřany-Maršovice,6207,783,5,1okrsek_moreparties
+594229,1,6200,9,Jiřice u Miroslavi,6207,469,3,1okrsek_moreparties
+594237,1,6200,7,Kadov,6207,150,5,1okrsek_moreparties
+594253,1,6200,7,Korolupy,6207,154,6,1okrsek_moreparties
+594261,1,6200,7,Kravsko,6207,573,2,1okrsek_moreparties
+594270,1,6200,9,Krhovice,6207,594,4,1okrsek_moreparties
+594300,1,6200,15,Kuchařovice,6207,908,3,1okrsek_moreparties
+594326,1,6200,7,Lančov,6207,211,3,1okrsek_moreparties
+594334,1,6200,9,Lechovice,6207,541,6,1okrsek_moreparties
+594351,1,6200,9,Lesonice,6207,242,3,1okrsek_moreparties
+594369,1,6200,9,Litobratřice,6207,496,3,1okrsek_moreparties
+594377,1,6200,7,Loděnice,6203,532,2,1okrsek_moreparties
+594407,1,6200,7,Mackovice,6207,389,2,1okrsek_moreparties
+594415,1,6200,7,Mašovice,6207,532,2,1okrsek_moreparties
+594423,1,6200,7,Medlice,6207,166,2,1okrsek_moreparties
+594431,1,6200,11,Mikulovice,6207,637,3,1okrsek_moreparties
+594466,1,6200,7,Miroslavské Knínice,6207,330,4,1okrsek_moreparties
+594474,1,6200,7,Morašice,6207,231,2,1okrsek_moreparties
+594521,1,6200,7,Němčičky,6207,81,8,1okrsek_moreparties
+594555,1,6200,7,Olbramkostel,6207,521,5,1okrsek_moreparties
+594563,1,6200,9,Olbramovice,6207,1120,3,1okrsek_moreparties
+594580,1,6200,7,Onšov,6207,68,2,1okrsek_moreparties
+594601,1,6200,9,Pavlice,6207,476,3,1okrsek_moreparties
+594610,1,6200,9,Petrovice,6207,378,3,1okrsek_moreparties
+594636,1,6200,5,Podhradí nad Dyjí,6207,45,2,1okrsek_moreparties
+594652,1,6200,7,Podmyče,6207,112,3,1okrsek_moreparties
+594679,1,6200,9,Práče,6207,801,2,1okrsek_moreparties
+594687,1,6200,9,Pravice,6207,366,3,1okrsek_moreparties
+594709,1,6200,7,Prosiměřice,6207,866,3,1okrsek_moreparties
+594725,1,6200,9,Rešice,6207,333,3,1okrsek_moreparties
+594741,1,6200,7,Rudlice,6207,104,8,1okrsek_moreparties
+594768,1,6200,9,Skalice,6207,514,2,1okrsek_moreparties
+594776,1,6200,7,Slatina,6207,229,2,1okrsek_moreparties
+594806,1,6200,7,Starý Petřín,6207,231,10,1okrsek_moreparties
+594814,1,6200,5,Stošíkovice na Louce,6207,311,2,1okrsek_moreparties
+594822,1,6200,9,Strachotice,6207,1012,2,1okrsek_moreparties
+594831,1,6200,5,Střelice,6207,151,11,1okrsek_moreparties
+594865,1,6200,7,Šafov,6207,145,2,1okrsek_moreparties
+594873,1,6200,15,Šanov,6207,1590,2,1okrsek_moreparties
+594881,1,6200,9,Šatov,6207,1101,5,1okrsek_moreparties
+594890,1,6200,9,Štítary,6207,599,4,1okrsek_moreparties
+594903,1,6200,7,Šumice,6203,295,3,1okrsek_moreparties
+594911,1,6200,9,Šumná,6207,628,4,1okrsek_moreparties
+594920,1,6200,11,Tasovice,6207,1374,3,1okrsek_moreparties
+594962,1,6200,9,Troskotovice,6203,696,4,1okrsek_moreparties
+594971,1,6200,9,Trstěnice,6207,528,2,1okrsek_moreparties
+594989,1,6200,7,Tulešice,6207,194,12,1okrsek_moreparties
+594997,1,6200,7,Tvořihráz,6207,414,4,1okrsek_moreparties
+595039,1,6200,7,Valtrovice,6207,414,11,1okrsek_moreparties
+595047,1,6200,9,Vedrovice,6207,875,4,1okrsek_moreparties
+595055,1,6200,9,Vémyslice,6207,705,3,1okrsek_moreparties
+595063,1,6200,7,Vevčice,6207,71,9,1okrsek_moreparties
+595071,1,6200,11,Višňové,6207,1067,4,1okrsek_moreparties
+595080,1,6200,7,Vítonice,6207,256,3,1okrsek_moreparties
+595098,1,6200,15,Vranov nad Dyjí,6207,750,2,1okrsek_moreparties
+595101,1,6200,7,Vranovská Ves,6207,295,4,1okrsek_moreparties
+595110,1,6200,9,Vratěnín,6207,280,2,1okrsek_moreparties
+595144,1,6200,6,Vysočany,6207,93,2,1okrsek_moreparties
+595161,1,6200,7,Zblovice,6207,44,2,1okrsek_moreparties
+595187,1,6200,7,Žerotice,6207,344,2,1okrsek_moreparties
+595217,1,6100,7,Baliny,6105,127,2,1okrsek_moreparties
+595250,1,6100,9,Blízkov,6105,343,2,1okrsek_moreparties
+595268,1,6100,15,Bobrová,6105,901,5,1okrsek_moreparties
+595306,1,6100,7,Bohuňov,6105,268,9,1okrsek_moreparties
+595314,1,6200,7,Borač,6203,350,4,1okrsek_moreparties
+595322,1,6100,7,Borovnice,6105,182,9,1okrsek_moreparties
+595331,1,6200,7,Borovník,6203,107,8,1okrsek_moreparties
+595357,1,6100,7,Březí,6105,180,9,1okrsek_moreparties
+595365,1,6100,7,Březí nad Oslavou,6105,289,8,1okrsek_moreparties
+595381,1,6100,7,Březské,6105,185,12,1okrsek_moreparties
+595390,1,6100,7,Budeč,6105,186,9,1okrsek_moreparties
+595403,1,6100,9,Bukov,6105,186,2,1okrsek_moreparties
+595446,1,6200,7,Černvír,6203,151,2,1okrsek_moreparties
+595454,1,6100,13,Dalečín,6105,649,2,1okrsek_moreparties
+595462,1,6100,9,Daňkovice,6105,158,12,1okrsek_moreparties
+595471,1,6100,9,Dlouhé,6105,256,4,1okrsek_moreparties
+595489,1,6100,9,Dobrá Voda,6105,386,4,1okrsek_moreparties
+595501,1,6100,9,Dolní Heřmanice,6105,539,2,1okrsek_moreparties
+595519,1,6100,7,Dolní Libochová,6105,145,11,1okrsek_moreparties
+595527,1,6200,15,Dolní Loučky,6203,1304,4,1okrsek_moreparties
+595535,1,6100,15,Dolní Rožínka,6105,575,4,1okrsek_moreparties
+595551,1,6200,15,Doubravník,6203,815,3,1okrsek_moreparties
+595560,1,6200,7,Drahonín,6203,107,12,1okrsek_moreparties
+595586,1,6100,15,Hamry nad Sázavou,6105,1608,2,1okrsek_moreparties
+595594,1,6100,15,Herálec,6105,1326,2,1okrsek_moreparties
+595608,1,6100,9,Heřmanov,6105,214,15,1okrsek_moreparties
+595624,1,6100,5,Hodíškov,6105,151,2,1okrsek_moreparties
+595641,1,6100,15,Bory,6105,764,2,1okrsek_moreparties
+595675,1,6100,5,Horní Radslavice,6105,92,8,1okrsek_moreparties
+595705,1,6100,5,Chlum-Korouhvice,6105,39,5,1okrsek_moreparties
+595721,1,6100,7,Chlumětín,6105,215,14,1okrsek_moreparties
+595730,1,6100,7,Jabloňov,6105,341,14,1okrsek_moreparties
+595748,1,6100,9,Javorek,6105,109,9,1okrsek_moreparties
+595756,1,6100,11,Jámy,6105,628,4,1okrsek_moreparties
+595802,1,6100,7,Jívoví,6105,279,2,1okrsek_moreparties
+595811,1,6100,7,Kadolec,6105,174,9,1okrsek_moreparties
+595829,1,6100,7,Kadov,6105,164,2,1okrsek_moreparties
+595845,1,6100,7,Karlov,6105,112,2,1okrsek_moreparties
+595853,1,6100,7,Kněževes,6105,151,10,1okrsek_moreparties
+595861,1,6100,7,Koroužné,6105,259,14,1okrsek_moreparties
+595870,1,6100,7,Kotlasy,6105,107,7,1okrsek_moreparties
+595900,1,6100,7,Krásněves,6105,294,2,1okrsek_moreparties
+595918,1,6100,9,Křižánky,6105,395,2,1okrsek_moreparties
+595926,1,6100,15,Křižanov,6105,1846,5,1okrsek_moreparties
+595934,1,6200,9,Křižínkov,6203,225,2,1okrsek_moreparties
+595951,1,6100,15,Křoví,6105,611,3,1okrsek_moreparties
+595969,1,6100,9,Kuklík,6105,194,13,1okrsek_moreparties
+595977,1,6100,7,Kundratice,6105,171,7,1okrsek_moreparties
+595985,1,6200,7,Kuřimská Nová Ves,6203,139,7,1okrsek_moreparties
+595993,1,6200,9,Kuřimské Jestřabí,6203,187,10,1okrsek_moreparties
+596019,1,6100,7,Lavičky,6105,593,13,1okrsek_moreparties
+596051,1,6100,7,Lísek,6105,391,11,1okrsek_moreparties
+596078,1,6200,7,Lubné,6203,53,8,1okrsek_moreparties
+596086,1,6100,9,Malá Losenice,6105,268,2,1okrsek_moreparties
+596108,1,6100,7,Matějov,6105,195,2,1okrsek_moreparties
+596132,1,6100,7,Mirošov,6105,131,14,1okrsek_moreparties
+596141,1,6100,9,Moravec,6105,633,4,1okrsek_moreparties
+596159,1,6100,5,Moravecké Pavlovice,6105,45,2,1okrsek_moreparties
+596175,1,6200,15,Nedvědice,6203,1289,4,1okrsek_moreparties
+596183,1,6100,9,Netín,6105,363,3,1okrsek_moreparties
+596191,1,6200,9,Níhov,6203,249,11,1okrsek_moreparties
+596213,1,6100,7,Nová Ves,6105,161,9,1okrsek_moreparties
+596221,1,6100,9,Nová Ves u Nového Města na Moravě,6105,665,2,1okrsek_moreparties
+596248,1,6100,7,Nové Sady,6105,261,13,1okrsek_moreparties
+596256,1,6100,15,Nové Veselí,6105,1352,2,1okrsek_moreparties
+596264,1,6100,7,Nový Jimramov,6105,62,9,1okrsek_moreparties
+596272,1,6100,7,Nyklovice,6105,169,7,1okrsek_moreparties
+596281,1,6100,7,Obyčtov,6105,434,2,1okrsek_moreparties
+596302,1,6200,7,Olší,6203,340,2,1okrsek_moreparties
+596329,1,6100,7,Ořechov,6105,322,9,1okrsek_moreparties
+596337,1,6100,9,Oslavice,6105,693,2,1okrsek_moreparties
+596345,1,6100,13,Osová Bítýška,6105,941,4,1okrsek_moreparties
+596361,1,6100,11,Ostrov nad Oslavou,6105,965,4,1okrsek_moreparties
+596370,1,6100,9,Otín,6105,330,2,1okrsek_moreparties
+596388,1,6100,9,Pavlínov,6105,251,10,1okrsek_moreparties
+596396,1,6100,7,Pavlov,6105,342,2,1okrsek_moreparties
+596418,1,6100,9,Petráveč,6105,289,2,1okrsek_moreparties
+596434,1,6100,7,Písečné,6105,191,9,1okrsek_moreparties
+596442,1,6100,7,Počítky,6105,235,3,1okrsek_moreparties
+596485,1,6100,15,Polnička,6105,807,2,1okrsek_moreparties
+596515,1,6100,7,Radenice,6105,170,8,1okrsek_moreparties
+596523,1,6100,7,Radešín,6105,124,4,1okrsek_moreparties
+596531,1,6100,11,Radešínská Svratka,6105,617,2,1okrsek_moreparties
+596540,1,6100,7,Radňoves,6105,98,16,1okrsek_moreparties
+596558,1,6100,7,Radňovice,6105,309,2,1okrsek_moreparties
+596574,1,6100,15,Radostín nad Oslavou,6105,926,4,1okrsek_moreparties
+596604,1,6100,7,Rousměrov,6105,106,7,1okrsek_moreparties
+596639,1,6100,7,Rozseč,6105,92,9,1okrsek_moreparties
+596655,1,6100,15,Rožná,6105,801,3,1okrsek_moreparties
+596663,1,6100,7,Ruda,6105,399,15,1okrsek_moreparties
+596671,1,6100,7,Rudolec,6105,221,10,1okrsek_moreparties
+596680,1,6100,9,Řečice,6105,468,3,1okrsek_moreparties
+596701,1,6100,15,Sázava,6105,660,3,1okrsek_moreparties
+596710,1,6100,5,Sejřek,6105,176,2,1okrsek_moreparties
+596744,1,6100,7,Sklené nad Oslavou,6105,242,2,1okrsek_moreparties
+596752,1,6100,5,Skorotice,6105,118,2,1okrsek_moreparties
+596761,1,6100,7,Skřinářov,6105,152,10,1okrsek_moreparties
+596787,1,6100,15,Sněžné,6105,729,3,1okrsek_moreparties
+596795,1,6100,5,Spělkov,6105,31,2,1okrsek_moreparties
+596850,1,6100,5,Sviny,6105,113,3,1okrsek_moreparties
+596868,1,6100,15,Svratka,6105,1362,3,1okrsek_moreparties
+596876,1,6100,15,Škrdlovice,6105,671,3,1okrsek_moreparties
+596892,1,6200,7,Tišnovská Nová Ves,6203,97,10,1okrsek_moreparties
+596906,1,6100,7,Uhřínov,6105,379,2,1okrsek_moreparties
+596914,1,6100,9,Ujčov,6105,463,2,1okrsek_moreparties
+596922,1,6100,7,Újezd,6105,279,10,1okrsek_moreparties
+596949,1,6100,7,Vatín,6105,324,2,1okrsek_moreparties
+596965,1,6100,5,Věchnov,6105,328,2,1okrsek_moreparties
+596981,1,6100,15,Velká Losenice,6105,1206,3,1okrsek_moreparties
+597015,1,6100,9,Vepřová,6105,440,4,1okrsek_moreparties
+597058,1,6100,9,Vídeň,6105,465,2,1okrsek_moreparties
+597066,1,6100,7,Vidonín,6105,165,16,1okrsek_moreparties
+597074,1,6100,15,Vír,6105,705,4,1okrsek_moreparties
+597082,1,6100,9,Vlkov,6105,280,2,1okrsek_moreparties
+597091,1,6100,15,Vojnův Městec,6105,771,5,1okrsek_moreparties
+597104,1,6200,7,Vratislávka,6203,91,9,1okrsek_moreparties
+597112,1,6100,7,Záblatí,6105,268,2,1okrsek_moreparties
+597121,1,6100,9,Zadní Zhořec,6105,134,12,1okrsek_moreparties
+597139,1,6100,7,Znětínek,6105,209,10,1okrsek_moreparties
+597147,1,6100,9,Zubří,6105,526,13,1okrsek_moreparties
+597163,1,6100,9,Ždánice,6105,231,13,1okrsek_moreparties
+597171,1,6200,7,Žďárec,6203,358,2,1okrsek_moreparties
+597201,1,8100,7,Bohušov,8101,379,5,1okrsek_moreparties
+597252,1,8100,9,Dětřichov nad Bystřicí,8101,411,2,1okrsek_moreparties
+597287,1,8100,9,Dolní Moravice,8101,386,3,1okrsek_moreparties
+597317,1,8100,9,Dvorce,8101,1265,3,1okrsek_moreparties
+597325,1,8100,7,Heřmanovice,8101,311,3,1okrsek_moreparties
+597341,1,8100,9,Holčovice,8101,704,4,1okrsek_moreparties
+597431,1,8100,5,Janov,8101,271,2,1okrsek_moreparties
+597449,1,8100,11,Jindřichov,8101,1191,4,1okrsek_moreparties
+597457,1,8100,9,Jiříkov,8101,323,5,1okrsek_moreparties
+597473,1,8100,7,Karlova Studánka,8101,175,2,1okrsek_moreparties
+597481,1,8100,9,Karlovice,8101,1024,3,1okrsek_moreparties
+597511,1,8100,7,Krasov,8101,363,3,1okrsek_moreparties
+597546,1,8100,9,Leskovec nad Moravicí,8101,423,2,1okrsek_moreparties
+597554,1,8100,9,Lichnov,8101,1029,5,1okrsek_moreparties
+597571,1,8100,9,Liptaň,8101,462,4,1okrsek_moreparties
+597589,1,8100,9,Lomnice,8101,495,4,1okrsek_moreparties
+597716,1,8100,9,Osoblaha,8101,1064,3,1okrsek_moreparties
+597775,1,8100,5,Rusín,8101,149,2,1okrsek_moreparties
+597791,1,8100,9,Ryžoviště,8101,601,2,1okrsek_moreparties
+597813,1,8100,9,Slezské Rudoltice,8101,500,5,1okrsek_moreparties
+597821,1,8100,7,Sosnová,8105,398,2,1okrsek_moreparties
+597872,1,8100,15,Světlá Hora,8101,1355,5,1okrsek_moreparties
+597881,1,8100,7,Svobodné Heřmanice,8101,548,4,1okrsek_moreparties
+597899,1,8100,9,Široká Niva,8101,549,3,1okrsek_moreparties
+597911,1,8100,9,Třemešná,8101,879,4,1okrsek_moreparties
+597937,1,8100,7,Úvalno,8101,988,3,1okrsek_moreparties
+597945,1,8100,7,Václavov u Bruntálu,8101,485,2,1okrsek_moreparties
+597970,1,8100,7,Vysoká,8101,292,4,1okrsek_moreparties
+597988,1,8100,9,Zátor,8101,1163,4,1okrsek_moreparties
+598020,1,8100,7,Bílá,8102,267,4,1okrsek_moreparties
+598046,1,8100,9,Bruzovice,8102,975,2,1okrsek_moreparties
+598101,1,8100,15,Dolní Domaslavice,8102,1421,3,1okrsek_moreparties
+598160,1,8100,11,Hnojník,8102,1476,4,1okrsek_moreparties
+598232,1,8100,7,Hrčava,8102,243,2,1okrsek_moreparties
+598241,1,2100,5,Pětikozly,2107,83,5,1okrsek_moreparties
+598275,1,8100,7,Kaňovice,8102,342,7,1okrsek_moreparties
+598283,1,2100,7,Sedlec,2109,429,2,1okrsek_moreparties
+598291,1,2100,7,Čakovičky,2106,701,2,1okrsek_moreparties
+598330,1,2100,7,Tušovice,2111,111,2,1okrsek_moreparties
+598381,1,2100,7,Dubenec,2111,314,2,1okrsek_moreparties
+598399,1,8100,15,Lučina,8102,1487,4,1okrsek_moreparties
+598402,1,2100,7,Háje,2111,552,8,1okrsek_moreparties
+598411,1,2100,7,Lhota u Příbramě,2111,493,5,1okrsek_moreparties
+598429,1,2100,7,Trhové Dušníky,2111,465,2,1okrsek_moreparties
+598437,1,2100,7,Vševily,2111,145,10,1okrsek_moreparties
+598445,1,8100,7,Morávka,8102,1212,4,1okrsek_moreparties
+598461,1,2100,7,Kňovice,2111,332,10,1okrsek_moreparties
+598470,1,2100,9,Osečany,2111,263,13,1okrsek_moreparties
+598488,1,2100,9,Radíč,2111,224,15,1okrsek_moreparties
+598496,1,2100,7,Šípy,2112,160,2,1okrsek_moreparties
+598518,1,2100,5,Žďár,2112,121,2,1okrsek_moreparties
+598526,1,2100,9,Roztoky,2112,1048,2,1okrsek_moreparties
+598593,1,3100,7,Heřmaň,3101,204,8,1okrsek_moreparties
+598607,1,3100,7,Hlincová Hora,3101,460,4,1okrsek_moreparties
+598615,1,3100,5,Modrá Hůrka,3101,101,2,1okrsek_moreparties
+598623,1,3100,7,Mojné,3102,282,4,1okrsek_moreparties
+598631,1,3100,5,Kamenný Malíkov,3103,73,3,1okrsek_moreparties
+598674,1,8100,11,Sedliště,8102,1668,4,1okrsek_moreparties
+598712,1,6100,7,Kojčice,6103,341,14,1okrsek_moreparties
+598721,1,6100,7,Libkova Voda,6103,275,2,1okrsek_moreparties
+598747,1,8100,7,Staré Hamry,8102,555,5,1okrsek_moreparties
+598755,1,6100,7,Putimov,6103,273,10,1okrsek_moreparties
+598780,1,3100,7,Borovany,3104,202,10,1okrsek_moreparties
+598801,1,3100,7,Květov,3104,110,9,1okrsek_moreparties
+598828,1,3100,9,Osek,3104,130,11,1okrsek_moreparties
+598844,1,3100,5,Vlastec,3104,220,2,1okrsek_moreparties
+598861,1,3100,7,Žďár,3104,251,12,1okrsek_moreparties
+598895,1,3100,7,Bezdědovice,3106,353,2,1okrsek_moreparties
+598950,1,3100,7,Lažánky,3106,97,11,1okrsek_moreparties
+598976,1,3100,7,Čenkov u Bechyně,3101,65,7,1okrsek_moreparties
+598992,1,3100,7,Hodětín,3107,97,12,1okrsek_moreparties
+599000,1,3100,7,Záhoří,3107,55,7,1okrsek_moreparties
+599026,1,3100,7,Slapsko,3107,149,10,1okrsek_moreparties
+599034,1,3100,7,Zhoř u Mladé Vožice,3107,112,11,1okrsek_moreparties
+599042,1,3100,9,Slapy,3107,514,10,1okrsek_moreparties
+599123,1,3100,7,Ústrašice,3107,386,4,1okrsek_moreparties
+599131,1,3200,7,Nová Ves,3201,137,11,1okrsek_moreparties
+599140,1,8100,7,Stonava,8103,1776,4,1okrsek_moreparties
+599182,1,3200,7,Pařezov,3201,210,10,1okrsek_moreparties
+599204,1,2100,9,Korkyně,2111,128,2,1okrsek_moreparties
+599221,1,2100,7,Popovičky,2109,433,2,1okrsek_moreparties
+599239,1,6100,7,Vokov,6103,192,11,1okrsek_moreparties
+599255,1,3100,7,Mezná,3107,104,2,1okrsek_moreparties
+599280,1,3100,7,Komárov,3107,125,9,1okrsek_moreparties
+599301,1,2100,5,Černíky,2104,164,2,1okrsek_moreparties
+599361,1,2100,7,Strojetice,2101,125,9,1okrsek_moreparties
+599379,1,2100,9,Stranný,2101,115,15,1okrsek_moreparties
+599395,1,2100,5,Ostrov,2101,63,7,1okrsek_moreparties
+599409,1,8100,15,Hodslavice,8104,1715,2,1okrsek_moreparties
+599492,1,2100,7,Újezdec,2106,145,11,1okrsek_moreparties
+599514,1,2100,5,Březovice,2107,323,4,1okrsek_moreparties
+599531,1,2100,9,Horní Slivno,2107,324,11,1okrsek_moreparties
+599573,1,2100,7,Sezemice,2107,130,11,1okrsek_moreparties
+599590,1,2100,7,Podmoky,2108,203,2,1okrsek_moreparties
+599603,1,8100,15,Lichnov,8104,1549,4,1okrsek_moreparties
+599611,1,2100,7,Vrbice,2108,180,10,1okrsek_moreparties
+599638,1,2100,7,Hrubý Jeseník,2108,582,2,1okrsek_moreparties
+599646,1,8100,7,Luboměř,8104,391,2,1okrsek_moreparties
+599662,1,2100,7,Oseček,2108,171,2,1okrsek_moreparties
+599671,1,2100,5,Čilec,2108,228,2,1okrsek_moreparties
+599697,1,2100,7,Zbožíčko,2108,247,2,1okrsek_moreparties
+599727,1,2100,7,Karlík,2110,488,2,1okrsek_moreparties
+599735,1,2100,9,Březová-Oleško,2110,1330,5,1okrsek_moreparties
+599760,1,2100,5,Račice,2112,156,2,1okrsek_moreparties
+599832,1,8100,15,Sedlnice,8104,1719,3,1okrsek_moreparties
+599867,1,8100,7,Spálov,8104,895,2,1okrsek_moreparties
+599956,1,8100,11,Tichá,8104,1875,3,1okrsek_moreparties
+599964,1,8100,9,Tísek,8104,980,5,1okrsek_moreparties
