@@ -13,6 +13,24 @@ polling_stations = pd.read_csv(localpath + "polling_stations.csv")
 assemblies[assemblies["N_OKRSEK"] >= 80].to_csv(localpath + "polling_stations/assemblies_80.csv", index=False)
 
 
+# this can be done only after prepare_groups.py
+selected_assemblies = assemblies[assemblies["N_OKRSEK"] >= 80]["KODZASTUP"].values
+
+for code in selected_assemblies:
+  groups2018 = pd.read_csv(localpath2 + "tests/reality_" + str(code) + "_mds_groups.csv")
+  groups = polling_stations.loc[polling_stations["KODZASTUP"] == code].merge(groups2018.loc[:, ["OKRSEK", "group"]], on="OKRSEK")
+  results = pd.read_csv(localpath2 + "results/" + str(code) + "/results.csv")
+  pt = results.pivot_table(values="HLASY", index=["OKRSEK"], aggfunc=sum).reset_index()
+  groups = groups.merge(pt, on="OKRSEK", how="left")
+  groups.fillna(0, inplace=True)
+  groups["group"] = groups["group"].astype(int)
+  groups.to_csv(localpath + "polling_stations/" + str(code) + ".csv", index=False)
+
+
+
+
+
+
 
 # praha - 554782
 groups2018 = pd.read_csv(localpath2 + "tests/reality_554782_mds_groups.csv")

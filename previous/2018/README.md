@@ -8,4 +8,10 @@
 
 4. create results: `create_results.py`
 
-5. test results: `trial_results.py`
+x. test results: `trial_results.py`
+
+X. `polling_stations_list.py` - create list of polling stations
+
+5. prepare groups for selected assemblies: `prepare_groups.py`
+
+Y. `polling_stations_list.py` - create list of polling stations
