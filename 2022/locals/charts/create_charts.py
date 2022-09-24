@@ -77,7 +77,12 @@ for code in assemblies['KODZASTUP'].values:
       else:
         inverse = ''
       
-      thisrow = thisrow.replace('__PARTY__', name).replace('__SEATS__', str(seat['seats'])).replace('__COLOR__', color).replace('__INVERSE__', inverse).replace('__SIZE__', str(seat['seats'] / seatmax))
+      
+      thisrow = thisrow.replace('__PARTY__', name).replace('__COLOR__', color).replace('__INVERSE__', inverse).replace('__SIZE__', str(seat['seats'] / seatmax))
+      if seat['seats'] == 0:
+        thisrow = thisrow.replace('__SEATS__', "")
+      else:
+        thisrow = thisrow.replace('__SEATS__', str(seat['seats']))
       rows += thisrow + "\n"
     csschart = csschart.replace('__ROWS__', rows)
   else:
