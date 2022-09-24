@@ -9,7 +9,7 @@ import xmltodict
 
 # load settings
 path = '/'.join(abspath(getsourcefile(lambda:0)).split("/")[0:-1]) + "/"
-if exists(path + "settings.json"):
+if exists(path + "../settings.json"):
   with open(path + '../settings.json') as f:
     settings = json.load(f)
 else:
