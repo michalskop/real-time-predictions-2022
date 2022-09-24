@@ -26,10 +26,10 @@ def perc2seats(perct2, maxerror, nseats):
     perct2['nvalue'] = perct2.loc[:, 'gain']
     perct2['mvalue'] = perct2.loc[:, 'gain']
     # add error to smallest party over 5 %
-    partym = perct2[(perct2['nvalue'] > 5)   & (perct2.index != partyn)].sort_values(by='nvalue').iloc[0]['STRANA']
+    partym = perct2[(perct2['nvalue'] > 5) & (perct2["STRANA"] != partyn)].sort_values(by='nvalue').iloc[0]['STRANA']
     partymi = perct2[perct2['STRANA'] == partym].index[0]
     perct2.loc[partymi, 'mvalue'] = perct2.loc[partymi, 'nvalue'] + maxerror
-    # add error to parties just  below 5%
+    # add error to parties just below 5%
     perct2['mvalue'] = perct2['mvalue'].apply(lambda x: x + maxerror if ((x < 5) & (x + maxerror > 5)) else x)
     # move to nvalue
     perct2['nvalue'] = perct2['mvalue']
@@ -45,7 +45,10 @@ def perc2seats(perct2, maxerror, nseats):
       ordersum = order[0: nseats].groupby('STRANA').count()
       out = pd.concat([out, pd.DataFrame([{'STRANA': partyn, 'seats': ordersum.loc[partyn, 'nvalue'], 'possible5': 1}])])
     else:
-      out = pd.concat([out, pd.DataFrame([{'STRANA': partyn, 'seats': 0, 'possible5': 0}])])
+      if (perct2.loc[i, 'gain'] + maxerror) > 5:
+        out = pd.concat([out, pd.DataFrame([{'STRANA': partyn, 'seats': 0, 'possible5': 1}])])
+      else:
+        out = pd.concat([out, pd.DataFrame([{'STRANA': partyn, 'seats': 0, 'possible5': 0}])])
   return out
 
 # estimate seats
