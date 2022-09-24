@@ -6,8 +6,11 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/charts.css/dist/charts.min.css">
 <style>
+  body {
+    background-color: rgb(252, 236, 236);
+  }
   #my-chart.bar {
-    height: 200px;
+    height: 250px;
     max-width: 100%;
     margin: 0 auto;
     padding: 0 1rem;
@@ -15,7 +18,13 @@
   }
   .inverse {
     color: #fff;
+  }
+  .my-bar {
     padding-right: 5px;
+  }
+  .party-title {
+    font-size: 0.8em;
+    font-family: Lora, sans-serif;
   }
 
 </style>
@@ -23,23 +32,23 @@
   <div class="title">Olomouc</div>
     <table class="charts-css bar show-labels datasets-spacing-2" id="my-chart">
   <tbody>
-    <tr><th scope="row"> ANO </th><td style="--size: 1.0;--color: #33cccc;;"><span class="">14</span></td></tr>
+    <tr><th scope="row"><span class="party-title"> ANO </span></th><td style="--size: 1.0;--color: #33cccc;;"><span class="my-bar ">14</span></td></tr>
 
-<tr><th scope="row"> ProOl </th><td style="--size: 0.42857142857142855;;"><span class="">6</span></td></tr>
+<tr><th scope="row"><span class="party-title"> ProOl </span></th><td style="--size: 0.42857142857142855;;"><span class="my-bar ">6</span></td></tr>
 
-<tr><th scope="row"> STAN+Piráti </th><td style="--size: 0.42857142857142855;--color: #38c2f9;;"><span class="inverse">6</span></td></tr>
+<tr><th scope="row"><span class="party-title"> STAN+Pirát </span></th><td style="--size: 0.42857142857142855;--color: #38c2f9;;"><span class="my-bar inverse">6</span></td></tr>
 
-<tr><th scope="row"> ODS </th><td style="--size: 0.35714285714285715;--color: #4175e0;;"><span class="inverse">5</span></td></tr>
+<tr><th scope="row"><span class="party-title"> ODS </span></th><td style="--size: 0.35714285714285715;--color: #4175e0;;"><span class="my-bar inverse">5</span></td></tr>
 
-<tr><th scope="row"> KDU-ČSL </th><td style="--size: 0.2857142857142857;--color: #ffd62e;;"><span class="inverse">4</span></td></tr>
+<tr><th scope="row"><span class="party-title"> KDU-ČSL </span></th><td style="--size: 0.2857142857142857;--color: #ffd62e;;"><span class="my-bar inverse">4</span></td></tr>
 
-<tr><th scope="row"> SPOZ+SPD </th><td style="--size: 0.21428571428571427;;"><span class="">3</span></td></tr>
+<tr><th scope="row"><span class="party-title"> SPOZ+SPD </span></th><td style="--size: 0.21428571428571427;;"><span class="my-bar ">3</span></td></tr>
 
-<tr><th scope="row"> spOL </th><td style="--size: 0.21428571428571427;;"><span class="">3</span></td></tr>
+<tr><th scope="row"><span class="party-title"> spOL </span></th><td style="--size: 0.21428571428571427;;"><span class="my-bar ">3</span></td></tr>
 
-<tr><th scope="row"> KSČM </th><td style="--size: 0.14285714285714285;--color: #e2354b;;"><span class="inverse">2</span></td></tr>
+<tr><th scope="row"><span class="party-title"> KSČM </span></th><td style="--size: 0.14285714285714285;--color: #e2354b;;"><span class="my-bar inverse">2</span></td></tr>
 
-<tr><th scope="row"> ČSSD </th><td style="--size: 0.14285714285714285;--color: #f9932e;;"><span class="inverse">2</span></td></tr>
+<tr><th scope="row"><span class="party-title"> ČSSD </span></th><td style="--size: 0.14285714285714285;--color: #f9932e;;"><span class="my-bar inverse">2</span></td></tr>
 
 
   </tbody>

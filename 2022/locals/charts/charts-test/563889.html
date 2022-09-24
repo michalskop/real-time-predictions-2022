@@ -6,6 +6,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/charts.css/dist/charts.min.css">
 <style>
+  body {
+    background-color: rgb(252, 236, 236);
+  }
   #my-chart.bar {
     height: 250px;
     max-width: 100%;
@@ -15,7 +18,13 @@
   }
   .inverse {
     color: #fff;
+  }
+  .my-bar {
     padding-right: 5px;
+  }
+  .party-title {
+    font-size: 0.8em;
+    font-family: Lora, sans-serif;
   }
 
 </style>
@@ -23,15 +32,15 @@
   <div class="title">Liberec</div>
     <table class="charts-css bar show-labels datasets-spacing-2" id="my-chart">
   <tbody>
-    <tr><th scope="row"> SLK </th><td style="--size: 1.0;;"><span class="">16</span></td></tr>
+    <tr><th scope="row"><span class="party-title"> SLK </span></th><td style="--size: 1.0;;"><span class="my-bar ">16</span></td></tr>
 
-<tr><th scope="row"> ANO </th><td style="--size: 0.6875;--color: #33cccc;;"><span class="">11</span></td></tr>
+<tr><th scope="row"><span class="party-title"> ANO </span></th><td style="--size: 0.6875;--color: #33cccc;;"><span class="my-bar ">11</span></td></tr>
 
-<tr><th scope="row"> Zelení+Změ </th><td style="--size: 0.375;--color: #36da83;;"><span class="inverse">6</span></td></tr>
+<tr><th scope="row"><span class="party-title"> Zelení+Změ </span></th><td style="--size: 0.375;--color: #36da83;;"><span class="my-bar inverse">6</span></td></tr>
 
-<tr><th scope="row"> ODS </th><td style="--size: 0.25;--color: #4175e0;;"><span class="inverse">4</span></td></tr>
+<tr><th scope="row"><span class="party-title"> ODS </span></th><td style="--size: 0.25;--color: #4175e0;;"><span class="my-bar inverse">4</span></td></tr>
 
-<tr><th scope="row"> TJ.+NK </th><td style="--size: 0.125;--color: #5C677A;;"><span class="inverse">2</span></td></tr>
+<tr><th scope="row"><span class="party-title"> TJ.+NK </span></th><td style="--size: 0.125;--color: #5C677A;;"><span class="my-bar inverse">2</span></td></tr>
 
 
   </tbody>

@@ -6,6 +6,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/charts.css/dist/charts.min.css">
 <style>
+  body {
+    background-color: rgb(252, 236, 236);
+  }
   #my-chart.bar {
     height: 250px;
     max-width: 100%;
@@ -15,7 +18,13 @@
   }
   .inverse {
     color: #fff;
+  }
+  .my-bar {
     padding-right: 5px;
+  }
+  .party-title {
+    font-size: 0.8em;
+    font-family: Lora, sans-serif;
   }
 
 </style>
@@ -23,19 +32,19 @@
   <div class="title">Praha 6</div>
     <table class="charts-css bar show-labels datasets-spacing-2" id="my-chart">
   <tbody>
-    <tr><th scope="row"> Zbývá </th><td style="--size: 0.3;--color: #888888;"><span class="inverse">3</span></td></tr>
+    <tr><th scope="row"><span class="party-title"> Zbývá </span></th><td style="--size: 0.3;--color: #888888;"><span class="my-bar inverse">3</span></td></tr>
 
-<tr><th scope="row"> KDU-ČSL+TO </th><td style="--size: 1.0;--color: #ffd62e;;"><span class="inverse">10</span></td></tr>
+<tr><th scope="row"><span class="party-title"> KDU-ČSL+TO </span></th><td style="--size: 1.0;--color: #ffd62e;;"><span class="my-bar inverse">10</span></td></tr>
 
-<tr><th scope="row"> ODS </th><td style="--size: 1.0;--color: #4175e0;;"><span class="inverse">10</span></td></tr>
+<tr><th scope="row"><span class="party-title"> ODS </span></th><td style="--size: 1.0;--color: #4175e0;;"><span class="my-bar inverse">10</span></td></tr>
 
-<tr><th scope="row"> Piráti </th><td style="--size: 0.8;--color: #222222;;"><span class="inverse">8</span></td></tr>
+<tr><th scope="row"><span class="party-title"> Piráti </span></th><td style="--size: 0.8;--color: #222222;;"><span class="my-bar inverse">8</span></td></tr>
 
-<tr><th scope="row"> STAN </th><td style="--size: 0.6;--color: #38c2f9;;"><span class="inverse">6</span></td></tr>
+<tr><th scope="row"><span class="party-title"> STAN </span></th><td style="--size: 0.6;--color: #38c2f9;;"><span class="my-bar inverse">6</span></td></tr>
 
-<tr><th scope="row"> ANO </th><td style="--size: 0.5;--color: #33cccc;;"><span class="">5</span></td></tr>
+<tr><th scope="row"><span class="party-title"> ANO </span></th><td style="--size: 0.5;--color: #33cccc;;"><span class="my-bar ">5</span></td></tr>
 
-<tr><th scope="row"> Zelení+NK </th><td style="--size: 0.3;--color: #36da83;;"><span class="inverse">3</span></td></tr>
+<tr><th scope="row"><span class="party-title"> Zelení+NK </span></th><td style="--size: 0.3;--color: #36da83;;"><span class="my-bar inverse">3</span></td></tr>
 
 
   </tbody>

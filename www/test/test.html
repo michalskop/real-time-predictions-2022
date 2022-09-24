@@ -6,6 +6,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/charts.css/dist/charts.min.css">
 <style>
+  body {
+    background-color: rgb(252, 236, 236);
+  }
   #my-chart.bar {
     height: 250px;
     max-width: 100%;
@@ -17,13 +20,17 @@
     color: #fff;
     padding-right: 5px;
   }
+  .party-title {
+    font-size: 0.8em;
+    font-family: Lora, sans-serif;
+  }
 
 </style>
 <body>
   <code>Brno</code> aktualizace dat: 24.10. 20:35  
   <table class="charts-css bar show-labels datasets-spacing-2" id="my-chart">
     <tbody>
-      <tr><th scope="row"> Nerozhodn. </th><td style="--size: 0.2;--color: gray;"><span class="inverse">10</span></td></tr>
+      <tr><th scope="row"> <span class="party-title"> Nerozhodn. </span></th><td style="--size: 0.2;--color: gray;"><span class="inverse">10</span></td></tr>
       <tr><th scope="row"> ANO </th><td style="--size: calc( 5 / 20 );">5</td></tr>
       <tr><th scope="row"> Spojené síly </th><td style="--size: 0.6;">60</td></tr>
       <tr><td style="--size: 0.63;">63</td></tr>
