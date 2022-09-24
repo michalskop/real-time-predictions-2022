@@ -6,7 +6,7 @@ from os.path import abspath, exists
 import pandas as pd
 import numpy as np
 
-test = False
+test = True
 if test:
   teststr = '-test'
 else:
