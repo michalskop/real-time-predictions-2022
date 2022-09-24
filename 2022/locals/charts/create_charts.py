@@ -44,7 +44,7 @@ for code in assemblies['KODZASTUP'].values:
   if exists(seats_path): # already data exist
     counted = int(seats['counted'].values[0])
     html = html.replace("__COUNTED__", str(counted) + " %")
-    html = html.replace("__TIME__", last_update_formatted)
+    # html = html.replace("__TIME__", last_update_formatted)
     with open(path + "templates/csschart.html") as f:
       csschart = f.read()
     with open(path + "templates/row.html") as f:
@@ -84,7 +84,7 @@ for code in assemblies['KODZASTUP'].values:
     with open(path + "templates/noresults.html") as f:
       csschart = f.read()
     html = html.replace("__COUNTED__", "? %")
-    html = html.replace("__TIME__", last_update_formatted)
+    # html = html.replace("__TIME__", last_update_formatted)
   
   html = html.replace("__CHART__", csschart)
 
