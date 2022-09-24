@@ -36,7 +36,7 @@ for n in batches['n']:
         # create directory if not exists
         code = int(okrsek['@KODZASTUP'])
         if code in assemblies['KODZASTUP'].values:
-          file_path = path + 'results' + teststr + '/' + okrsek['@KODZASTUP']
+          file_path = path + 'results' + teststr + '/' + str(code)
           if not exists(file_path):
             mkdir(file_path)
           # read results
@@ -46,11 +46,18 @@ for n in batches['n']:
             results = pd.DataFrame()
           if type(okrsek['HLASY_OKRSEK']) != list:
             okrsek['HLASY_OKRSEK'] = [okrsek['HLASY_OKRSEK']]
-          for hlasy in okrsek['HLASY_OKRSEK']:
-            results = pd.concat([results, pd.DataFrame([{'OKRSEK': okrsek['@CIS_OKRSEK'], 'STRANA': hlasy['@POR_STR_HLAS_LIST'], 'HLASY': hlasy['@HLASY'], 'batch': n}])])
-          # save results
-          results.to_csv(file_path + '/'  + 'results.csv', index=False)
-          results.to_csv(file_path + '/'  + 'results_' + str(n).zfill(3) + '.csv', index=False)
+          doit = False
+          if len(results) == 0:
+            doit = True
+          else:
+            if len(results[results['OKRSEK'] == int(okrsek['@CIS_OKRSEK'])]) == 0:
+              doit = True
+          if doit:
+            for hlasy in okrsek['HLASY_OKRSEK']:
+              results = pd.concat([results, pd.DataFrame([{'OKRSEK': okrsek['@CIS_OKRSEK'], 'STRANA': hlasy['@POR_STR_HLAS_LIST'], 'HLASY': hlasy['@HLASY'], 'batch': n}])])
+            # save results
+            results.to_csv(file_path + '/'  + 'results.csv', index=False)
+            results.to_csv(file_path + '/'  + 'results_' + str(n).zfill(3) + '.csv', index=False)
         else:
           pass # not in selected assemblies
     else:
