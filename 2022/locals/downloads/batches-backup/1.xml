@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VYSLEDKY_OKRSKY xmlns="http://www.volby.cz/kv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="http://www.volby.cz/kv/ kv_vysledky_okrsky.xsd"
+                  DATUM_CAS_GENEROVANI="2022-09-22T16:35:00">
+<DAVKA DATUMVOLEB="20220923" PORADI_DAVKY="1" OKRSKY_DAVKA="572" OKRSKY_CELKEM="16854" OKRSKY_ZPRAC="572"/>
+</VYSLEDKY_OKRSKY>
