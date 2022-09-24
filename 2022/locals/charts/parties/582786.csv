@@ -1,15 +1,15 @@
-index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,Barva
-17671,6202,582786,Brno,1,1,371,371,ČSSD VAŠI STAROSTOVÉ,ČSSD VAŠI STAROSTOVÉ,ČSSD+NK,2,"007,080",,,,55,7,ČSSD+NK,ČSSD,Česká strana sociálně demokratická,7.0,#f9932e
-17672,6202,582786,Brno,1,2,393,393,Brno Brňankám a Brňanům! (B3!),Brno Brňankám a Brňanům! (B3!),Levice+NK,2,"074,080",,,,55,74,Levice+NK,,,,
-17673,6202,582786,Brno,1,3,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,,,,55,720,Piráti,Piráti,Česká pirátská strana,720.0,#222222
-17674,6202,582786,Brno,1,4,1554,1554,Zelení a Žít Brno s podporou Idealistů,Zelení a Žít Brno s podpor. Id,Zelen+ŽTB+Ideal,3,"005,1026,1233",,,,55,5,Zelen+ŽTB+Ideal,SZ,Strana zelených,5.0,#36da83
-17675,6202,582786,Brno,1,5,340,340,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lid.a Star.(KDU-ČSL+St.a nez.),KDU-ČSL+STAN,2,"001,166",,,,55,1,KDU-ČSL+STAN,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e
-17676,6202,582786,Brno,1,6,1503,1503,Brno Plus a Svobodní,Brno Plus a Svobodní,Svobodní+Brno+,2,"714,1200",,,,55,714,Svobodní+Brno+,,,,
-17677,6202,582786,Brno,1,7,1492,1492,"SPD, TRIKOLORA, MORAVANÉ a nezávislí","SPD,TRIKOLORA,MORAVANÉ a NK",Mor+SPD+Trik+NK,4,"080,083,1114,1227",,,,55,80,Mor+SPD+Trik+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
-17678,6202,582786,Brno,1,8,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,55,768,ANO,ANO,ANO 2011,768.0,#33cccc
-17679,6202,582786,Brno,1,9,1245,1245,PŘÍSAHA - občanské hnutí Roberta Šlachty,PŘÍSAHA Roberta Šlachty,PŘÍSAHA,1,1245,,,,55,1245,PŘÍSAHA,,,,
-17680,6202,582786,Brno,1,10,482,482,Demokratická strana zelených - ZA PRÁVA ZVÍŘAT – sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK,DSZ - ZA PRÁVA ZVÍŘAT a NK,DSZ+NK,2,"080,715",,,,2,80,DSZ+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
-17681,6202,582786,Brno,1,11,687,687,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,ODS+TOP 09,2,"053,721",,,,55,53,ODS+TOP 09,ODS,Občanská demokratická strana,53.0,#4175e0
-17682,6202,582786,Brno,1,12,1504,1504,RESTART PRO BRNO,RESTART PRO BRNO,KSČMSPOZSuvDOM,4,"047,724,759,1221",,,,55,47,KSČMSPOZSuvDOM,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b
-17683,6202,582786,Brno,1,13,1223,1223,JSI PRO? Jistota Solidarita Investice pro budoucnost,JSI PRO?Jist.Solid.In.pro bud.,JSI PRO?,1,1223,,,,6,1223,JSI PRO?,,,,
-17684,6202,582786,Brno,1,14,1246,1246,Fakt Brno,Fakt Brno,Fakt Brno,1,1246,,,,55,1246,Fakt Brno,,,,
+index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,color,inverse
+17671,6202,582786,Brno,1,1,371,371,ČSSD VAŠI STAROSTOVÉ,ČSSD VAŠI STAROSTOVÉ,ČSSD+NK,2,"007,080",,,,55,7,ČSSD+NK,ČSSD,Česká strana sociálně demokratická,7.0,#f9932e,1.0
+17672,6202,582786,Brno,1,2,393,393,Brno Brňankám a Brňanům! (B3!),Brno Brňankám a Brňanům! (B3!),Levice+NK,2,"074,080",,,,55,74,Levice+NK,,,,,
+17673,6202,582786,Brno,1,3,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,,,,55,720,Piráti,Piráti,Česká pirátská strana,720.0,#222222,1.0
+17674,6202,582786,Brno,1,4,1554,1554,Zelení a Žít Brno s podporou Idealistů,Zelení a Žít Brno s podpor. Id,Zelen+ŽTB+Ideal,3,"005,1026,1233",,,,55,5,Zelen+ŽTB+Ideal,SZ,Strana zelených,5.0,#36da83,1.0
+17675,6202,582786,Brno,1,5,340,340,Lidovci a Starostové (KDU-ČSL + Starostové a nezávislí),Lid.a Star.(KDU-ČSL+St.a nez.),KDU-ČSL+STAN,2,"001,166",,,,55,1,KDU-ČSL+STAN,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e,1.0
+17676,6202,582786,Brno,1,6,1503,1503,Brno Plus a Svobodní,Brno Plus a Svobodní,Svobodní+Brno+,2,"714,1200",,,,55,714,Svobodní+Brno+,,,,,
+17677,6202,582786,Brno,1,7,1492,1492,"SPD, TRIKOLORA, MORAVANÉ a nezávislí","SPD,TRIKOLORA,MORAVANÉ a NK",Mor+SPD+Trik+NK,4,"080,083,1114,1227",,,,55,80,Mor+SPD+Trik+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A,1.0
+17678,6202,582786,Brno,1,8,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,55,768,ANO,ANO,ANO 2011,768.0,#33cccc,0.0
+17679,6202,582786,Brno,1,9,1245,1245,PŘÍSAHA - občanské hnutí Roberta Šlachty,PŘÍSAHA Roberta Šlachty,PŘÍSAHA,1,1245,,,,55,1245,PŘÍSAHA,,,,,
+17680,6202,582786,Brno,1,10,482,482,Demokratická strana zelených - ZA PRÁVA ZVÍŘAT – sdružení DSZ - ZA PRÁVA ZVÍŘAT a NK,DSZ - ZA PRÁVA ZVÍŘAT a NK,DSZ+NK,2,"080,715",,,,2,80,DSZ+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A,1.0
+17681,6202,582786,Brno,1,11,687,687,SPOLEČNĚ - ODS a TOP 09,SPOLEČNĚ - ODS a TOP 09,ODS+TOP 09,2,"053,721",,,,55,53,ODS+TOP 09,ODS,Občanská demokratická strana,53.0,#4175e0,1.0
+17682,6202,582786,Brno,1,12,1504,1504,RESTART PRO BRNO,RESTART PRO BRNO,KSČMSPOZSuvDOM,4,"047,724,759,1221",,,,55,47,KSČMSPOZSuvDOM,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b,1.0
+17683,6202,582786,Brno,1,13,1223,1223,JSI PRO? Jistota Solidarita Investice pro budoucnost,JSI PRO?Jist.Solid.In.pro bud.,JSI PRO?,1,1223,,,,6,1223,JSI PRO?,,,,,
+17684,6202,582786,Brno,1,14,1246,1246,Fakt Brno,Fakt Brno,Fakt Brno,1,1246,,,,55,1246,Fakt Brno,,,,,

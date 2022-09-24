@@ -1,14 +1,14 @@
-index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,Barva
-9253,4207,554804,Ústí nad Labem,1,1,1012,1012,ÚSTECKÉ FÓRUM OBČANŮ,ÚSTECKÉ FÓRUM OBČANŮ,UFO,1,1012,,,,37,1012,UFO,,,,
-9254,4207,554804,Ústí nad Labem,1,2,1128,1128,Vaše Ústí,Vaše Ústí,VÚ,1,1128,,,,37,1128,VÚ,,,,
-9255,4207,554804,Ústí nad Labem,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,053,,,,37,53,ODS,ODS,Občanská demokratická strana,53.0,#4175e0
-9256,4207,554804,Ústí nad Labem,1,4,166,166,STAROSTOVÉ A NEZÁVISLÍ,STAROSTOVÉ A NEZÁVISLÍ,STAN,1,166,,,,37,166,STAN,STAN,STAROSTOVÉ A NEZÁVISLÍ,166.0,#38c2f9
-9257,4207,554804,Ústí nad Labem,1,5,1616,1616,Aliance pro Ústí,Aliance pro Ústí,Manifest.cz+NK,2,"080,1247",,,,37,80,Manifest.cz+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
-9258,4207,554804,Ústí nad Labem,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,37,768,ANO,ANO,ANO 2011,768.0,#33cccc
-9259,4207,554804,Ústí nad Labem,1,7,785,785,Zdraví Sport Prosperita,Zdraví Sport Prosperita,PRO Zdraví,1,785,,,,37,785,PRO Zdraví,,,,
-9260,4207,554804,Ústí nad Labem,1,8,1487,1487,Svoboda a přímá demokracie (SPD) s podporou politické strany Trikolora,"Koalice SPD, Trikolora",SPD+Trikolora,2,"1114,1227",,,,36,1114,SPD+Trikolora,SPD,Svoboda a přímá demokracie - Tomio Okamura (SPD),1114.0,#c05f2f
-9261,4207,554804,Ústí nad Labem,1,9,1195,1195,Za lepší Střekov,Za lepší Střekov,ZLS,1,1195,,,,37,1195,ZLS,,,,
-9262,4207,554804,Ústí nad Labem,1,10,529,529,PRO! Ústí,PRO! Ústí,Zel.+Piráti+NK,3,"005,080,720",,,,37,5,Zel.+Piráti+NK,SZ,Strana zelených,5.0,#36da83
-9263,4207,554804,Ústí nad Labem,1,11,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,047,,,,37,47,KSČM,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b
-9264,4207,554804,Ústí nad Labem,1,12,540,540,SPOLEČNĚ Ústí nad Labem,SPOLEČNĚ Ústí nad Labem,KDUČSL+TOP09+NK,3,"001,080,721",,,,37,1,KDUČSL+TOP09+NK,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e
-9265,4207,554804,Ústí nad Labem,1,13,1245,1245,PŘÍSAHA - občanské hnutí Roberta Šlachty,PŘÍSAHA Roberta Šlachty,PŘÍSAHA,1,1245,,,,36,1245,PŘÍSAHA,,,,
+index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,color,inverse
+9253,4207,554804,Ústí nad Labem,1,1,1012,1012,ÚSTECKÉ FÓRUM OBČANŮ,ÚSTECKÉ FÓRUM OBČANŮ,UFO,1,1012,,,,37,1012,UFO,,,,,
+9254,4207,554804,Ústí nad Labem,1,2,1128,1128,Vaše Ústí,Vaše Ústí,VÚ,1,1128,,,,37,1128,VÚ,,,,,
+9255,4207,554804,Ústí nad Labem,1,3,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,053,,,,37,53,ODS,ODS,Občanská demokratická strana,53.0,#4175e0,1.0
+9256,4207,554804,Ústí nad Labem,1,4,166,166,STAROSTOVÉ A NEZÁVISLÍ,STAROSTOVÉ A NEZÁVISLÍ,STAN,1,166,,,,37,166,STAN,STAN,STAROSTOVÉ A NEZÁVISLÍ,166.0,#38c2f9,1.0
+9257,4207,554804,Ústí nad Labem,1,5,1616,1616,Aliance pro Ústí,Aliance pro Ústí,Manifest.cz+NK,2,"080,1247",,,,37,80,Manifest.cz+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A,1.0
+9258,4207,554804,Ústí nad Labem,1,6,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,37,768,ANO,ANO,ANO 2011,768.0,#33cccc,0.0
+9259,4207,554804,Ústí nad Labem,1,7,785,785,Zdraví Sport Prosperita,Zdraví Sport Prosperita,PRO Zdraví,1,785,,,,37,785,PRO Zdraví,,,,,
+9260,4207,554804,Ústí nad Labem,1,8,1487,1487,Svoboda a přímá demokracie (SPD) s podporou politické strany Trikolora,"Koalice SPD, Trikolora",SPD+Trikolora,2,"1114,1227",,,,36,1114,SPD+Trikolora,SPD,Svoboda a přímá demokracie - Tomio Okamura (SPD),1114.0,#c05f2f,1.0
+9261,4207,554804,Ústí nad Labem,1,9,1195,1195,Za lepší Střekov,Za lepší Střekov,ZLS,1,1195,,,,37,1195,ZLS,,,,,
+9262,4207,554804,Ústí nad Labem,1,10,529,529,PRO! Ústí,PRO! Ústí,Zel.+Piráti+NK,3,"005,080,720",,,,37,5,Zel.+Piráti+NK,SZ,Strana zelených,5.0,#36da83,1.0
+9263,4207,554804,Ústí nad Labem,1,11,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,047,,,,37,47,KSČM,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b,1.0
+9264,4207,554804,Ústí nad Labem,1,12,540,540,SPOLEČNĚ Ústí nad Labem,SPOLEČNĚ Ústí nad Labem,KDUČSL+TOP09+NK,3,"001,080,721",,,,37,1,KDUČSL+TOP09+NK,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e,1.0
+9265,4207,554804,Ústí nad Labem,1,13,1245,1245,PŘÍSAHA - občanské hnutí Roberta Šlachty,PŘÍSAHA Roberta Šlachty,PŘÍSAHA,1,1245,,,,36,1245,PŘÍSAHA,,,,,

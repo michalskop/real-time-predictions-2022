@@ -1,16 +1,16 @@
-index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,Barva
-13510,5201,569810,Hradec Králové,1,1,1590,1590,HRADEC ROZUMEM,HRADEC ROZUMEM,Svob+PRO2022+NK,3,"080,714,1265",,,,37,80,Svob+PRO2022+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
-13511,5201,569810,Hradec Králové,1,2,371,371,Česká strana sociálně demokratická s podporou nezávislých,ČSSD s podporou nezávislých,ČSSD+NK,2,"007,080",,,,37,7,ČSSD+NK,ČSSD,Česká strana sociálně demokratická,7.0,#f9932e
-13512,5201,569810,Hradec Králové,1,3,1252,1252,ROMA LUMA,ROMA LUMA,LUMA,1,1252,,,,37,1252,LUMA,,,,
-13513,5201,569810,Hradec Králové,1,4,1256,1256,HRADEČÁCI,HRADEČÁCI,HK,1,1256,,,,37,1256,HK,,,,
-13514,5201,569810,Hradec Králové,1,5,1114,1114,Svoboda a přímá demokracie (SPD),Svoboda a př. demokracie (SPD),SPD,1,1114,,,,37,1114,SPD,SPD,Svoboda a přímá demokracie - Tomio Okamura (SPD),1114.0,#c05f2f
-13515,5201,569810,Hradec Králové,1,6,457,457,Hradečtí kantoři a Nestraníci,Hradečtí kantoři a Nestraníci,Nestraníci+NK,2,"080,181",,,,37,80,Nestraníci+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
-13516,5201,569810,Hradec Králové,1,7,166,166,STAROSTOVÉ A NEZÁVISLÍ,STAROSTOVÉ A NEZÁVISLÍ,STAN,1,166,,,,37,166,STAN,STAN,STAROSTOVÉ A NEZÁVISLÍ,166.0,#38c2f9
-13517,5201,569810,Hradec Králové,1,8,1530,1530,Hradecký demokratický klub a TOP 09 s podporou Hradeckých patriotů a LES,HDK a TOP 09 s podp. HP a LES,TOP+LES+HP+HDK,4,"721,795,1016,1049",,,,37,721,TOP+LES+HP+HDK,TOP 09,TOP 09,721.0,#c268b4
-13518,5201,569810,Hradec Králové,1,9,364,364,Změna pro Hradec a Zelení,Změna pro Hradec a Zelení,Zelení+NK,2,"005,080",,,,37,5,Zelení+NK,SZ,Strana zelených,5.0,#36da83
-13519,5201,569810,Hradec Králové,1,10,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,047,,,,37,47,KSČM,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b
-13520,5201,569810,Hradec Králové,1,11,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,37,768,ANO,ANO,ANO 2011,768.0,#33cccc
-13521,5201,569810,Hradec Králové,1,12,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,053,,,,37,53,ODS,ODS,Občanská demokratická strana,53.0,#4175e0
-13522,5201,569810,Hradec Králové,1,13,1564,1564,ROZVÍJÍME HRADEC - NOVÁ HRADECKÁ OBČANSKÁ KANDIDÁTKA,ROZVÍJÍME HRADEC - NOVÁ H.O.K.,RH+NK,2,"080,1267",,,,37,80,RH+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
-13523,5201,569810,Hradec Králové,1,14,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,,,,37,720,Piráti,Piráti,Česká pirátská strana,720.0,#222222
-13524,5201,569810,Hradec Králové,1,15,355,355,Koalice pro Hradec,Koalice pro Hradec,KDU-ČSL+NK,2,"001,080",,,,37,1,KDU-ČSL+NK,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e
+index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,color,inverse
+13510,5201,569810,Hradec Králové,1,1,1590,1590,HRADEC ROZUMEM,HRADEC ROZUMEM,Svob+PRO2022+NK,3,"080,714,1265",,,,37,80,Svob+PRO2022+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A,1.0
+13511,5201,569810,Hradec Králové,1,2,371,371,Česká strana sociálně demokratická s podporou nezávislých,ČSSD s podporou nezávislých,ČSSD+NK,2,"007,080",,,,37,7,ČSSD+NK,ČSSD,Česká strana sociálně demokratická,7.0,#f9932e,1.0
+13512,5201,569810,Hradec Králové,1,3,1252,1252,ROMA LUMA,ROMA LUMA,LUMA,1,1252,,,,37,1252,LUMA,,,,,
+13513,5201,569810,Hradec Králové,1,4,1256,1256,HRADEČÁCI,HRADEČÁCI,HK,1,1256,,,,37,1256,HK,,,,,
+13514,5201,569810,Hradec Králové,1,5,1114,1114,Svoboda a přímá demokracie (SPD),Svoboda a př. demokracie (SPD),SPD,1,1114,,,,37,1114,SPD,SPD,Svoboda a přímá demokracie - Tomio Okamura (SPD),1114.0,#c05f2f,1.0
+13515,5201,569810,Hradec Králové,1,6,457,457,Hradečtí kantoři a Nestraníci,Hradečtí kantoři a Nestraníci,Nestraníci+NK,2,"080,181",,,,37,80,Nestraníci+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A,1.0
+13516,5201,569810,Hradec Králové,1,7,166,166,STAROSTOVÉ A NEZÁVISLÍ,STAROSTOVÉ A NEZÁVISLÍ,STAN,1,166,,,,37,166,STAN,STAN,STAROSTOVÉ A NEZÁVISLÍ,166.0,#38c2f9,1.0
+13517,5201,569810,Hradec Králové,1,8,1530,1530,Hradecký demokratický klub a TOP 09 s podporou Hradeckých patriotů a LES,HDK a TOP 09 s podp. HP a LES,TOP+LES+HP+HDK,4,"721,795,1016,1049",,,,37,721,TOP+LES+HP+HDK,TOP 09,TOP 09,721.0,#c268b4,1.0
+13518,5201,569810,Hradec Králové,1,9,364,364,Změna pro Hradec a Zelení,Změna pro Hradec a Zelení,Zelení+NK,2,"005,080",,,,37,5,Zelení+NK,SZ,Strana zelených,5.0,#36da83,1.0
+13519,5201,569810,Hradec Králové,1,10,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,047,,,,37,47,KSČM,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b,1.0
+13520,5201,569810,Hradec Králové,1,11,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,37,768,ANO,ANO,ANO 2011,768.0,#33cccc,0.0
+13521,5201,569810,Hradec Králové,1,12,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,053,,,,37,53,ODS,ODS,Občanská demokratická strana,53.0,#4175e0,1.0
+13522,5201,569810,Hradec Králové,1,13,1564,1564,ROZVÍJÍME HRADEC - NOVÁ HRADECKÁ OBČANSKÁ KANDIDÁTKA,ROZVÍJÍME HRADEC - NOVÁ H.O.K.,RH+NK,2,"080,1267",,,,37,80,RH+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A,1.0
+13523,5201,569810,Hradec Králové,1,14,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,,,,37,720,Piráti,Piráti,Česká pirátská strana,720.0,#222222,1.0
+13524,5201,569810,Hradec Králové,1,15,355,355,Koalice pro Hradec,Koalice pro Hradec,KDU-ČSL+NK,2,"001,080",,,,37,1,KDU-ČSL+NK,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e,1.0

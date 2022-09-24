@@ -19,6 +19,7 @@ assemblies = pd.read_csv(path + '../extractor/assemblies_80.csv')
 
 # estimate results
 # code = 554782
+# code = 554791
 for code in assemblies['KODZASTUP'].values:
   print(code)
   

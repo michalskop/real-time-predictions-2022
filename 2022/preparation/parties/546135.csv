@@ -1,12 +1,12 @@
-index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,Barva
-6066,8106,546135,Ostrava-Jih,1,1,1570,1570,hnutí Zdraví Sport Prosperita a Trikolora,hnutí PRO Zdraví a Trikolora,PROZd+Trikol+NK,3,"080,785,1227",,,,45,80,PROZd+Trikol+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
-6067,8106,546135,Ostrava-Jih,1,2,470,470,STAROSTOVÉ pro OSTRAVU,STAROSTOVÉ pro OSTRAVU,STAN+NK,2,"080,166",,,,45,80,STAN+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
-6068,8106,546135,Ostrava-Jih,1,3,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,,,,45,720,Piráti,Piráti,Česká pirátská strana,720.0,#222222
-6069,8106,546135,Ostrava-Jih,1,4,1114,1114,Svoboda a přímá demokracie (SPD),Svoboda a př. demokracie (SPD),SPD,1,1114,,,,45,1114,SPD,SPD,Svoboda a přímá demokracie - Tomio Okamura (SPD),1114.0,#c05f2f
-6070,8106,546135,Ostrava-Jih,1,5,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,45,768,ANO,ANO,ANO 2011,768.0,#33cccc
-6071,8106,546135,Ostrava-Jih,1,6,1245,1245,PŘÍSAHA - občanské hnutí Roberta Šlachty,PŘÍSAHA Roberta Šlachty,PŘÍSAHA,1,1245,,,,45,1245,PŘÍSAHA,,,,
-6072,8106,546135,Ostrava-Jih,1,7,401,401,NEZÁVISLÍ - TVOŘÍME JIH,NEZÁVISLÍ - TVOŘÍME JIH,NEZ+NK,2,"080,088",,,,45,80,NEZ+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
-6073,8106,546135,Ostrava-Jih,1,8,755,755,Ostravak,Ostravak,Ostravak,1,755,,,,45,755,Ostravak,,,,
-6074,8106,546135,Ostrava-Jih,1,9,387,387,Ostravská levice - sdružení KSČM a nezávislých kandidátů,"Ostravská levice - KSČM, NK",KSČM+NK,2,"047,080",,,,45,47,KSČM+NK,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b
-6075,8106,546135,Ostrava-Jih,1,10,1555,1555,Česká strana sociálně demokratická a hnutí LEČO - LEPŠÍ A ČISTÁ OSTRAVA,"Koalice ČSSD, LEČO",ČSSD+LEČO,2,"007,1191",,,,45,7,ČSSD+LEČO,ČSSD,Česká strana sociálně demokratická,7.0,#f9932e
-6076,8106,546135,Ostrava-Jih,1,11,1327,1327,"Koalice SPOLU (Občanská demokratická strana, KDU-ČSL, TOP 09)",Koalice SPOLU,KDU+ODS+TOP 09,3,"001,053,721",,,,45,1,KDU+ODS+TOP 09,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e
+index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,color,inverse
+6066,8106,546135,Ostrava-Jih,1,1,1570,1570,hnutí Zdraví Sport Prosperita a Trikolora,hnutí PRO Zdraví a Trikolora,PROZd+Trikol+NK,3,"080,785,1227",,,,45,80,PROZd+Trikol+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A,1.0
+6067,8106,546135,Ostrava-Jih,1,2,470,470,STAROSTOVÉ pro OSTRAVU,STAROSTOVÉ pro OSTRAVU,STAN+NK,2,"080,166",,,,45,80,STAN+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A,1.0
+6068,8106,546135,Ostrava-Jih,1,3,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,,,,45,720,Piráti,Piráti,Česká pirátská strana,720.0,#222222,1.0
+6069,8106,546135,Ostrava-Jih,1,4,1114,1114,Svoboda a přímá demokracie (SPD),Svoboda a př. demokracie (SPD),SPD,1,1114,,,,45,1114,SPD,SPD,Svoboda a přímá demokracie - Tomio Okamura (SPD),1114.0,#c05f2f,1.0
+6070,8106,546135,Ostrava-Jih,1,5,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,45,768,ANO,ANO,ANO 2011,768.0,#33cccc,0.0
+6071,8106,546135,Ostrava-Jih,1,6,1245,1245,PŘÍSAHA - občanské hnutí Roberta Šlachty,PŘÍSAHA Roberta Šlachty,PŘÍSAHA,1,1245,,,,45,1245,PŘÍSAHA,,,,,
+6072,8106,546135,Ostrava-Jih,1,7,401,401,NEZÁVISLÍ - TVOŘÍME JIH,NEZÁVISLÍ - TVOŘÍME JIH,NEZ+NK,2,"080,088",,,,45,80,NEZ+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A,1.0
+6073,8106,546135,Ostrava-Jih,1,8,755,755,Ostravak,Ostravak,Ostravak,1,755,,,,45,755,Ostravak,,,,,
+6074,8106,546135,Ostrava-Jih,1,9,387,387,Ostravská levice - sdružení KSČM a nezávislých kandidátů,"Ostravská levice - KSČM, NK",KSČM+NK,2,"047,080",,,,45,47,KSČM+NK,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b,1.0
+6075,8106,546135,Ostrava-Jih,1,10,1555,1555,Česká strana sociálně demokratická a hnutí LEČO - LEPŠÍ A ČISTÁ OSTRAVA,"Koalice ČSSD, LEČO",ČSSD+LEČO,2,"007,1191",,,,45,7,ČSSD+LEČO,ČSSD,Česká strana sociálně demokratická,7.0,#f9932e,1.0
+6076,8106,546135,Ostrava-Jih,1,11,1327,1327,"Koalice SPOLU (Občanská demokratická strana, KDU-ČSL, TOP 09)",Koalice SPOLU,KDU+ODS+TOP 09,3,"001,053,721",,,,45,1,KDU+ODS+TOP 09,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e,1.0
