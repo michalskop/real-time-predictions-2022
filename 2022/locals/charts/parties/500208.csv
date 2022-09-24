@@ -1,0 +1,13 @@
+index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,Barva
+105,1100,500208,Praha 8,1,1,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,053,,,,45,53,ODS,ODS,Občanská demokratická strana,53.0,#4175e0
+106,1100,500208,Praha 8,1,2,1487,1487,SPD a Trikolora pro Osmičku,SPD a Trikolora pro Osmičku,SPD+Trikolora,2,"1114,1227",,,,45,1114,SPD+Trikolora,SPD,Svoboda a přímá demokracie - Tomio Okamura (SPD),1114.0,#c05f2f
+107,1100,500208,Praha 8,1,3,1572,1572,LEPŠÍ OSMIČKA PRO LIDI A ZVÍŘATA,LEPŠÍ OSMIČKA PRO LIDI A ZVÍŘ.,ND+ANS,2,"079,762",,,,5,79,ND+ANS,,,,
+108,1100,500208,Praha 8,1,4,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,45,768,ANO,ANO,ANO 2011,768.0,#33cccc
+109,1100,500208,Praha 8,1,5,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,,,,45,720,Piráti,Piráti,Česká pirátská strana,720.0,#222222
+110,1100,500208,Praha 8,1,6,659,659,Společně pro Prahu 8 - TOP 09 a Starostové a nezávislí,Společně pro Prahu 8,TOP+STAN,2,"166,721",,,,45,166,TOP+STAN,STAN,STAROSTOVÉ A NEZÁVISLÍ,166.0,#38c2f9
+111,1100,500208,Praha 8,1,7,699,699,"ČSSD, KDU-ČSL a Zelení s podporou Osmičky sobě","ČSSD, KDU-ČSL a Zelení",KDU+Zelen.+ČSSD,3,"001,005,007",,,,45,1,KDU+Zelen.+ČSSD,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e
+112,1100,500208,Praha 8,1,8,1260,1260,Libeňský mourek,Libeňský mourek,Libeňský mourek,1,1260,,,,45,1260,Libeňský mourek,,,,
+113,1100,500208,Praha 8,1,9,566,566,Praha 8 bez chaosu s krizovými manažery,P 8 bez chaosu s kriz. manaž.,PRO Zdraví+NK,2,"080,785",,,,45,80,PRO Zdraví+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
+114,1100,500208,Praha 8,1,10,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,047,,,,29,47,KSČM,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b
+115,1100,500208,Praha 8,1,11,1586,1586,"8ŽIJE a PRAHA SOBĚ, kandidáti podpoření podpisy občanů",8ŽIJE a PRAHA SOBĚ,8žije+NK,2,"080,1263",,,,45,80,8žije+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
+116,1100,500208,Praha 8,1,12,1549,1549,PATRIOTI PRO PRAHU 8,PATRIOTI PRO PRAHU 8,Svob+PatrČR+NK,3,"080,714,1004",,,,45,80,Svob+PatrČR+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A

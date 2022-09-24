@@ -1,0 +1,11 @@
+index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,Barva
+84,1100,500178,Praha 6,1,1,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,,,,45,720,Piráti,Piráti,Česká pirátská strana,720.0,#222222
+85,1100,500178,Praha 6,1,2,1491,1491,"Trikolora, hnutí SPD a nezávislí kandidáti pro Prahu 6","Trikolora, SPD a NK pro P6",SPD+Trikol+NK,3,"080,1114,1227",,,,45,80,SPD+Trikol+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
+86,1100,500178,Praha 6,1,3,47,47,Komunistická strana Čech a Moravy,Komunistická str.Čech a Moravy,KSČM,1,047,,,,45,47,KSČM,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b
+87,1100,500178,Praha 6,1,4,1373,1373,PRAHA 6 SOBĚ,PRAHA 6 SOBĚ,PRAHA SOBĚ+NK,2,"080,1180",,,,45,80,PRAHA SOBĚ+NK,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A
+88,1100,500178,Praha 6,1,5,233,233,"Solidarita pro Prahu 6 – koalice ČSSD, strany Levice a nestraníků",Solidarita pro Prahu 6,ČSSD+Levice,2,"007,074",,,,45,7,ČSSD+Levice,ČSSD,Česká strana sociálně demokratická,7.0,#f9932e
+89,1100,500178,Praha 6,1,6,210,210,Koalice ODS a KDU-ČSL,Koalice ODS a KDU-ČSL,KDU-ČSL+ODS,2,"001,053",,,,45,1,KDU-ČSL+ODS,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e
+90,1100,500178,Praha 6,1,7,1584,1584,PATRIOTI PRO PRAHU 6,PATRIOTI PRO PRAHU 6,PbezchaSvobPaČR,3,"142,714,1004",,,,45,142,PbezchaSvobPaČR,,,,
+91,1100,500178,Praha 6,1,8,721,721,TOP 09,TOP 09,TOP 09,1,721,,,,45,721,TOP 09,TOP 09,TOP 09,721.0,#c268b4
+92,1100,500178,Praha 6,1,9,1585,1585,STAN s podporou Zelených,STAN s podporou Zelených,Zelení+STAN,2,"005,166",,,,45,5,Zelení+STAN,SZ,Strana zelených,5.0,#36da83
+93,1100,500178,Praha 6,1,10,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,45,768,ANO,ANO,ANO 2011,768.0,#33cccc

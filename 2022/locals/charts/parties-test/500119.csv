@@ -1,0 +1,12 @@
+index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,color,inverse
+53,1100,500119,Praha 4,1,1,340,340,SPOLEČNĚ PRO PRAHU 4 STAROSTOVÉ A NEZÁVISLÍ S KDU - ČSL,SPOLEČNĚ PRO PRAHU 4,,2,"001,166",194835.0,10.82,6.0,45,1,,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e,1.0
+54,1100,500119,Praha 4,1,2,768,768,ANO 2011,ANO 2011,ANO,1,768,257637.0,15.33,7.0,44,768,ANO,ANO,ANO 2011,768.0,#33cccc,0.0
+55,1100,500119,Praha 4,1,3,364,364,Praha 4 sobě - Zelení a nezávislí,Praha 4 sobě - Zelení a NK,Zelení+NK,2,"005,080",314798.0,17.48,9.0,45,5,Zelení+NK,SZ,Strana zelených,5.0,#36da83,1.0
+56,1100,500119,Praha 4,1,4,721,721,TOP 09,TOP 09,TOP 09,1,721,154285.0,8.57,4.0,45,721,TOP 09,TOP 09,TOP 09,721.0,#c268b4,1.0
+57,1100,500119,Praha 4,1,5,541,541,PIRÁTI A NEZÁVISLÍ,PIRÁTI A NEZÁVISLÍ,,2,"080,720",339818.0,18.87,10.0,45,80,,Nezávislý kandidát,Nezávislý kandidát,80.0,#5C677A,1.0
+58,1100,500119,Praha 4,1,6,1114,1114,Svoboda a přímá demokracie - Tomio Okamura (SPD),Svob.a př.dem.-T.Okamura (SPD),SPD,1,1114,66012.0,4.12,0.0,45,1114,SPD,SPD,Svoboda a přímá demokracie - Tomio Okamura (SPD),1114.0,#c05f2f,1.0
+59,1100,500119,Praha 4,1,7,47,47,KOMUNISTICKÁ STRANA ČECH A MORAVY,KOMUNIST. STRANA ČECH A MORAVY,KSČM,1,047,54636.0,3.03,0.0,45,47,KSČM,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b,1.0
+60,1100,500119,Praha 4,1,8,1395,1395,4 pro 4,4 pro 4,NEZ+Svo+Sou+HPP,4,"088,714,716,791",39071.0,2.17,0.0,45,88,NEZ+Svo+Sou+HPP,,,,,
+61,1100,500119,Praha 4,1,9,1214,1214,DOST JE DOST ! Občané za svá práva,DOST JE DOST! Ob. za svá práva,Dost je Dost !,1,1214,6458.0,0.35,0.0,45,1214,Dost je Dost !,,,,,
+62,1100,500119,Praha 4,1,10,53,53,Občanská demokratická strana,Občanská demokratická strana,ODS,1,053,315377.0,17.52,9.0,45,53,ODS,ODS,Občanská demokratická strana,53.0,#4175e0,1.0
+63,1100,500119,Praha 4,1,11,7,7,Česká strana sociálně demokratická,Česká strana soc. demokratická,ČSSD,1,007,57013.0,3.16,0.0,45,7,ČSSD,ČSSD,Česká strana sociálně demokratická,7.0,#f9932e,1.0

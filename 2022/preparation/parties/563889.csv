@@ -1,0 +1,11 @@
+index,OKRES,KODZASTUP,NAZEVZAST,COBVODU,POR_STR_HL,OSTRANA,VSTRANA_x,NAZEVCELK,ZKRATKAO30,ZKRATKAO8,POCSTR_SLO,SLOZENI,HLASY_STR,PROCHLSTR,MAND_STR,N_CANDIDATE,main_party,name,Short name,Name,VSTRANA_y,Barva
+11709,5103,563889,Liberec,1,1,1446,1446,Trikolora a Soukromníci,Trikolora a Soukromníci,Trikol+Soukrom,2,"716,1227",,,,39,716,Trikol+Soukrom,,,,
+11710,5103,563889,Liberec,1,2,768,768,ANO 2011,ANO 2011,ANO,1,768,,,,39,768,ANO,ANO,ANO 2011,768.0,#33cccc
+11711,5103,563889,Liberec,1,3,720,720,Česká pirátská strana,Česká pirátská strana,Piráti,1,720,,,,39,720,Piráti,Piráti,Česká pirátská strana,720.0,#222222
+11712,5103,563889,Liberec,1,4,1485,1485,Starostové pro Liberecký kraj společně s TOP 09 a KDU-ČSL,SLK společ. s TOP 09 a KDU-ČSL,KDU-ČSL+SLK+TOP,3,"001,703,721",,,,39,1,KDU-ČSL+SLK+TOP,KDU-ČSL,Křesťanská a demokratická unie - Československá strana lidová,1.0,#ffd62e
+11713,5103,563889,Liberec,1,5,364,364,Liberec otevřený lidem,Liberec otevřený lidem,Zelení+NK,2,"005,080",,,,39,5,Zelení+NK,SZ,Strana zelených,5.0,#36da83
+11714,5103,563889,Liberec,1,6,1484,1484,ODS společně se Sportovci,ODS společně se Sportovci,ODS+USZ+NK,3,"053,080,119",,,,39,53,ODS+USZ+NK,ODS,Občanská demokratická strana,53.0,#4175e0
+11715,5103,563889,Liberec,1,7,1265,1265,Právo Respekt Odbornost,Právo Respekt Odbornost,PRO 2022,1,1265,,,,30,1265,PRO 2022,,,,
+11716,5103,563889,Liberec,1,8,387,387,Komunistická strana Čech a Moravy a Podještědská levice,KSČM a Podještědská levice,KSČM+NK,2,"047,080",,,,39,47,KSČM+NK,KSČM,Komunistická strana Čech a Moravy,47.0,#e2354b
+11717,5103,563889,Liberec,1,9,7,7,Česká strana sociálně demokratická,Česká str.sociálně demokrat.,ČSSD,1,007,,,,39,7,ČSSD,ČSSD,Česká strana sociálně demokratická,7.0,#f9932e
+11718,5103,563889,Liberec,1,10,1114,1114,Svoboda a přímá demokracie (SPD),Svoboda a př. demokracie (SPD),SPD,1,1114,,,,39,1114,SPD,SPD,Svoboda a přímá demokracie - Tomio Okamura (SPD),1114.0,#c05f2f

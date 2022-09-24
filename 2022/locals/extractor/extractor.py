@@ -25,6 +25,10 @@ for n in batches['n']:
   with open(fpath, 'rb') as f:
     text = f.read()
     obj = xmltodict.parse(text)
+    # save last time
+    time = obj['VYSLEDKY_OKRSKY']['@DATUM_CAS_GENEROVANI']
+    with open(path + 'time' + teststr + '.txt', 'w') as f:
+      f.write(time)
     if 'OKRSEK' in obj['VYSLEDKY_OKRSKY']:
       if type(obj['VYSLEDKY_OKRSKY']['OKRSEK']) != list:
         obj['VYSLEDKY_OKRSKY']['OKRSEK'] = [obj['VYSLEDKY_OKRSKY']['OKRSEK']]
