@@ -1,4 +1,5 @@
 batches/
+.xml
 preparation/sources
 .~lock.*
 results_*
