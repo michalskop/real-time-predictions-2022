@@ -3,7 +3,7 @@
 import pandas as pd
 
 path = 'previous/2018/'
-# path = '2022/preparation/'
+path = '2022/preparation/'
 
 colors =  pd.read_csv(path + 'colors.csv')
 
