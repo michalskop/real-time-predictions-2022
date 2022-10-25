@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "results.schema.json",
+  "title": "Result estimates",
+  "description": "Estimates for CZ presidential election results, winners in regions, both rounds, any regional level.",
+  "version": "0.1.0",
+  "type": "object",
+  "properties": {
+    "maps": {
+      "description": "Maps of winners on a given geographical level.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "level": {
+            "description": "Geographical level of the map, using NUTS codes, see https://en.wikipedia.org/wiki/NUTS_statistical_regions_of_the_Czech_Republic",
+            "type": "string",
+            "examples": [
+              "NUTS 2", "LAU 1"
+            ]
+          },
+          "regions": {
+            "description": "List of regions on the given level, with their winners.",
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "description": "Region ID, using ISO 3166:CZ codes, see https://www.iso.org/obp/ui/#iso:code:3166:CZ, exception: CZ-10 to be used also in LAU 1",
+                  "type": "string",
+                  "examples": [
+                    "CZ-10", "CZ-32", "CZ-20C"
+                  ]
+                },
+                "name": {
+                  "description": "Name of the region.",
+                  "type": "string",
+                  "examples": [
+                    "Praha", "Plzeňský kraj", "Rakovník"
+                  ]
+                },
+                "winner-id": {
+                  "description": "ID of the estimated regional winner. May be null. See result.json for the list of candidate IDs.",
+                  "type": ["string", "null"],
+                  "examples": [
+                    "danuse-nerudova", "zuzana-caputova", "milos-zeman"
+                  ]
+                },
+                "winner-name": {
+                  "description": "Name of the estimated regional winner. May be null.",
+                  "type": ["string", "null"],
+                  "examples": [
+                    "Danuše Nerudová", "Zuzana Čaputová", "Milos Zeman"
+                  ]
+                }
+              },
+              "required": [
+                "id", "name", "winner-id", "winner-name"
+              ]
+            }
+          }
+        },
+        "required": [
+          "level", "regions"
+        ]
+      }
+    }
+  }
+
+}

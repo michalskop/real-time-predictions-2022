@@ -1,0 +1,147 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "results.schema.json",
+  "title": "Result estimates",
+  "description": "Estimates for CZ presidential election results, both rounds.",
+  "version": "0.1.0",
+  "type": "object",
+  "properties": {
+    "datetime": {
+      "description": "Datetime of the calculation of the results in local time zone.",
+      "type": "string",
+      "format": "date-time"
+    },
+    "confidence": {
+      "description": "Confidence level in %.",
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100,
+      "default": 95,
+      "examples": [
+        95
+      ]
+    },
+    "counted": {
+      "description": "Estimated % of counted votes.",
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100,
+      "default": 0,
+      "examples": [
+        0
+      ]
+    },
+    "candidates": {
+      "description": "List of all candidates with their estimated values.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "description": "Candidate ID. Slugified name.",
+            "type": "string",
+            "examples": [
+              "milos-zeman"
+            ]
+          },
+          "name": {
+            "description": "Candidate full name.",
+            "type": "string",
+            "examples": [
+              "Miloš Zeman"
+            ]
+          },
+          "abbreviated_name": {
+            "description": "Candidate abbreviated name.",
+            "type": "string",
+            "examples": [
+              "M. Zeman"
+            ]
+          },
+          "family_name": {
+            "description": "Candidate family name.",
+            "type": "string",
+            "examples": [
+              "Zeman"
+            ]
+          },
+          "given_name": {
+            "description": "Candidate given name(s).",
+            "type": "string",
+            "examples": [
+              "Miloš"
+            ]
+          },
+          "values": {
+            "description": "List of estimated values for the candidate.",
+            "type": "object",
+            "properties": {
+              "mean": {
+                "description": "Best estimate for the result in %.",
+                "type": "number",
+                "minimum": 0,
+                "maximum": 100,
+                "examples": [
+                  20.22
+                ]
+              },
+              "hi": {
+                "description": "Estimated upper estimate of % gain on the confidence level.",
+                "type": "number",
+                "minimum": 0,
+                "maximum": 100,
+                "examples": [
+                  25.22
+                ]
+              },
+              "lo": {
+                "description": "Estimated lower estimate of % gain on the confidence level.",
+                "type": "number",
+                "minimum": 0,
+                "maximum": 100,
+                "examples": [
+                  15.22
+                ]
+              },
+              "probability_winner": {
+                "description": "Probability of winning the round of election in %.",
+                "type": "number",
+                "minimum": 0,
+                "maximum": 100,
+                "default": 0,
+                "examples": [
+                  66.66
+                ]
+              },
+              "probability_2": {
+                "description": "Probability of being among first two in the round of election in %.",
+                "type": "number",
+                "minimum": 0,
+                "maximum": 100,
+                "default": 0,
+                "examples": [
+                  88.88
+                ]
+              }
+            },
+            "required": [
+              "mean",
+              "hi",
+              "lo",
+              "probability_winner",
+              "probability_2"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "abbreviated_name",
+          "family_name",
+          "given_name",
+          "values"
+        ]
+      }
+    }
+  }
+}

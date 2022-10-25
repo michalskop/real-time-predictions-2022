@@ -1,0 +1,78 @@
+id,name,super-id
+CZ-10,Praha,CZ-10
+CZ-201,Benešov,CZ-20
+CZ-202,Beroun,CZ-20
+CZ-203,Kladno,CZ-20
+CZ-204,Kolín,CZ-20
+CZ-205,Kutná Hora,CZ-20
+CZ-206,Mělník,CZ-20
+CZ-207,Mladá Boleslav,CZ-20
+CZ-208,Nymburk,CZ-20
+CZ-209,Praha-východ,CZ-20
+CZ-20A,Praha-západ,CZ-20
+CZ-20B,Příbram,CZ-20
+CZ-20C,Rakovník,CZ-20
+CZ-311,České Budějovice,CZ-31
+CZ-312,Český Krumlov,CZ-31
+CZ-313,Jindřichův Hradec,CZ-31
+CZ-314,Písek,CZ-31
+CZ-315,Prachatice,CZ-31
+CZ-316,Strakonice,CZ-31
+CZ-317,Tábor,CZ-31
+CZ-321,Domažlice,CZ-32
+CZ-322,Klatovy,CZ-32
+CZ-323,Plzeň-město,CZ-32
+CZ-324,Plzeň-jih,CZ-32
+CZ-325,Plzeň-sever,CZ-32
+CZ-326,Rokycany,CZ-32
+CZ-327,Tachov,CZ-32
+CZ-411,Cheb,CZ-41
+CZ-412,Karlovy Vary,CZ-41
+CZ-413,Sokolov,CZ-41
+CZ-421,Děčín,CZ-42
+CZ-422,Chomutov,CZ-42
+CZ-423,Litoměřice,CZ-42
+CZ-424,Louny,CZ-42
+CZ-425,Most,CZ-42
+CZ-426,Teplice,CZ-42
+CZ-427,Ústí nad Labem,CZ-42
+CZ-511,Česká Lípa,CZ-51
+CZ-512,Jablonec nad Nisou,CZ-51
+CZ-513,Liberec,CZ-51
+CZ-514,Semily,CZ-51
+CZ-521,Hradec Králové,CZ-52
+CZ-522,Jičín,CZ-52
+CZ-523,Náchod,CZ-52
+CZ-524,Rychnov nad Kněžnou,CZ-52
+CZ-525,Trutnov,CZ-52
+CZ-531,Chrudim,CZ-53
+CZ-532,Pardubice,CZ-53
+CZ-533,Svitavy,CZ-53
+CZ-534,Ústí nad Orlicí,CZ-53
+CZ-631,Havlíčkův Brod,CZ-63
+CZ-632,Jihlava,CZ-63
+CZ-633,Pelhřimov,CZ-63
+CZ-634,Třebíč,CZ-63
+CZ-635,Žďár nad Sázavou,CZ-63
+CZ-641,Blansko,CZ-64
+CZ-642,Brno-město,CZ-64
+CZ-643,Brno-venkov,CZ-64
+CZ-644,Břeclav,CZ-64
+CZ-645,Hodonín,CZ-64
+CZ-646,Vyškov,CZ-64
+CZ-647,Znojmo,CZ-64
+CZ-711,Jeseník,CZ-71
+CZ-712,Olomouc,CZ-71
+CZ-713,Prostějov,CZ-71
+CZ-714,Přerov,CZ-71
+CZ-715,Šumperk,CZ-71
+CZ-721,Kroměříž,CZ-72
+CZ-722,Uherské Hradiště,CZ-72
+CZ-723,Vsetín,CZ-72
+CZ-724,Zlín,CZ-72
+CZ-801,Bruntál,CZ-80
+CZ-802,Frýdek-Místek,CZ-80
+CZ-803,Karviná,CZ-80
+CZ-804,Nový Jičín,CZ-80
+CZ-805,Opava,CZ-80
+CZ-806,Ostrava-město,CZ-80
