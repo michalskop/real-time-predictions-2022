@@ -2,7 +2,7 @@
 
 ## Chart
 - JSON Schema: [results.schema.json](results.schema.json)
-- Example: [results-example-0.json](results-example-0.json)
+- Example: [result-example-0.json](result-example-0.json)
 
 ## Map(s)
 - JSON Schema: [maps.schema.json](maps.schema.json)
