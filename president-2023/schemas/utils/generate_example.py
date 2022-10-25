@@ -20,7 +20,7 @@ for map in maps:
   df = pd.read_csv(path + map["file"])
   map = {"level": map["level"], "regions": []}
   for i, row in df.iterrows():
-    winner = random.choice(range(0, len(winners) - 1))
+    winner = random.choice(range(0, len(winners)))
     region = {
       "id": row["id"],
       "name": row["name"],
