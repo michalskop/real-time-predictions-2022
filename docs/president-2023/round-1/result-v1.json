@@ -1,4 +1,5 @@
 {
+  "note": "This is a test data. The results are not real.",
   "datetime": "2023-01-15T15:35:00",
   "counted": 22.15,
   "confidence": 95,
@@ -88,15 +89,43 @@
       }
     },
     {
-      "id": "karel-janecek",
-      "name": "Karel Janeček",
-      "abbreviated_name": "K. Janeček",
-      "family_name": "Janeček",
+      "id": "karel-divis",
+      "name": "Karel Diviš",
+      "abbreviated_name": "K. Diviš",
+      "family_name": "Diviš",
       "given_name": "Karel",
       "values": {
         "mean": 2.5,
         "hi": 3.5,
         "lo": 1.5,
+        "probability_winner": 0.0,
+        "probability_2": 0.0
+      }
+    },
+    {
+      "id": "jiri-stredula",
+      "name": "Jiří Středula",
+      "abbreviated_name": "J. Středula",
+      "family_name": "Středula",
+      "given_name": "Jiří",
+      "values": {
+        "mean": 1.5,
+        "hi": 2.5,
+        "lo": 0.5,
+        "probability_winner": 0.0,
+        "probability_2": 0.0
+      }
+    },
+    {
+      "id": "tomas-zima",
+      "name": "Tomáš Zima",
+      "abbreviated_name": "T. Zima",
+      "family_name": "Zima",
+      "given_name": "Tomáš",
+      "values": {
+        "mean": 1.5,
+        "hi": 2.5,
+        "lo": 0.5,
         "probability_winner": 0.0,
         "probability_2": 0.0
       }
