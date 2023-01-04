@@ -4,7 +4,7 @@
 
 import pandas as pd
 
-localpath = "previous/2018/"
+localpath = "previous/2018-municipalities/"
 
 coco = pd.read_csv(localpath + "sources/kvrzcoco.csv", encoding="cp1250", sep=";")
 parties = pd.read_csv(localpath + "sources/kvros.csv", encoding="cp1250", sep=";")

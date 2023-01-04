@@ -1,6 +1,13 @@
 batches/
+batches-2/
 .xml
 preparation/sources
 .~lock.*
 results_*
 settings.json
+sources/
+# big files
+reality_mds*
+reality_ordered_matrix.csv
+# tests
+2018/test*
