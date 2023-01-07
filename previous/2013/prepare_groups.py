@@ -96,3 +96,17 @@ d2.loc[(d2['dist'] > q['dist']) & (d2[0] < 0) & (d2[1] >= 0), 'group'] = 4
 d2.loc[:, ['OBEC', 'OKRSEK']] = resround[~resround.index.isin(list(exclude))].loc[:, ['OBEC', 'OKRSEK']]
 
 d2.to_csv(localpath + 'reality_mds_5_groups.csv')
+
+
+#
+# Closest zones
+# calculate the distance matrix with NANs
+dist_arr = dcor.distances.pairwise_distances(ptp.T)
+dist = pd.DataFrame(dist_arr, index=ptp.columns, columns=ptp.columns)
+# dist.apply(lambda x: np.argsort(x), axis=1)
+
+from scipy.stats import rankdata
+ordered_arrs = dist.apply(lambda x: rankdata(x, method='ordinal'), axis=1)
+ordered_matrix = pd.DataFrame(list(ordered_arrs), index=dist.index, columns=dist.columns)
+
+ordered_matrix.to_csv(localpath + 'reality_ordered_matrix.csv')

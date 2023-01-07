@@ -11,6 +11,13 @@
 
 ## model from 2013
 join data from 2013 and 2018 to create model for 2018
+`join_lists.py`
 
 ## extractor
 extract data from batches to `results.csv` and `results_XXX.csv` files
+
+## estimate results
+`estimate_results.py` estimates results
+
+## prepare groups
+`prepare_groups.py` prepares groups for other elections

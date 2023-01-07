@@ -7,9 +7,9 @@ import numpy as np
 import dcor
 # from sklearn.manifold import MDS
 
-localpath = "previous/2017/"
+localpath = "previous/2018/"
 
-results = pd.read_csv(localpath + 'sources/pst4p.csv', sep=';')
+results = pd.read_csv(localpath + 'sources/pet1.csv', sep=';')
 
 def cmdscale(D):
   """                                                                                       
@@ -57,11 +57,20 @@ def cmdscale(D):
 
   return Y, evals
 
-results.loc[:, 'id'] = results['OBEC'].astype(str) + '-' + results['OKRSEK'].astype(str)
+round = 1
 
-pt = pd.pivot_table(results, values='POC_HLASU', index=['id'], columns=['KSTRANA'], aggfunc=sum).fillna(0).T
+candidates = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+candidates_votes = [('HLASY_' + str(c).zfill(2)) for c in candidates]
+
+resround = results[results['KOLO'] == round]
+resround.loc[:, 'id'] = resround['OBEC'].astype(str) + '-' + resround['OKRSEK'].astype(str)
+resround.index = resround['id']
+
+pt = resround.loc[:, candidates_votes].T
 
 exclude = pt.columns[pt.sum() == 0]
+
+pt = pt.drop(exclude, axis=1)
 
 ptp = pt / pt.sum(axis=0)
 
@@ -114,18 +123,7 @@ dist = pd.DataFrame(dist_arr, index=ptp.columns, columns=ptp.columns)
 from scipy.stats import rankdata
 ordered_arrs = dist.apply(lambda x: rankdata(x, method='ordinal'), axis=1)
 ordered_matrix = pd.DataFrame(list(ordered_arrs), index=dist.index, columns=dist.columns)
+ordered_matrix.index = [e for e in pt.columns if e not in list(exclude)]
+ordered_matrix.columns = [e for e in pt.columns if e not in list(exclude)]
 
 ordered_matrix.to_csv(localpath + 'reality_ordered_matrix.csv')
-
-ordered_matrix.iloc[0:10, 0:10]
-
-
-
-import random
-test = [(random.random() > 0.66) for i in range(0, len(ordered_matrix))]
-ordered_matrix_sel = ordered_matrix.mul(test, axis=1).replace(0, len(ordered_matrix))
-
-ordered_matrix2 = pd.DataFrame(list(ordered_matrix_sel.apply(lambda x: rankdata(x, method='ordinal'), axis=1)))
-ordered_matrix2.apply(lambda x: np.argsort(x), axis=1)
-
-ordered_matrix2.apply(lambda x: np.argsort(x), axis=0).apply(lambda x: x[0])

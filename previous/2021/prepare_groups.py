@@ -7,9 +7,9 @@ import numpy as np
 import dcor
 # from sklearn.manifold import MDS
 
-localpath = "previous/2017/"
+localpath = "previous/2021/"
 
-results = pd.read_csv(localpath + 'sources/pst4p.csv', sep=';')
+results = pd.read_csv(localpath + 'sources/pst4p.csv')
 
 def cmdscale(D):
   """                                                                                       
@@ -117,15 +117,3 @@ ordered_matrix = pd.DataFrame(list(ordered_arrs), index=dist.index, columns=dist
 
 ordered_matrix.to_csv(localpath + 'reality_ordered_matrix.csv')
 
-ordered_matrix.iloc[0:10, 0:10]
-
-
-
-import random
-test = [(random.random() > 0.66) for i in range(0, len(ordered_matrix))]
-ordered_matrix_sel = ordered_matrix.mul(test, axis=1).replace(0, len(ordered_matrix))
-
-ordered_matrix2 = pd.DataFrame(list(ordered_matrix_sel.apply(lambda x: rankdata(x, method='ordinal'), axis=1)))
-ordered_matrix2.apply(lambda x: np.argsort(x), axis=1)
-
-ordered_matrix2.apply(lambda x: np.argsort(x), axis=0).apply(lambda x: x[0])

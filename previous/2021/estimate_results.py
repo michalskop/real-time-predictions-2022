@@ -5,12 +5,12 @@
 import pandas as pd
 import numpy as np
 
-localpath = "previous/2018/"
+localpath = "previous/2021/"
 # localpath0 = "previous/2017/"
-localpath0 = "previous/2021/"
+localpath0 = "previous/2018/"
 
 # batches
-batches = pd.read_csv(localpath + '/batches.csv')
+batches = pd.read_csv(localpath + 'batches.csv')
 
 # naive estimates
 out = pd.DataFrame(columns = ['time', 'n'])
@@ -40,7 +40,7 @@ for batch in batches.iterrows():
   n = batch[1]['n']
   pssum = pssum + batch[1]['size']
   results = pd.read_csv(localpath + 'results/results_' + str(n).zfill(3) + '.csv')
-  polling_stations = pd.read_csv(localpath + 'polling_stations_2021_2018_groups9.csv')
+  polling_stations = pd.read_csv(localpath + 'polling_stations_2018_2021_groups9.csv')
   results = results.merge(polling_stations.loc[:, ['id', 'group']], left_on='OKRSEK', right_on="id", how='left')
   totalsum = polling_stations["votes"].sum()
   groupsums = polling_stations.groupby("group")["votes"].sum()
@@ -89,7 +89,7 @@ for batch in batches.iterrows():
   # if n == 5:
   #   break
   results = pd.read_csv(localpath + 'results/results_' + str(n).zfill(3) + '.csv')
-  polling_stations = pd.read_csv(localpath + 'polling_stations_2017_2018_groups9.csv')
+  polling_stations = pd.read_csv(localpath + 'polling_stations_2018_2021_groups9.csv')
   polling_stations.rename(columns={'votes': 'votes_model'}, inplace=True)
   colsok = results.loc[:, 'OKRSEK'].unique()
   # find closest

@@ -10,4 +10,4 @@ sources/
 reality_mds*
 reality_ordered_matrix.csv
 # tests
-2018/test*
+test*
