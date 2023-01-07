@@ -1,0 +1,13 @@
+# REAL TIME PREDICTIONS
+# * * * * * rsync -r michal@138.68.110.130:/home/projects/rt1.hlasovali.cz/2022/locals/downloads/batches/*.xml /home/michal/dev/real-time-predictions-2022/2022/locals/downloads/batches-backup/
+
+# * * * * * /home/michal/dev/anaconda3/bin/python3 /home/michal/dev/real-time-predictions-2022/2022/locals/downloads/downloader.py
+# * * * * * /home/michal/dev/anaconda3/bin/python3 /home/michal/dev/real-time-predictions-2022/2022/locals/extractor/extractor.py
+# * * * * * /home/michal/dev/anaconda3/bin/python3 /home/michal/dev/real-time-predictions-2022/2022/locals/estimate/estimate_results.py
+# * * * * * /home/michal/dev/anaconda3/bin/python3 /home/michal/dev/real-time-predictions-2022/2022/locals/seats/calc_seats.py
+# * * * * * /home/michal/dev/anaconda3/bin/python3 /home/michal/dev/real-time-predictions-2022/2022/locals/charts/create_charts.py
+
+# * * * * * cp /home/michal/dev/real-time-predictions-2022/2022/locals/charts/charts/* /home/michal/dev/real-time-predictions-2022/www/locals/charts/
+# * * * * * cp /home/michal/dev/real-time-predictions-2022/2022/locals/charts/charts/* /home/michal/dev/real-time-predictions-2022/docs/locals/charts/
+
+# */2 * * * * timestamp=$(date --iso-8601=seconds) && cd /home/michal/dev/real-time-predictions-2022/ && /usr/bin/git add -A && /usr/bin/git commit -m "update ${timestamp}" && /usr/bin/git push

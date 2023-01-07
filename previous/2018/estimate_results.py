@@ -40,7 +40,7 @@ for batch in batches.iterrows():
   n = batch[1]['n']
   pssum = pssum + batch[1]['size']
   results = pd.read_csv(localpath + 'results/results_' + str(n).zfill(3) + '.csv')
-  polling_stations = pd.read_csv(localpath + 'polling_stations_2021_2018_groups9.csv')
+  polling_stations = pd.read_csv(localpath + 'polling_stations_2021_2018_groups5.csv')
   results = results.merge(polling_stations.loc[:, ['id', 'group']], left_on='OKRSEK', right_on="id", how='left')
   totalsum = polling_stations["votes"].sum()
   groupsums = polling_stations.groupby("group")["votes"].sum()
@@ -77,7 +77,7 @@ for batch in batches.iterrows():
     out = pd.concat([out, item], axis=0)
 
 # save
-out.to_csv(localpath + "test_9_2021.csv", index=False)
+out.to_csv(localpath + "test_5_2021.csv", index=False)
 
 # closest
 # load
