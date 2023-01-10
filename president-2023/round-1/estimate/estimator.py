@@ -9,7 +9,7 @@ import pandas as pd
 
 # load settings
 path = '/'.join(abspath(getsourcefile(lambda:0)).split("/")[0:-1]) + "/"
-# path = "/home/michal/dev/real-time-predictions-2022/president-2023/round-1/estimate/" # ** for testing only **
+path = "/home/michal/dev/real-time-predictions-2022/president-2023/round-1/estimate/" # ** for testing only **
 if exists(path + "../../settings.json"):
   with open(path + '../../settings.json') as f:
     settings = json.load(f)
@@ -66,6 +66,75 @@ resultse = results.merge(polling_stations.loc[:, ['id', 'group']], left_on='OKRS
 counted = polling_stations[polling_stations['id'].isin(resultse['id'].unique())]['votes_model'].sum() / totalsum * 100
 counted_perc = np.floor(polling_stations[polling_stations['id'].isin(resultse['id'].unique())]['votes_model'].sum() / totalsum * 100)
 
+# last time
+batchesdone = pd.read_csv(path + '../extract/batches' + teststr + '.csv')
+lasttime = batchesdone['time'].max()
+
+# candidates
+candidates = pd.read_csv(path + 'candidates.csv')
+
+# estimate for each region
+regions = pd.read_csv(path + 'regions.csv')
+regional_results = pd.DataFrame()
+for reg in regions.iterrows():
+  region = reg[1]
+  ps2r = ps2[ps2['region_id'] == region['id']]
+  resultscr = resultsc[resultsc['OKRSEK'].isin(ps2r['id'])]
+  ptr = pd.pivot_table(ps2r, values='votes', index=['closest'], aggfunc=sum).sort_values(by='votes', ascending=False)
+  rxr = resultscr.merge(pt, left_on='OKRSEK', right_index=True, how='left')
+  rxr.loc[:, 'v'] = rxr.loc[:, 'p'] * rxr.loc[:, 'votes']
+  itr = rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum) / rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum).sum() * 100
+  itr.sort_values(by=['v'], ascending=False, inplace=True)
+  # TODO: add better logic for confidence intervals / null vs. winner
+  if len(itr) >= 2:
+    if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > 15) and (counted > 2):
+      item = pd.DataFrame({
+        'id': region['id'],
+        'region': region['name'],
+        'winner_number': itr.index[0]
+      }, index=[region['id']])
+    else:
+      item = pd.DataFrame({
+        'id': region['id'],
+        'region': region['name'],
+        'winner_number': np.nan
+      }, index=[region['id']])
+  else:
+    item = pd.DataFrame({
+      'id': region['id'],
+      'region': region['name'],
+      'winner_number': np.nan
+    }, index=[region['id']])
+  
+  regional_results = pd.concat([regional_results, item], axis=0)
+
+regional_results = regional_results.merge(candidates.rename(columns={'id': 'candidate_id'}), left_on='winner_number', right_on='number', how='left')
+
+# output regions
+outputr = {
+  'note': 'These are test data. The results are not real.',
+  'datetime': datetime.datetime.now().isoformat()[0:19],
+  'datatime-data': lasttime,
+  'counted': counted,
+  'confidence': 95,
+  'maps': [{
+    'level': 'NUTS 3',
+    'regions': []
+  }]
+}
+for i, r in regional_results.iterrows():
+  outputr['maps'][0]['regions'].append({
+    'id': r['id'],
+    'name': r['region'],
+    'winner': r['winner_number'],
+    'winner_name': r['name'],
+    'winner_id': r['candidate_id']
+  })
+# with open(path + '../../../docs/president-2023/round-1/map-v1' + teststr + '.json', 'w') as outfile:
+with open(path + '../../../docs/president-2023/round-1/map-v1.json', 'w') as outfile:
+  ss = json.dumps(outputr, ensure_ascii=False).replace('NaN', 'null')
+  outfile.write(ss)
+
 # confidence itervals
 # confidence intervals parameters
 confi = pd.DataFrame([
@@ -102,12 +171,7 @@ lot = gt * (1 / (1 + val))
 # gains + candidates
 gain = pd.concat([gt, hit, lot], axis=0)
 gain.index = ['mean', 'hi', 'lo']
-candidates = pd.read_csv(path + 'candidates.csv')
 gaint = round(gain.T, 2).merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='mean', ascending=False)
-
-# last time
-batchesdone = pd.read_csv(path + '../extract/batches' + teststr + '.csv')
-lasttime = batchesdone['time'].max()
 
 # output
 output = {

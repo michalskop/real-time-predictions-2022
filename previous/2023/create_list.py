@@ -42,5 +42,11 @@ for i in coco.index:
 
 pss = pd.DataFrame(ps_arr)
 
+# merge with regions
+regions = pd.read_csv(localpath + "regions.csv")
+
 # create list of polling stations
-pss.loc[:, ["id", "OKRSEK", "OBEC", "NAZEVOBCE"]].to_csv(localpath + "polling_stations.csv", index=False)
+pss.loc[:, ["id", "OKRSEK", "OBEC", "NAZEVOBCE", "KRAJ"]].merge(regions.rename(columns={'id': 'region_id'}), on="KRAJ", how="left").to_csv(localpath + "polling_stations.csv", index=False)
+
+
+pss.to_csv(localpath + "polling_stations.csv", index=False)

@@ -1,0 +1,16 @@
+id,name,KRAJ
+CZ-10,Praha,1100
+CZ-20,Středočeský kraj,2100
+CZ-31,Jihočeský kraj,3100
+CZ-32,Plzeňský kraj,3200
+CZ-41,Karlovarský kraj,4100
+CZ-42,Ústecký kraj,4200
+CZ-51,Liberecký kraj,5100
+CZ-52,Královéhradecký kraj,5200
+CZ-53,Pardubický kraj,5300
+CZ-63,Kraj Vysočina,6100
+CZ-64,Jihomoravský kraj,6200
+CZ-71,Olomoucký kraj,7100
+CZ-72,Zlínský kraj,7200
+CZ-80,Moravskoslezský kraj,8100
+CZ-99,Zahraničí,9900
