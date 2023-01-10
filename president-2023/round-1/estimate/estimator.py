@@ -124,7 +124,7 @@ outputr = {
   'datetime': datetime.datetime.now().isoformat()[0:19],
   'datatime-data': lasttime,
   'counted': counted,
-  'confidence': 95,
+  'confidence': 90,
   'maps': [{
     'level': 'NUTS 3',
     'regions': []
