@@ -121,6 +121,7 @@ regional_results = regional_results.merge(candidates.rename(columns={'id': 'cand
 # output regions
 outputr = {
   'note': 'These are test data. The results are not real.',
+  'data-exist': True,
   'datetime': datetime.datetime.now().isoformat()[0:19],
   'datatime-data': lasttime,
   'counted': counted,
@@ -185,6 +186,7 @@ gaint = round(gain.T, 2).merge(candidates, left_index=True, right_on='number', h
 # output
 output = {
   'note': 'These are test data. The results are not real.',
+  'data-exist': True,
   'datetime': datetime.datetime.now().isoformat()[0:19],
   'datatime-data': lasttime,
   'counted': counted,
