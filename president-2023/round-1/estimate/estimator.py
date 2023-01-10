@@ -135,7 +135,7 @@ for i, r in gaint.iterrows():
 
 # with open(path + '../../../docs/president-2023/round-1/result-v1' + teststr + '.json', 'w') as outfile:
 with open(path + '../../../docs/president-2023/round-1/result-v1.json', 'w') as outfile:
-  json.dump(output, outfile)
+  json.dump(output, outfile, ensure_ascii=False)
 
 gaint['counted'] = counted
 gaint['datetime'] = output['datetime']
