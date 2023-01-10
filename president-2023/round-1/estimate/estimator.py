@@ -28,6 +28,11 @@ results = pd.read_csv(path + '../extract/results' + teststr + '/results.csv')
 polling_stations = pd.read_csv(path + 'polling_stations_2021_2023_groups9.csv')
 polling_stations.rename(columns={'votes': 'votes_model'}, inplace=True)
 
+# stop by 0 results
+if len(results) == 0:
+  print('no results yet')
+  exit()
+
 # closest
 # load ordered matrix
 ordered_matrix = pd.read_pickle(path + '/reality_ordered_matrix_2021.pkl')
