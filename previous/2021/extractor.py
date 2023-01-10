@@ -25,7 +25,7 @@ for n in batches['n']:
         # create directory if not exists
 
         # read results
-        if exists(localpath + 'results/'  + 'results.csv'):
+        if exists(localpath + 'results/' + 'results.csv'):
           results = pd.read_csv(localpath + 'results/' + 'results.csv')
         else:
           results = pd.DataFrame()

@@ -1,4 +1,4 @@
-"""Estimate final results from knows results."""
+"""Estimate final results from known results."""
 
 # from inspect import getsourcefile
 # from os.path import abspath, exists

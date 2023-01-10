@@ -18,13 +18,14 @@ else:
   with open(path + '../../default_settings.json') as f:
     settings = json.load(f)
 
+# test or not
 if settings['test']:
   teststr = '-test'
   url = settings['url_server'] + "pls/prez2018/vysledky_okrsky?kolo=1&davka="  # testing on 2018 data
+  url = settings['url_server_test'] + "?kolo=1&davka=" # testing on fake data
 else:
   teststr = ''
   url = settings['url_server'] + "pls/prez2023/vysledky_okrsky?kolo=1&davka="
-
 
 # get current batch - repeat n times
 ok = False

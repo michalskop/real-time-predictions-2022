@@ -1,0 +1,134 @@
+{
+  "note": "This is a test data. The results are not real.",
+  "datetime": "2023-01-15T15:35:00",
+  "counted": 22.15,
+  "confidence": 95,
+  "candidates": [
+    {
+      "id": "petr-pavel",
+      "family_name": "Pavel",
+      "given_name": "Petr",
+      "name": "Petr Pavel",
+      "abbreviated_name": "P. Pavel",
+      "values": {
+        "mean": 22.22,
+        "hi": 27.15,
+        "lo": 17.29,
+        "probability_winner": 65.5,
+        "probability_2": 88.8
+      }
+    },
+    {
+      "id": "andrej-babis",
+      "family_name": "Babiš",
+      "given_name": "Andrej ",
+      "name": "Andrej Babiš",
+      "abbreviated_name": "A. Babiš",
+      "values": {
+        "mean": 20.01,
+        "hi": 25.15,
+        "lo": 15.29,
+        "probability_winner": 33,
+        "probability_2": 55
+      }
+    },
+    {
+      "id": "danuse-nerudova",
+      "family_name": "Nerudová",
+      "given_name": "Danuše",
+      "name": "Danuše Nerudová",
+      "abbreviated_name": "D. Nerudová",
+      "values": {
+        "mean": 17.22,
+        "hi": 22.15,
+        "lo": 12.29,
+        "probability_winner": 1.0,
+        "probability_2": 23.2
+      }
+    },
+    {
+      "id": "marek-hilser",
+      "family_name": "Hilšer",
+      "given_name": "Marek",
+      "name": "Marek Hilšer",
+      "abbreviated_name": "M. Hilšer",
+      "values": {
+        "mean": 8.67,
+        "hi": 11.15,
+        "lo": 5.29,
+        "probability_winner": 0.0,
+        "probability_2": 0.1
+      }
+    },
+    {
+      "id": "jaroslav-basta",
+      "family_name": "Bašta",
+      "given_name": "Jaroslav",
+      "name": "Jaroslav Bašta",
+      "abbreviated_name": "J. Bašta",
+      "values": {
+        "mean": 7.67,
+        "hi": 10.15,
+        "lo": 4.29,
+        "probability_winner": 0.0,
+        "probability_2": 0.0
+      }
+    },
+    {
+      "id": "pavel-fischer",
+      "name": "Pavel Fischer",
+      "abbreviated_name": "P. Fischer",
+      "family_name": "Fischer",
+      "given_name": "Pavel",
+      "values": {
+        "mean": 5.01,
+        "hi": 7.15,
+        "lo": 3.29,
+        "probability_winner": 0.0,
+        "probability_2": 0.0
+      }
+    },
+    {
+      "id": "karel-divis",
+      "name": "Karel Diviš",
+      "abbreviated_name": "K. Diviš",
+      "family_name": "Diviš",
+      "given_name": "Karel",
+      "values": {
+        "mean": 2.5,
+        "hi": 3.5,
+        "lo": 1.5,
+        "probability_winner": 0.0,
+        "probability_2": 0.0
+      }
+    },
+    {
+      "id": "jiri-stredula",
+      "name": "Jiří Středula",
+      "abbreviated_name": "J. Středula",
+      "family_name": "Středula",
+      "given_name": "Jiří",
+      "values": {
+        "mean": 1.5,
+        "hi": 2.5,
+        "lo": 0.5,
+        "probability_winner": 0.0,
+        "probability_2": 0.0
+      }
+    },
+    {
+      "id": "tomas-zima",
+      "name": "Tomáš Zima",
+      "abbreviated_name": "T. Zima",
+      "family_name": "Zima",
+      "given_name": "Tomáš",
+      "values": {
+        "mean": 1.5,
+        "hi": 2.5,
+        "lo": 0.5,
+        "probability_winner": 0.0,
+        "probability_2": 0.0
+      }
+    }
+  ]
+}
