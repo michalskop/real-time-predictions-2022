@@ -131,7 +131,8 @@ for i, r in regional_results.iterrows():
     'name': r['region'],
     'winner': r['winner_number'],
     'winner_name': r['name'],
-    'winner_id': r['candidate_id']
+    'winner_id': r['candidate_id'],
+    'counted': r['counted'],
   })
 # with open(path + '../../../docs/president-2023/round-1/map-v1' + teststr + '.json', 'w') as outfile:
 with open(path + '../../../docs/president-2023/round-1/map-v1.json', 'w') as outfile:
