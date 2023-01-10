@@ -92,7 +92,7 @@ for reg in regions.iterrows():
   itr.sort_values(by=['v'], ascending=False, inplace=True)
   # TODO: add better logic for confidence intervals / null vs. winner
   if len(itr) >= 2:
-    if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > 15) and (counted > 2):
+    if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > 1.5) and (counted > 2):
       item = pd.DataFrame({
         'id': region['id'],
         'region': region['name'],
