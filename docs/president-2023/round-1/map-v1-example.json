@@ -1,0 +1,59 @@
+{
+  "datetime": "2023-01-15T15:35:00",
+  "counted": 22.15,
+  "confidence": 95,
+  "maps": [
+    {
+      "level": "NUTS 3",
+      "regions": [
+        {
+          "id": "CZ-10",
+          "name": "Praha",
+          "counted": 15.15,
+          "winner-id": "petr-pavel",
+          "winner-name": "Petr Pavel"
+        },
+        {
+          "id": "CZ-20",
+          "name": "Středočeský kraj",
+          "counted": 7,
+          "winner-id": null,
+          "winner-name": null
+        },
+        {
+          "id": "CZ-31",
+          "name": "Jihočeský kraj",
+          "counted": 21,
+          "winner-id": "danuse-nerudova",
+          "winner-name": "Danuše Nerudová"
+        }
+      ]
+    },
+    {
+      "level": "LAU 1",
+      "regions": [
+        {
+          "id": "CZ-01",
+          "name": "Praha",
+          "counted": 15.15,
+          "winner-id": "petr-pavel",
+          "winner-name": "Petr Pavel"
+        },
+        {
+          "id": "CZ-201",
+          "name": "Benešov",
+          "counted": 7,
+          "winner-id": null,
+          "winner-name": null
+        },
+        {
+          "id": "CZ-20C",
+          "name": "Rakovník",
+          "counted": 15,
+          "winner-id": "danuse-nerudova",
+          "winner-name": "Danuše Nerudová"
+        }
+      ]
+    }
+  ]
+}

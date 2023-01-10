@@ -91,19 +91,22 @@ for reg in regions.iterrows():
       item = pd.DataFrame({
         'id': region['id'],
         'region': region['name'],
-        'winner_number': itr.index[0]
+        'winner_number': itr.index[0],
+        'counted': counted,
       }, index=[region['id']])
     else:
       item = pd.DataFrame({
         'id': region['id'],
         'region': region['name'],
-        'winner_number': np.nan
+        'winner_number': np.nan,
+        'counted': counted,
       }, index=[region['id']])
   else:
     item = pd.DataFrame({
       'id': region['id'],
       'region': region['name'],
-      'winner_number': np.nan
+      'winner_number': np.nan,
+      'counted': counted,
     }, index=[region['id']])
   
   regional_results = pd.concat([regional_results, item], axis=0)
