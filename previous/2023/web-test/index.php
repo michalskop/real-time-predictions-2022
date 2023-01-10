@@ -9,7 +9,7 @@ if (isset($_GET['davka']) & $_GET['davka'] != "") {
   exit();
 }
 
-$delay = "12:00:00"; // calculate GMT difference
+$delay = "03:00:00"; // calculate GMT difference
 $last = 0;
 
 $batches = array_map('str_getcsv', file('batches.csv'));
