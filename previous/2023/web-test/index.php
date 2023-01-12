@@ -15,14 +15,14 @@ $last = 0;
 $batches = array_map('str_getcsv', file('batches-test-data.csv'));
 
 for ($i = 1; $i < count($batches); $i++) {
-  print_r(date("H:i:s", strtotime(substr($batches[$i][1], 11)) + strtotime($delay)));
-  echo("<br/>");
-  print_r(date("H:i:s", strtotime(substr($batches[$i][1], 11))));
-  echo("<br/>");
-  print_r(strtotime(substr($batches[$i][1], 11)));
-  echo("<br/>");
-  print_r(strtotime($delay));
-  die();
+  // print_r(date("H:i:s", strtotime(substr($batches[$i][1], 11)) + strtotime($delay)));
+  // echo("<br/>");
+  // print_r(date("H:i:s", strtotime(substr($batches[$i][1], 11))));
+  // echo("<br/>");
+  // print_r(strtotime(substr($batches[$i][1], 11)));
+  // echo("<br/>");
+  // print_r(strtotime($delay));
+  // die();
   if((date("H:i:s", strtotime(substr($batches[$i][1], 11)) + strtotime($delay))) < date("H:i:s")) {
     $last = $i;
     // echo("<br/>");
