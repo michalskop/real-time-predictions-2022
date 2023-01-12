@@ -94,7 +94,7 @@ if (counted > 2):
     itr.sort_values(by=['v'], ascending=False, inplace=True)
     # TODO: add better logic for confidence intervals / null vs. winner
     if len(itr) >= 2:
-      if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > 10) and (counted > 2):
+      if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > 1.5) and (counted > 2):
         item = pd.DataFrame({
           'id': region['id'],
           'region': region['name'],
@@ -183,7 +183,7 @@ lot = gt * (1 / (1 + val))
 # gains + candidates
 gain = pd.concat([gt, hit, lot], axis=0)
 gain.index = ['mean', 'hi', 'lo']
-gaint = round(gain.T, 2).merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='mean', ascending=False)
+gaint = round(gain.T, 3).merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='mean', ascending=False)
 
 # output
 output = {
