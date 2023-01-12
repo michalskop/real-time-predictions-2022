@@ -259,12 +259,28 @@ gtgi = gtg.T.merge(candidates, left_index=True, right_on='number', how='left').s
 ws.update('A1', [gtgi.reset_index().columns.values.tolist()] + gtgi.reset_index().values.tolist())
 
 # write histories
-# mean
-ws = sh.worksheet('closest-history-mean')
+# mean, hi, lo
+updates = ['mean', 'hi', 'lo']
+for update in updates:
+  ws = sh.worksheet('closest-history-' + update)
+  history = pd.DataFrame(ws.get_all_records())
+  item = gaint.sort_values(by='number').loc[:, update]
+  item.index = gaint.sort_values(by='number')['id']
+  item['datetime'] = gaint.iloc[0]['datetime']
+  item['datatime-data'] = gaint.iloc[0]['datatime-data']
+  item['counted'] = gaint.iloc[0]['counted']
+  itemT = pd.DataFrame(item).T.reset_index(drop=True)
+  history = pd.concat([history, itemT], axis=0, ignore_index=True).drop_duplicates()
+  ws.update('A1', [history.columns.values.tolist()] + history.values.tolist())
+
+# g9
+ws = sh.worksheet('g9-history')
 history = pd.DataFrame(ws.get_all_records())
-item = gaint.sort_values(by='number')['mean']
-item.index = gaint.sort_values(by='number')['name']
+item = gtgi.sort_values(by='number').loc[:, 'gain']
+item.index = gaint.sort_values(by='number')['id']
 item['datetime'] = gaint.iloc[0]['datetime']
 item['datatime-data'] = gaint.iloc[0]['datatime-data']
 item['counted'] = gaint.iloc[0]['counted']
-history = history.append(item, ignore_index=True)
+itemT = pd.DataFrame(item).T.reset_index(drop=True)
+history = pd.concat([history, itemT], axis=0, ignore_index=True).drop_duplicates()
+ws.update('A1', [history.columns.values.tolist()] + history.values.tolist())
