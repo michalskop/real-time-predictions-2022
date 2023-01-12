@@ -82,7 +82,7 @@ candidates = pd.read_csv(path + 'candidates.csv')
 # estimate for each region
 regions = pd.read_csv(path + 'regions.csv')
 regional_results = pd.DataFrame()
-if (counted > 2):
+if (counted > 2): # minimal 2% counted
   for reg in regions.iterrows():
     region = reg[1]
     ps2r = ps2[ps2['region_id'] == region['id']]
