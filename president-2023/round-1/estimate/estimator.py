@@ -92,8 +92,8 @@ if (counted > 2): # minimal 2% counted
     rxr.loc[:, 'v'] = rxr.loc[:, 'p'] * rxr.loc[:, 'votes']
     itr = rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum) / rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum).sum() * 100
     itr.sort_values(by=['v'], ascending=False, inplace=True)
-    # TODO: add better logic for confidence intervals / null vs. winner
     if len(itr) >= 2:
+
       min_diff = 4
       if counted > 10:
         min_diff = 1.5
@@ -106,9 +106,7 @@ if (counted > 2): # minimal 2% counted
       if counted == 100:
         min_diff = 0.00001
 
-      
-
-      if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > 1.5) and (counted > 2):
+      if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > min_diff) and (counted > 2):
         item = pd.DataFrame({
           'id': region['id'],
           'region': region['name'],
