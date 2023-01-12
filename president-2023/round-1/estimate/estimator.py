@@ -186,6 +186,10 @@ gain.index = ['mean', 'hi', 'lo']
 gaint = round(gain.T, 3).merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='mean', ascending=False)
 
 # output
+if settings['test']:
+  note = 'These are test data. The results are not real.'
+else:
+  note = 'Estimates are based on partial results. The results are not final.'
 output = {
   'note': 'These are test data. The results are not real.',
   'data-exist': True,
