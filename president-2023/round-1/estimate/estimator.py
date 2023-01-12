@@ -191,7 +191,7 @@ if settings['test']:
 else:
   note = 'Estimates are based on partial results. The results are not final.'
 output = {
-  'note': 'These are test data. The results are not real.',
+  'note': note,
   'data-exist': True,
   'datetime': datetime.datetime.now().isoformat()[0:19],
   'datatime-data': lasttime,
