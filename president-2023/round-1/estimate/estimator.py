@@ -1,6 +1,7 @@
 """Estimate final results from known results."""
 
 import datetime
+import gspread
 from inspect import getsourcefile
 import json
 import numpy as np
@@ -9,7 +10,7 @@ import pandas as pd
 
 # load settings
 path = '/'.join(abspath(getsourcefile(lambda:0)).split("/")[0:-1]) + "/"
-# path = "/home/michal/dev/real-time-predictions-2022/president-2023/round-1/estimate/" # ** for testing only **
+path = "/home/michal/dev/real-time-predictions-2022/president-2023/round-1/estimate/" # ** for testing only **
 if exists(path + "../../settings.json"):
   with open(path + '../../settings.json') as f:
     settings = json.load(f)
@@ -240,3 +241,30 @@ if len(ptg.columns) == (len(groupsums) + 1):
 
 # confidence itervals
 # ** TODO **
+
+# output to GSheet
+sheetkey = "1-rJaM99i28h_ilmKQKRe2rCargTZ0r6A3Jfrd3n4NDI"
+
+# connect to GSheet
+gc = gspread.service_account()
+sh = gc.open_by_key(sheetkey)
+
+# write closest prediction
+ws = sh.worksheet('closest-current-prediction')
+ws.update('A1', [gaint.reset_index().columns.values.tolist()] + gaint.reset_index().values.tolist())
+
+# write g9 prediction
+ws = sh.worksheet('g9-current-prediction')
+gtgi = gtg.T.merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='gain', ascending=False)
+ws.update('A1', [gtgi.reset_index().columns.values.tolist()] + gtgi.reset_index().values.tolist())
+
+# write histories
+# mean
+ws = sh.worksheet('closest-history-mean')
+history = pd.DataFrame(ws.get_all_records())
+item = gaint.sort_values(by='number')['mean']
+item.index = gaint.sort_values(by='number')['name']
+item['datetime'] = gaint.iloc[0]['datetime']
+item['datatime-data'] = gaint.iloc[0]['datatime-data']
+item['counted'] = gaint.iloc[0]['counted']
+history = history.append(item, ignore_index=True)
