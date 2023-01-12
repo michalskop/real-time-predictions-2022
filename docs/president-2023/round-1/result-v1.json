@@ -15,7 +15,7 @@
       "name": "Pavel Fischer",
       "values": {
         "mean": null,
-        "hi": 100,
+        "hi": 50,
         "lo": 0
       }
     },
@@ -28,7 +28,7 @@
       "name": "Jaroslav Bašta",
       "values": {
         "mean": null,
-        "hi": 100,
+        "hi": 50,
         "lo": 0
       }
     },
@@ -41,7 +41,7 @@
       "name": "Josef Středula",
       "values": {
         "mean": null,
-        "hi": 100,
+        "hi": 50,
         "lo": 0
       }
     },
@@ -54,7 +54,7 @@
       "name": "Petr Pavel",
       "values": {
         "mean": null,
-        "hi": 100,
+        "hi": 50,
         "lo": 0
       }
     },
@@ -67,7 +67,7 @@
       "name": "Tomáš Zima",
       "values": {
         "mean": null,
-        "hi": 100,
+        "hi": 50,
         "lo": 0
       }
     },
@@ -80,7 +80,7 @@
       "name": "Danuše Nerudová",
       "values": {
         "mean": null,
-        "hi": 100,
+        "hi": 50,
         "lo": 0
       }
     },
@@ -93,7 +93,7 @@
       "name": "Andrej Babiš",
       "values": {
         "mean": null,
-        "hi": 100,
+        "hi": 50,
         "lo": 0
       }
     },
@@ -106,7 +106,7 @@
       "name": "Karel Diviš",
       "values": {
         "mean": null,
-        "hi": 100,
+        "hi": 50,
         "lo": 0
       }
     },
@@ -119,7 +119,7 @@
       "name": "Marek Hilšer",
       "values": {
         "mean": null,
-        "hi": 100,
+        "hi": 50,
         "lo": 0
       }
     }
