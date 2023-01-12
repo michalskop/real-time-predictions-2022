@@ -1,10 +1,10 @@
 mean,hi,lo,number,id,given_name,family_name,abbreviated_name,name,counted,datetime,datatime-data
-38.94,43.77,34.64,7,andrej-babis,Andrej,Babiš,A. Babiš,Andrej Babiš,3.719449121121532,2023-01-12T15:44:43,2018-01-13T14:40:03
-27.03,30.38,24.05,9,marek-hilser,Marek,Hilšer,M. Hilšer,Marek Hilšer,3.719449121121532,2023-01-12T15:44:43,2018-01-13T14:40:03
-9.49,10.67,8.44,3,josef-stredula,Josef,Středula,J. Středula,Josef Středula,3.719449121121532,2023-01-12T15:44:43,2018-01-13T14:40:03
-9.27,10.42,8.25,2,jaroslav-basta,Jaroslav,Bašta,J. Bašta,Jaroslav Bašta,3.719449121121532,2023-01-12T15:44:43,2018-01-13T14:40:03
-8.92,10.03,7.94,8,karel-divis,Karel,Diviš,K. Diviš,Karel Diviš,3.719449121121532,2023-01-12T15:44:43,2018-01-13T14:40:03
-4.06,4.56,3.61,1,pavel-fischer,Pavel,Fischer,P. Fischer,Pavel Fischer,3.719449121121532,2023-01-12T15:44:43,2018-01-13T14:40:03
-1.23,1.38,1.09,4,petr-pavel,Petr,Pavel,P. Pavel,Petr Pavel,3.719449121121532,2023-01-12T15:44:43,2018-01-13T14:40:03
-0.57,0.65,0.51,5,tomas-zima,Tomáš,Zima,T. Zima,Tomáš Zima,3.719449121121532,2023-01-12T15:44:43,2018-01-13T14:40:03
-0.48,0.54,0.43,6,danuse-nerudova,Danuše,Nerudová,D. Nerudová,Danuše Nerudová,3.719449121121532,2023-01-12T15:44:43,2018-01-13T14:40:03
+38.81,42.96,35.06,7,andrej-babis,Andrej,Babiš,A. Babiš,Andrej Babiš,6.837166135779611,2023-01-12T15:45:43,2018-01-13T14:45:03
+26.57,29.41,24.01,9,marek-hilser,Marek,Hilšer,M. Hilšer,Marek Hilšer,6.837166135779611,2023-01-12T15:45:43,2018-01-13T14:45:03
+9.9,10.96,8.95,3,josef-stredula,Josef,Středula,J. Středula,Josef Středula,6.837166135779611,2023-01-12T15:45:43,2018-01-13T14:45:03
+9.2,10.19,8.32,2,jaroslav-basta,Jaroslav,Bašta,J. Bašta,Jaroslav Bašta,6.837166135779611,2023-01-12T15:45:43,2018-01-13T14:45:03
+8.93,9.88,8.07,8,karel-divis,Karel,Diviš,K. Diviš,Karel Diviš,6.837166135779611,2023-01-12T15:45:43,2018-01-13T14:45:03
+4.28,4.74,3.87,1,pavel-fischer,Pavel,Fischer,P. Fischer,Pavel Fischer,6.837166135779611,2023-01-12T15:45:43,2018-01-13T14:45:03
+1.23,1.36,1.11,4,petr-pavel,Petr,Pavel,P. Pavel,Petr Pavel,6.837166135779611,2023-01-12T15:45:43,2018-01-13T14:45:03
+0.57,0.64,0.52,5,tomas-zima,Tomáš,Zima,T. Zima,Tomáš Zima,6.837166135779611,2023-01-12T15:45:43,2018-01-13T14:45:03
+0.5,0.56,0.45,6,danuse-nerudova,Danuše,Nerudová,D. Nerudová,Danuše Nerudová,6.837166135779611,2023-01-12T15:45:43,2018-01-13T14:45:03
