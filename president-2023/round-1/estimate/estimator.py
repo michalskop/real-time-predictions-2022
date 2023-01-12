@@ -166,7 +166,7 @@ confi = pd.DataFrame([
 [99, 0.004],
 [100, 0.003]
 ], columns=['counted', 'value'])
-confi['value'] = confi['value'] * 1.4 # estimate for 95% confidence interval
+confi['value'] = confi['value'] * 1 # estimate for 90% confidence interval
 
 lo = confi[counted >= confi['counted']].iloc[-1]
 hi = confi[counted <= confi['counted']].iloc[0]
@@ -201,7 +201,7 @@ else:
   else:
     confidence = 100
 
-
+# output file
 output = {
   'note': note,
   'data-exist': True,
