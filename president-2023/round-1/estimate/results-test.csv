@@ -1,10 +1,10 @@
 mean,hi,lo,number,id,given_name,family_name,abbreviated_name,name,counted,datetime,datatime-data
-14.793,14.876,14.71,1,pavel-fischer,Pavel,Fischer,P. Fischer,Pavel Fischer,98.73491868800164,2023-01-12T22:56:43,2023-01-06T10:35:00
-14.774,14.857,14.691,4,petr-pavel,Petr,Pavel,P. Pavel,Petr Pavel,98.73491868800164,2023-01-12T22:56:43,2023-01-06T10:35:00
-14.75,14.833,14.667,7,andrej-babis,Andrej,Babiš,A. Babiš,Andrej Babiš,98.73491868800164,2023-01-12T22:56:43,2023-01-06T10:35:00
-9.339,9.392,9.287,3,josef-stredula,Josef,Středula,J. Středula,Josef Středula,98.73491868800164,2023-01-12T22:56:43,2023-01-06T10:35:00
-9.321,9.374,9.269,5,tomas-zima,Tomáš,Zima,T. Zima,Tomáš Zima,98.73491868800164,2023-01-12T22:56:43,2023-01-06T10:35:00
-9.28,9.332,9.228,6,danuse-nerudova,Danuše,Nerudová,D. Nerudová,Danuše Nerudová,98.73491868800164,2023-01-12T22:56:43,2023-01-06T10:35:00
-9.261,9.313,9.209,8,karel-divis,Karel,Diviš,K. Diviš,Karel Diviš,98.73491868800164,2023-01-12T22:56:43,2023-01-06T10:35:00
-9.248,9.3,9.196,9,marek-hilser,Marek,Hilšer,M. Hilšer,Marek Hilšer,98.73491868800164,2023-01-12T22:56:43,2023-01-06T10:35:00
-9.235,9.287,9.183,2,jaroslav-basta,Jaroslav,Bašta,J. Bašta,Jaroslav Bašta,98.73491868800164,2023-01-12T22:56:43,2023-01-06T10:35:00
+14.793,14.876,14.71,1,pavel-fischer,Pavel,Fischer,P. Fischer,Pavel Fischer,98.73491868800164,2023-01-12T22:57:44,2023-01-06T10:35:00
+14.774,14.857,14.691,4,petr-pavel,Petr,Pavel,P. Pavel,Petr Pavel,98.73491868800164,2023-01-12T22:57:44,2023-01-06T10:35:00
+14.75,14.833,14.667,7,andrej-babis,Andrej,Babiš,A. Babiš,Andrej Babiš,98.73491868800164,2023-01-12T22:57:44,2023-01-06T10:35:00
+9.339,9.392,9.287,3,josef-stredula,Josef,Středula,J. Středula,Josef Středula,98.73491868800164,2023-01-12T22:57:44,2023-01-06T10:35:00
+9.321,9.374,9.269,5,tomas-zima,Tomáš,Zima,T. Zima,Tomáš Zima,98.73491868800164,2023-01-12T22:57:44,2023-01-06T10:35:00
+9.28,9.332,9.228,6,danuse-nerudova,Danuše,Nerudová,D. Nerudová,Danuše Nerudová,98.73491868800164,2023-01-12T22:57:44,2023-01-06T10:35:00
+9.261,9.313,9.209,8,karel-divis,Karel,Diviš,K. Diviš,Karel Diviš,98.73491868800164,2023-01-12T22:57:44,2023-01-06T10:35:00
+9.248,9.3,9.196,9,marek-hilser,Marek,Hilšer,M. Hilšer,Marek Hilšer,98.73491868800164,2023-01-12T22:57:44,2023-01-06T10:35:00
+9.235,9.287,9.183,2,jaroslav-basta,Jaroslav,Bašta,J. Bašta,Jaroslav Bašta,98.73491868800164,2023-01-12T22:57:44,2023-01-06T10:35:00
