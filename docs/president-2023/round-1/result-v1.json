@@ -20,16 +20,16 @@
       }
     },
     {
-      "number": 4,
-      "id": "petr-pavel",
-      "family_name": "Pavel",
-      "given_name": "Petr",
-      "abbreviated_name": "P. Pavel",
-      "name": "Petr Pavel",
+      "number": 7,
+      "id": "andrej-babis",
+      "family_name": "Babiš",
+      "given_name": "Andrej",
+      "abbreviated_name": "A. Babiš",
+      "name": "Andrej Babiš",
       "values": {
-        "mean": 14.776,
+        "mean": 14.78,
         "hi": 14.82,
-        "lo": 14.731
+        "lo": 14
       }
     },
     {
@@ -42,19 +42,19 @@
       "values": {
         "mean": 14.775,
         "hi": 14.819,
-        "lo": 13
+        "lo": 13.4
       }
     },
     {
-      "number": 7,
-      "id": "andrej-babis",
-      "family_name": "Babiš",
-      "given_name": "Andrej",
-      "abbreviated_name": "A. Babiš",
-      "name": "Andrej Babiš",
+      "number": 4,
+      "id": "petr-pavel",
+      "family_name": "Pavel",
+      "given_name": "Petr",
+      "abbreviated_name": "P. Pavel",
+      "name": "Petr Pavel",
       "values": {
-        "mean": 14.774,
-        "hi": 14.819,
+        "mean": 14.77,
+        "hi": 14.8,
         "lo": 13
       }
     },
