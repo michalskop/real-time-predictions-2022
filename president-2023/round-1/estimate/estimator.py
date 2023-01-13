@@ -209,14 +209,14 @@ if settings['test']:
 else:
   note = 'Estimates are based on partial results. The results are not final.'
 # confidence
-  if counted < 90:
-    confidence = 90
-  elif counted < 99:
-    confidence = 95
-  elif counted < 99.9:
-    confidence = 99
-  else:
-    confidence = 100
+if counted < 90:
+  confidence = 90
+elif counted < 99:
+  confidence = 95
+elif counted < 99.9:
+  confidence = 99
+else:
+  confidence = 100
 
 # output file
 output = {
