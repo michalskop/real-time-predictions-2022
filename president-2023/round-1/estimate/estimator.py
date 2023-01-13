@@ -34,6 +34,11 @@ if len(results) == 0:
   print('no results yet')
   exit()
 
+# NAIVE
+# naive estimates
+ptn = results.pivot_table(values='HLASY', index=['STRANA'], aggfunc=np.sum)
+gtn = ptn.T / ptn.T.sum().sum() * 100
+
 # CLOSEST
 # load ordered matrix
 ordered_matrix = pd.read_pickle(path + '/reality_ordered_matrix_2021.pkl')
@@ -280,7 +285,8 @@ sh = gc.open_by_key(sheetkey)
 
 # write closest prediction
 ws = sh.worksheet('closest-current-prediction')
-ws.update('A1', [gaint.reset_index().columns.values.tolist()] + gaint.reset_index().values.tolist())
+gaintn = gaint.merge(gtn.T, left_on='number', right_index=True , how='left').rename(columns={'HLASY': 'really-counted'})
+ws.update('A1', [gaintn.reset_index().columns.values.tolist()] + gaintn.reset_index().values.tolist())
 
 # write g9 prediction
 ws = sh.worksheet('g9-current-prediction')
