@@ -225,7 +225,7 @@ output = {
   'datetime': datetime.datetime.now().isoformat()[0:19],
   'datatime-data': lasttime,
   'counted': counted,
-  'confidence': 90,
+  'confidence': confidence,
   'candidates': []
 }
 for i, r in gaint.iterrows():
