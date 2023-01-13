@@ -106,7 +106,7 @@ if (counted > 2): # minimal 2% counted
       if counted == 100:
         min_diff = 0.00001
 
-      if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > min_diff) and (counted > 2):
+      if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > min_diff):
         item = pd.DataFrame({
           'id': region['id'],
           'region': region['name'],
