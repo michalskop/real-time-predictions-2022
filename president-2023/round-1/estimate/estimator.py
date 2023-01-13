@@ -213,7 +213,7 @@ else:
     confidence = 90
   elif counted < 99:
     confidence = 95
-  elif counted < 100:
+  elif counted < 99.9:
     confidence = 99
   else:
     confidence = 100
