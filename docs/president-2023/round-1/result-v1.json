@@ -20,6 +20,19 @@
       }
     },
     {
+      "number": 1,
+      "id": "pavel-fischer",
+      "family_name": "Fischer",
+      "given_name": "Pavel",
+      "abbreviated_name": "P. Fischer",
+      "name": "Pavel Fischer",
+      "values": {
+        "mean": 14.775,
+        "hi": 14.819,
+        "lo": 13
+      }
+    },
+    {
       "number": 4,
       "id": "petr-pavel",
       "family_name": "Pavel",
@@ -33,19 +46,6 @@
       }
     },
     {
-      "number": 1,
-      "id": "pavel-fischer",
-      "family_name": "Fischer",
-      "given_name": "Pavel",
-      "abbreviated_name": "P. Fischer",
-      "name": "Pavel Fischer",
-      "values": {
-        "mean": 14.775,
-        "hi": 14.819,
-        "lo": 14.73
-      }
-    },
-    {
       "number": 7,
       "id": "andrej-babis",
       "family_name": "Babiš",
@@ -55,7 +55,7 @@
       "values": {
         "mean": 14.774,
         "hi": 14.819,
-        "lo": 14.73
+        "lo": 13
       }
     },
     {
