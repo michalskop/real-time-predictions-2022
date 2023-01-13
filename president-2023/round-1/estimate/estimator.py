@@ -34,7 +34,7 @@ if len(results) == 0:
   print('no results yet')
   exit()
 
-# closest
+# CLOSEST
 # load ordered matrix
 ordered_matrix = pd.read_pickle(path + '/reality_ordered_matrix_2021.pkl')
 colsok = results.loc[:, 'OKRSEK'].unique()
@@ -247,7 +247,7 @@ gaint['datetime'] = output['datetime']
 gaint['datatime-data'] = output['datatime-data']
 gaint.to_csv(path + 'results' + teststr + '.csv', index=False)
 
-# 9 groups
+# 9 GROUPS
 # group weights
 resultsg = resultse
 groupsums = polling_stations.groupby("group")["votes_model"].sum()
