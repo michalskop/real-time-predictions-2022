@@ -319,4 +319,5 @@ item['datatime-data'] = gaint.iloc[0]['datatime-data']
 item['counted'] = gaint.iloc[0]['counted']
 itemT = pd.DataFrame(item).T.reset_index(drop=True)
 history = pd.concat([history, itemT], axis=0, ignore_index=True).drop_duplicates()
+history = history.fillna(0)
 ws.update('A1', [history.columns.values.tolist()] + history.values.tolist())
