@@ -26,6 +26,7 @@ if settings['test']:
 else:
   teststr = ''
   url = settings['url_server'] + "pls/prez2023/vysledky_okrsky?kolo=1&davka="
+  # url = settings['url_server'] + "pls/prez2023/vysledky_okrsky?&davka=" # different url returns different data!!!
 
 # get current batch - repeat n times
 ok = False
