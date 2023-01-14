@@ -14,10 +14,21 @@ mapp = pd.read_csv(path + 'map_polling_stations_points1.csv')
 ptn = results.pivot_table(values='HLASY', index=['OKRSEK'], columns=['STRANA'], aggfunc=np.sum)
 gtn = (ptn.T / ptn.T.sum() * 100).T
 
-ptn.columns = [x + '_HLASY' for x in candidates['family_name']]
+ptn.columns = [x for x in candidates['family_name']]
+jmeno = ptn.idxmax(axis=1)
+
+ptn.columns = [x for x in candidates['name']]
 gtn.columns = [x for x in candidates['family_name']]
+
+ptn['vítěz'] = ptn.idxmax(axis=1)
+
+ptn.columns = [x + '_HLASY' for x in candidates['family_name']] + ['vítěz']
+ptn['jméno'] = jmeno
+
+ptn['hlasy celkem'] = ptn.loc[:, [x + '_HLASY' for x in candidates['family_name']]].sum(axis=1)
+
 
 # gtn = round(gtn, 2)
 
 # join points and results
-mapp.merge(ptn, left_on="id", right_index=True, how="left").merge(gtn, left_on="id", right_index=True, how="left").to_csv(path + 'map_polling_stations_points1_results.csv', index=False)
+mapp.merge(ptn, left_on="id", right_index=True, how="left").merge(round(gtn, 2), left_on="id", right_index=True, how="left").to_csv(path + 'map_polling_stations_points1_results.csv', index=False)

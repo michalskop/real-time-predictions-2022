@@ -1,0 +1,127 @@
+{
+  "note": "Estimates from the alternative model based on partial results. The results are not final.",
+  "data-exist": true,
+  "datetime": "2023-01-14T13:12:24",
+  "datatime-data": 0,
+  "counted": 24,
+  "confidence": 90,
+  "candidates": [
+    {
+      "number": 1,
+      "id": "pavel-fischer",
+      "family_name": "Fischer",
+      "given_name": "Pavel",
+      "abbreviated_name": "P. Fischer",
+      "name": "Pavel Fischer",
+      "values": {
+        "mean": 6.904487917146145,
+        "hi": 7.272151898734178,
+        "lo": 6.555412216611579
+      }
+    },
+    {
+      "number": 2,
+      "id": "jaroslav-basta",
+      "family_name": "Bašta",
+      "given_name": "Jaroslav",
+      "abbreviated_name": "J. Bašta",
+      "name": "Jaroslav Bašta",
+      "values": {
+        "mean": 5.378753922008069,
+        "hi": 5.665172568354999,
+        "lo": 5.106815971524394
+      }
+    },
+    {
+      "number": 3,
+      "id": "josef-stredula",
+      "family_name": "Středula",
+      "given_name": "Josef",
+      "abbreviated_name": "J. Středula",
+      "name": "Josef Středula",
+      "values": {
+        "mean": 0.0,
+        "hi": 0.0,
+        "lo": 0.0
+      }
+    },
+    {
+      "number": 4,
+      "id": "petr-pavel",
+      "family_name": "Pavel",
+      "given_name": "Petr",
+      "abbreviated_name": "P. Pavel",
+      "name": "Petr Pavel",
+      "values": {
+        "mean": 34.883720930232556,
+        "hi": 36.741279069767444,
+        "lo": 33.120076838578264
+      }
+    },
+    {
+      "number": 5,
+      "id": "tomas-zima",
+      "family_name": "Zima",
+      "given_name": "Tomáš",
+      "abbreviated_name": "T. Zima",
+      "name": "Tomáš Zima",
+      "values": {
+        "mean": 0.5,
+        "hi": 0.526625,
+        "lo": 0.47472110135295514
+      }
+    },
+    {
+      "number": 6,
+      "id": "danuse-nerudova",
+      "family_name": "Nerudová",
+      "given_name": "Danuše",
+      "abbreviated_name": "D. Nerudová",
+      "name": "Danuše Nerudová",
+      "values": {
+        "mean": 18.6046511627907,
+        "hi": 19.595348837209304,
+        "lo": 17.664040980575077
+      }
+    },
+    {
+      "number": 7,
+      "id": "andrej-babis",
+      "family_name": "Babiš",
+      "given_name": "Andrej",
+      "abbreviated_name": "A. Babiš",
+      "name": "Andrej Babiš",
+      "values": {
+        "mean": 29.583146571044377,
+        "hi": 31.15844912595249,
+        "lo": 28.08748784338417
+      }
+    },
+    {
+      "number": 8,
+      "id": "karel-divis",
+      "family_name": "Diviš",
+      "given_name": "Karel",
+      "abbreviated_name": "K. Diviš",
+      "name": "Karel Diviš",
+      "values": {
+        "mean": 1.5,
+        "hi": 1.579875,
+        "lo": 1.4241633040588655
+      }
+    },
+    {
+      "number": 9,
+      "id": "marek-hilser",
+      "family_name": "Hilšer",
+      "given_name": "Marek",
+      "abbreviated_name": "M. Hilšer",
+      "name": "Marek Hilšer",
+      "values": {
+        "mean": 3.488372093023256,
+        "hi": 3.6741279069767443,
+        "lo": 3.3120076838578267
+      }
+    }
+  ]
+}
