@@ -1,9 +1,9 @@
 mean,hi,lo,number,id,given_name,family_name,abbreviated_name,name,counted,datetime,datatime-data
-35.343,35.495,35.192,4,petr-pavel,Petr,Pavel,P. Pavel,Petr Pavel,96.4033933243479,2023-01-14T16:30:43,2023-01-14T16:25:01
-35.034,35.185,34.885,7,andrej-babis,Andrej,Babiš,A. Babiš,Andrej Babiš,96.4033933243479,2023-01-14T16:30:43,2023-01-14T16:25:01
-13.934,13.994,13.875,6,danuse-nerudova,Danuše,Nerudová,D. Nerudová,Danuše Nerudová,96.4033933243479,2023-01-14T16:30:43,2023-01-14T16:25:01
-6.757,6.786,6.728,1,pavel-fischer,Pavel,Fischer,P. Fischer,Pavel Fischer,96.4033933243479,2023-01-14T16:30:43,2023-01-14T16:25:01
-4.461,4.48,4.442,2,jaroslav-basta,Jaroslav,Bašta,J. Bašta,Jaroslav Bašta,96.4033933243479,2023-01-14T16:30:43,2023-01-14T16:25:01
-2.566,2.577,2.555,9,marek-hilser,Marek,Hilšer,M. Hilšer,Marek Hilšer,96.4033933243479,2023-01-14T16:30:43,2023-01-14T16:25:01
-1.352,1.357,1.346,8,karel-divis,Karel,Diviš,K. Diviš,Karel Diviš,96.4033933243479,2023-01-14T16:30:43,2023-01-14T16:25:01
-0.553,0.555,0.55,5,tomas-zima,Tomáš,Zima,T. Zima,Tomáš Zima,96.4033933243479,2023-01-14T16:30:43,2023-01-14T16:25:01
+35.342,35.49,35.194,4,petr-pavel,Petr,Pavel,P. Pavel,Petr Pavel,97.25719029386114,2023-01-14T16:31:43,2023-01-14T16:30:00
+35.039,35.186,34.893,7,andrej-babis,Andrej,Babiš,A. Babiš,Andrej Babiš,97.25719029386114,2023-01-14T16:31:43,2023-01-14T16:30:00
+13.935,13.993,13.877,6,danuse-nerudova,Danuše,Nerudová,D. Nerudová,Danuše Nerudová,97.25719029386114,2023-01-14T16:31:43,2023-01-14T16:30:00
+6.758,6.786,6.729,1,pavel-fischer,Pavel,Fischer,P. Fischer,Pavel Fischer,97.25719029386114,2023-01-14T16:31:43,2023-01-14T16:30:00
+4.46,4.479,4.442,2,jaroslav-basta,Jaroslav,Bašta,J. Bašta,Jaroslav Bašta,97.25719029386114,2023-01-14T16:31:43,2023-01-14T16:30:00
+2.562,2.573,2.552,9,marek-hilser,Marek,Hilšer,M. Hilšer,Marek Hilšer,97.25719029386114,2023-01-14T16:31:43,2023-01-14T16:30:00
+1.352,1.357,1.346,8,karel-divis,Karel,Diviš,K. Diviš,Karel Diviš,97.25719029386114,2023-01-14T16:31:43,2023-01-14T16:30:00
+0.552,0.555,0.55,5,tomas-zima,Tomáš,Zima,T. Zima,Tomáš Zima,97.25719029386114,2023-01-14T16:31:43,2023-01-14T16:30:00
