@@ -89,7 +89,7 @@ candidates = pd.read_csv(path + 'candidates.csv')
 # regional_results = pd.DataFrame()
 # if (counted > 2): # minimal 2% counted
 #   for reg in regions.iterrows():
-#     region = reg[1]
+##     region = reg[1]  ** only one!!! **
 #     ps2r = ps2[ps2['region_id'] == region['id']]
 #     resultscr = resultsc[resultsc['OKRSEK'].isin(ps2r['id'])]
 #     ptr = pd.pivot_table(ps2r, values='votes', index=['closest'], aggfunc=sum).sort_values(by='votes', ascending=False)
