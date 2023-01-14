@@ -5,9 +5,10 @@ import numpy as np
 
 path = "/home/michal/dev/real-time-predictions-2022/previous/2023/"
 teststr = "-test"
+teststr = ""
 
 results = pd.read_csv(path + '../../president-2023/round-1/extract/results' + teststr + '/results.csv')
-candidates = pd.read_csv(path + '../../president-2023/round-1/estimate/candidates.csv')
+candidates = pd.read_csv(path + 'alternative/candidates.csv')
 mapp = pd.read_csv(path + 'map_polling_stations_points1.csv')
 
 # naive estimates
