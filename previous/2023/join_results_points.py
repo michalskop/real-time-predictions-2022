@@ -34,6 +34,10 @@ ptn['hlasy celkem'] = ptn.loc[:, [x + '_HLASY' for x in candidates['family_name'
 # gtn = round(gtn, 2)
 
 # join points and results
-mapp.merge(ptn, left_on="id", right_index=True, how="left").merge(round(gtn, 2), left_on="id", right_index=True, how="left").to_csv(path + 'map_polling_stations_points1_results.csv', index=False)
+mapp.merge(ptn, left_on="id", right_index=True, how="left").merge(round(gtn, 2), left_on="id", right_index=True, how="left").illna(0).to_csv(path + 'map_polling_stations_points1_results.csv', index=False)
 
-mapp2.merge(ptn, left_on="id", right_index=True, how="left").merge(round(gtn, 2), left_on="id", right_index=True, how="left").to_csv(path + 'map_polling_stations_areas1_results.csv', index=False)
+mapp2.merge(ptn, left_on="id", right_index=True, how="left").merge(round(gtn, 2), left_on="id", right_index=True, how="left").fillna(0).to_csv(path + 'map_polling_stations_areas1_results.csv', index=False)
+
+polling_stations = pd.read_csv(path + 'polling_stations.csv')
+pretty = pd.read_csv(path + 'polling_stations_pretty_names.csv')
+gtn.merge(ptn, left_index=True, right_index=True, how="left").merge(polling_stations, left_index=True, right_on="id", how="left").merge(pretty, on="id", how="left").fillna(0).to_csv(path + 'results_polling_stations.csv', index=False)

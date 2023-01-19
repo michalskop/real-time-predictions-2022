@@ -1,7 +1,12 @@
 {
   "note": "This is a test data. The results are not real.",
-  "datetime": "2023-01-15T15:35:00",
-  "counted": 22.15,
+  "data-exist": false,
+  "end": false,
+  "datetime": "2023-01-15T15:37:00",
+  "datetime-data": "2023-01-15T15:35:00",
+  "counted-percent": 0,
+  "counted-polling-stations": 0,
+  "counted-polling-stations-percent": 0,
   "confidence": 95,
   "candidates": [
     {
