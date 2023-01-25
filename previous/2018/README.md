@@ -10,11 +10,16 @@
 `create_list.py` creates list of polling stations
 
 ## model from 2013
-join data from 2013 and 2018 to create model for 2018
+a) join data from 2013 and 2018 to create model for 2018
 `join_lists.py`
+note: only for first round, second round is estimated from the first round
+
+b) `add_voters.py` adds voters 
+note: for second round only
 
 ## extractor
 extract data from batches to `results.csv` and `results_XXX.csv` files
+`extractor.py`
 
 ## estimate results
 `estimate_results.py` estimates results

@@ -26,7 +26,3 @@ pssgv.rename(columns={"PL_HL_CELK": "votes"}, inplace=True)
 pssgv.fillna(0, inplace=True)
 
 pssgv.to_csv(localpath + "polling_stations_2021_2018_groups5.csv", index=False)
-
-
-pss[50:80]
-pss0

@@ -1,5 +1,6 @@
 batches/
 batches-2/
+batches-test-data*
 .xml
 preparation/sources
 .~lock.*
