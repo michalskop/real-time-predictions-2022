@@ -337,6 +337,6 @@ if (counted > 2): # minimal 2% counted
       'counted': r['counted'],
     })
   # with open(path + '../../../docs/president-2023/round-1/map-v1' + teststr + '.json', 'w') as outfile:
-  with open(path + '../../../docs/president-2023/round-1/map-v1.json', 'w') as outfile:
+  with open(path + '../../../docs/president-2023/round-2/map-v1.json', 'w') as outfile:
     ss = json.dumps(outputr, ensure_ascii=False).replace('NaN', 'null')
     outfile.write(ss)
