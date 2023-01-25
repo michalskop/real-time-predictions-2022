@@ -93,10 +93,10 @@ candidates = pd.read_csv(path + 'candidates.csv')
 # confidence itervals
 # confidence intervals parameters
 confi = pd.DataFrame([
-[0, 1],
-[0.02, 0.4],
-[1, 0.14],
-[2, 0.1],
+[0, 0.5],
+[0.02, 0.2],
+[1, 0.1],
+[2, 0.0.09],
 [5, 0.08],
 [10, 0.07],
 [15, 0.045],
@@ -107,7 +107,7 @@ confi = pd.DataFrame([
 [80, 0.008],
 [90, 0.005],
 [99, 0.004],
-[100, 0.003]
+[100, 0.000001]
 ], columns=['counted', 'value'])
 confi['value'] = confi['value'] * 1 # estimate for 90% confidence interval
 
@@ -126,7 +126,11 @@ lot = gt * (1 / (1 + val))
 # gains + candidates
 gain = pd.concat([gt, hit, lot], axis=0)
 gain.index = ['mean', 'hi', 'lo']
-gaint = round(gain.T, 3).merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='mean', ascending=False)
+if counted < 2:
+  precision = 0
+else:
+  precision = 1
+gaint = round(gain.T, precision).merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='mean', ascending=False)
 
 # output
 # note
