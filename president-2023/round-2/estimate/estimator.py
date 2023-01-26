@@ -124,13 +124,16 @@ else:
 hit = gt * (1 + val)
 lot = gt * (1 / (1 + val))
 
-# 2 candidates: we used the lower values (2nd) to estimate the upper values (1st)
-
-
 # prepare output
 # gains + candidates
 gain = pd.concat([gt, hit, lot], axis=0)
 gain.index = ['mean', 'hi', 'lo']
+
+# 2 candidates: we used the lower values (2nd) to estimate the upper values (1st)
+imin = gain.loc['mean', :].idxmin()
+ = gain.loc['mean', :].idxmax()
+
+
 if counted < 0.5:
   precision = 0
 elif counted < 90:
