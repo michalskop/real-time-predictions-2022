@@ -30,7 +30,7 @@ polling_stations = pd.read_csv(path + 'polling_stations_2018.csv')
 polling_stations.rename(columns={'votes': 'votes_model'}, inplace=True)
 last_batch = results['batch'].max()
 
-## ** QUICK HACK FOR TESTING **
+## ** QUICK HACK FOR TESTING BASED ON 2018 **
 results['STRANA'].replace(9, 4, inplace=True)
 
 # stop by 0 results
