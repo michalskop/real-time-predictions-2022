@@ -132,8 +132,10 @@ if counted < 0.5:
   precision = 0
 elif counted < 90:
   precision = 1
-else:
+elif counted < 100:
   precision = 2
+else:
+  precision = 3
 gaint = gain.T.merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='mean', ascending=False)
 gaint.loc[:, 'mean'] = (np.round(gaint.loc[:, 'mean'] * 10 ** precision) / 10 ** precision).apply(lambda x: '{:.{}f}'.format(x, precision))
 gaint.loc[:, 'hi'] = (np.ceil(gaint.loc[:, 'hi'] * 10 ** precision) / 10 ** precision).apply(lambda x: '{:.{}f}'.format(x, precision))
