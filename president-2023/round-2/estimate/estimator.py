@@ -130,8 +130,10 @@ gain = pd.concat([gt, hit, lot], axis=0)
 gain.index = ['mean', 'hi', 'lo']
 if counted < 2:
   precision = 0
-else:
+elif counted < 99.5:
   precision = 1
+else:
+  precision = 2
 gaint = gain.T.merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='mean', ascending=False)
 gaint.loc[:, 'mean'] = np.round(gaint.loc[:, 'mean'] * 10 ** precision) / 10 ** precision
 gaint.loc[:, 'hi'] = np.ceil(gaint.loc[:, 'hi'] * 10 ** precision) / 10 ** precision
