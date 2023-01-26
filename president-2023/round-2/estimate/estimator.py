@@ -130,8 +130,9 @@ gain = pd.concat([gt, hit, lot], axis=0)
 gain.index = ['mean', 'hi', 'lo']
 
 # 2 candidates: we used the lower values (2nd) to estimate the upper values (1st)
-imin = gain.loc['mean', :].idxmin()
- = gain.loc['mean', :].idxmax()
+imin = gain.loc['mean', :].idxmin() # we cannot use idxmax() because of ties
+cols = list(gain.columns)
+iother = [ele for ele in cols if ele != imin][0]
 
 
 if counted < 0.5:
