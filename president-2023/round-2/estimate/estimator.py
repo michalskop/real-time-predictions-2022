@@ -93,23 +93,25 @@ candidates = pd.read_csv(path + 'candidates.csv')
 # confidence itervals
 # confidence intervals parameters
 confi = pd.DataFrame([
-[0, 0.5],
-[0.02, 0.2],
-[1, 0.1],
-[2, 0.0.09],
-[5, 0.08],
-[10, 0.07],
-[15, 0.045],
-[20, 0.04],
-[30, 0.028],
-[50, 0.015],
-[60, 0.011],
-[80, 0.008],
-[90, 0.005],
-[99, 0.004],
-[100, 0.000001]
+  [0, 1],
+  [0.002, 0.65],
+  [0.1, 0.25],
+  [0.7, 0.012],
+  [2.5, 0.011],
+  [6, 0.01],
+  [60, 0.0032],
+  [75, 0.0027],
+  [89, 0.0024],
+  [93, 0.0021],
+  [95, 0.0017],
+  [97, 0.0012],
+  [98, 0.0009],
+  [99, 0.00063],
+  [99.5, 0.0005],
+  [99.9, 0.00009],
+  [100, 0.000001]
 ], columns=['counted', 'value'])
-confi['value'] = confi['value'] * 1 # estimate for 90% confidence interval
+confi['value'] = confi['value'] * 1.33 # estimate for 90% confidence interval
 
 lo = confi[counted >= confi['counted']].iloc[-1]
 hi = confi[counted <= confi['counted']].iloc[0]
@@ -266,81 +268,81 @@ for update in updates:
 
 
 # estimate for each region
-# regions = pd.read_csv(path + 'regions.csv')
-# regional_results = pd.DataFrame()
-# if (counted > 2): # minimal 2% counted
-#   for reg in regions.iterrows():
-#     region = reg[1]  # ** only one!!! **
-#     ps2r = ps2[ps2['region_id'] == region['id']]
-#     resultscr = resultsc[resultsc['OKRSEK'].isin(ps2r['id'])]
-#     ptr = pd.pivot_table(ps2r, values='votes', index=['closest'], aggfunc=sum).sort_values(by='votes', ascending=False)
-#     rxr = resultscr.merge(pt, left_on='OKRSEK', right_index=True, how='left')
-#     rxr.loc[:, 'v'] = rxr.loc[:, 'p'] * rxr.loc[:, 'votes']
-#     itr = rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum) / rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum).sum() * 100
-#     itr.sort_values(by=['v'], ascending=False, inplace=True)
-#     if len(itr) >= 2:
+regions = pd.read_csv(path + 'regions.csv')
+regional_results = pd.DataFrame()
+if (counted > 2): # minimal 2% counted
+  for reg in regions.iterrows():
+    region = reg[1]  # ** only one!!! **
+    ps2r = ps2[ps2['region_id'] == region['id']]
+    resultscr = resultsc[resultsc['OKRSEK'].isin(ps2r['id'])]
+    ptr = pd.pivot_table(ps2r, values='votes', index=['closest'], aggfunc=sum).sort_values(by='votes', ascending=False)
+    rxr = resultscr.merge(pt, left_on='OKRSEK', right_index=True, how='left')
+    rxr.loc[:, 'v'] = rxr.loc[:, 'p'] * rxr.loc[:, 'votes']
+    itr = rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum) / rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum).sum() * 100
+    itr.sort_values(by=['v'], ascending=False, inplace=True)
+    if len(itr) >= 2:
 
-#       min_diff = 4
-#       if counted > 10:
-#         min_diff = 1.5
-#       if counted > 50:
-#         min_diff = 1
-#       if counted > 80:
-#         min_diff = 0.6
-#       if counted > 99:
-#         min_diff = 0.15
-#       if counted == 100:
-#         min_diff = 0.00001
+      min_diff = 4
+      if counted > 10:
+        min_diff = 1.5
+      if counted > 50:
+        min_diff = 1
+      if counted > 80:
+        min_diff = 0.6
+      if counted > 99:
+        min_diff = 0.15
+      if counted == 100:
+        min_diff = 0.00001
 
-#       if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > min_diff):
-#         item = pd.DataFrame({
-#           'id': region['id'],
-#           'region': region['name'],
-#           'winner_number': itr.index[0],
-#           'counted': counted,
-#         }, index=[region['id']])
-#       else:
-#         item = pd.DataFrame({
-#           'id': region['id'],
-#           'region': region['name'],
-#           'winner_number': np.nan,
-#           'counted': counted,
-#         }, index=[region['id']])
-#     else:
-#       item = pd.DataFrame({
-#         'id': region['id'],
-#         'region': region['name'],
-#         'winner_number': np.nan,
-#         'counted': counted,
-#       }, index=[region['id']])
+      if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > min_diff):
+        item = pd.DataFrame({
+          'id': region['id'],
+          'region': region['name'],
+          'winner_number': itr.index[0],
+          'counted': counted,
+        }, index=[region['id']])
+      else:
+        item = pd.DataFrame({
+          'id': region['id'],
+          'region': region['name'],
+          'winner_number': np.nan,
+          'counted': counted,
+        }, index=[region['id']])
+    else:
+      item = pd.DataFrame({
+        'id': region['id'],
+        'region': region['name'],
+        'winner_number': np.nan,
+        'counted': counted,
+      }, index=[region['id']])
     
-#     regional_results = pd.concat([regional_results, item], axis=0)
+    regional_results = pd.concat([regional_results, item], axis=0)
 
-#   regional_results = regional_results.merge(candidates.rename(columns={'id': 'candidate_id'}), left_on='winner_number', right_on='number', how='left')
+  regional_results = regional_results.merge(candidates.rename(columns={'id': 'candidate_id'}), left_on='winner_number', right_on='number', how='left')
 
-#   # output regions
-#   outputr = {
-#     'note': 'These are test data. The results are not real.',
-#     'data-exist': True,
-#     'datetime': datetime.datetime.now().isoformat()[0:19],
-#     'datatime-data': lasttime,
-#     'counted': counted,
-#     'confidence': 90,
-#     'maps': [{
-#       'level': 'NUTS 3',
-#       'regions': []
-#     }]
-#   }
-#   for i, r in regional_results.iterrows():
-#     outputr['maps'][0]['regions'].append({
-#       'id': r['id'],
-#       'name': r['region'],
-#       'winner': r['winner_number'],
-#       'winner-name': r['name'],
-#       'winner-id': r['candidate_id'],
-#       'counted': r['counted'],
-#     })
-#   # with open(path + '../../../docs/president-2023/round-1/map-v1' + teststr + '.json', 'w') as outfile:
-#   with open(path + '../../../docs/president-2023/round-2/map-v1.json', 'w') as outfile:
-#     ss = json.dumps(outputr, ensure_ascii=False).replace('NaN', 'null')
-#     outfile.write(ss)
+  # output regions
+  outputr = {
+    'note': 'These are test data. The results are not real.',
+    'data-exist': True,
+    'datetime': datetime.datetime.now().isoformat()[0:19],
+    'datatime-data': lasttime,
+    'counted': counted,
+    'confidence': 90,
+    'maps': [{
+      'level': 'NUTS 3',
+      'regions': []
+    }]
+  }
+  for i, r in regional_results.iterrows():
+    outputr['maps'][0]['regions'].append({
+      'id': r['id'],
+      'name': r['region'],
+      'winner': r['winner_number'],
+      'winner-name': r['name'],
+      'winner-id': r['candidate_id'],
+      'counted': r['counted'],
+    })
+  # with open(path + '../../../docs/president-2023/round-1/map-v1' + teststr + '.json', 'w') as outfile:
+  with open(path + '../../../docs/president-2023/round-2/map-v1.json', 'w') as outfile:
+    ss = json.dumps(outputr, ensure_ascii=False).replace('NaN', 'null')
+    outfile.write(ss)

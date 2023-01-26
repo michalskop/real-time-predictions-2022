@@ -70,6 +70,7 @@ pt = resround.loc[:, candidates_votes].T
 
 # exclude = pt.columns[pt.sum() == 0]
 # pt = pt.drop(exclude, axis=1)
+exclude = []
 
 ptp = pt / pt.sum(axis=0)
 ptp.fillna(0, inplace=True)

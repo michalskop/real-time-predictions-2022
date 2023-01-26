@@ -9,7 +9,7 @@ import xmltodict
 
 # load settings
 path = '/'.join(abspath(getsourcefile(lambda:0)).split("/")[0:-1]) + "/"
-path = "/home/michal/dev/real-time-predictions-2022/president-2023/round-2/extract/" # ** for testing only **
+path = "/home/michal/dev/real-time-predictions-2022/president-2023/round-1/extract/" # ** for testing only **
 if exists(path + "../../settings.json"):
   with open(path + '../../settings.json') as f:
     settings = json.load(f)
@@ -53,7 +53,13 @@ for n in batches['n']:
           results = pd.read_csv(path + 'results' + teststr + '/results.csv')
         else:
           results = pd.DataFrame(columns=['OKRSEK', 'STRANA', 'HLASY', 'batch'])
-
+        
+        # read turnout
+        if exists(path + 'results' + teststr + '/turnout.csv'):
+          turnout = pd.read_csv(path + 'results' + teststr + '/turnout.csv')
+        else:
+          turnout = pd.DataFrame(columns=['OKRSEK', 'ZAPSANI_VOLICI', 'VYDANE_OBALKY', 'ODEVZDANE_OBALKY', 'PLATNE_HLASY', 'batch'])
+        
         # for each okrsek
         for okrsek in obj['VYSLEDKY_OKRSKY']['OKRSEK']:
           # if there are any results
@@ -82,10 +88,27 @@ for n in batches['n']:
                 else:
                   results.loc[(results['OKRSEK'] == okrsek['@CIS_OBEC'] + '-' + okrsek['@CIS_OKRSEK']) & (results['STRANA'] == hlasy['@PORADOVE_CISLO']), 'HLASY'] = hlasy['@HLASY']
                   results.loc[(results['OKRSEK'] == okrsek['@CIS_OBEC'] + '-' + okrsek['@CIS_OKRSEK']) & (results['STRANA'] == hlasy['@PORADOVE_CISLO']), 'batch'] = n
+          # turnout
+          if 'UCAST_OKRSEK' in okrsek:
+            news = True
+            if okrsek['@OPAKOVANE'] == '1':
+              news = False
+            if news:
+              turnout = pd.concat([turnout, pd.DataFrame([{'OKRSEK': okrsek['@CIS_OBEC'] + '-' + okrsek['@CIS_OKRSEK'], 'ZAPSANI_VOLICI': okrsek['UCAST_OKRSEK']['@ZAPSANI_VOLICI'], 'VYDANE_OBALKY': okrsek['UCAST_OKRSEK']['@VYDANE_OBALKY'], 'ODEVZDANE_OBALKY': okrsek['UCAST_OKRSEK']['@ODEVZDANE_OBALKY'], 'PLATNE_HLASY': okrsek['UCAST_OKRSEK']['@PLATNE_HLASY'], 'batch': n}])])
+            else:
+              turnout.loc[(turnout['OKRSEK'] == okrsek['@CIS_OBEC'] + '-' + okrsek['@CIS_OKRSEK']), 'ZAPSANI_VOLICI'] = okrsek['UCAST_OKRSEK']['@ZAPSANI_VOLICI']
+              turnout.loc[(turnout['OKRSEK'] == okrsek['@CIS_OBEC'] + '-' + okrsek['@CIS_OKRSEK']), 'VYDANE_OBALKY'] = okrsek['UCAST_OKRSEK']['@VYDANE_OBALKY']
+              turnout.loc[(turnout['OKRSEK'] == okrsek['@CIS_OBEC'] + '-' + okrsek['@CIS_OKRSEK']), 'ODEVZDANE_OBALKY'] = okrsek['UCAST_OKRSEK']['@ODEVZDANE_OBALKY']
+              turnout.loc[(turnout['OKRSEK'] == okrsek['@CIS_OBEC'] + '-' + okrsek['@CIS_OKRSEK']), 'PLATNE_HLASY'] = okrsek['UCAST_OKRSEK']['@PLATNE_HLASY']
+              turnout.loc[(turnout['OKRSEK'] == okrsek['@CIS_OBEC'] + '-' + okrsek['@CIS_OKRSEK']), 'batch'] = n
 
         # save results
         results.to_csv(path + 'results' + teststr + '/results.csv', index=False)
         results.to_csv(path + 'results' + teststr + '/results_' + str(n).zfill(3) + '.csv', index=False)
+        # save turnout
+        turnout.to_csv(path + 'results' + teststr + '/turnout.csv', index=False)
+        # turnout.to_csv(path + 'results' + teststr + '/turnout_' + str(n).zfill(3) + '.csv', index=False)
+
         # save batches
         batchesdone = pd.concat([batchesdone, pd.DataFrame([{'n': n, 'time': time, 'size': len(obj['VYSLEDKY_OKRSKY']['OKRSEK']), 'extracted': datetime.datetime.now().isoformat()}])])
 
