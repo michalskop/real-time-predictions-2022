@@ -109,7 +109,7 @@ confi = pd.DataFrame([
   [99, 0.00063],
   [99.5, 0.0005],
   [99.9, 0.00009],
-  [100, 0.000001]
+  [100, 0.0000001]
 ], columns=['counted', 'value'])
 confi['value'] = confi['value'] * 1.33 # estimate for 90% confidence interval
 
