@@ -1,15 +1,1 @@
-{
-  "note": "Null data.",
-  "data-exist": false,
-  "end": false,
-  "datetime": "2023-01-25T08:31:50",
-  "datatime-data": "2018-01-27T17:35:00",
-  "counted": 0,
-  "counted-percent": 0,
-  "counted-polling-stations": 14866,
-  "last-batch": 0,
-  "confidence": 100,
-  "candidates": [
-
-  ]
-}
+{"note": "These are test data. The results are not real.", "data-exist": true, "end": false, "datetime": "2023-01-26T11:20:52", "datatime-data": "2018-01-27T14:25:00", "counted": 0.6900354904809328, "counted-percent": 0.0, "counted-polling-stations": 382, "last-batch": 2, "confidence": 90, "candidates": [{"number": 7, "id": "andrej-babis", "family_name": "Babiš", "given_name": "Andrej", "abbreviated_name": "A. Babiš", "name": "Andrej Babiš", "values": {"mean": 52.0, "hi": 53.0, "lo": 51.0}}, {"number": 4, "id": "petr-pavel", "family_name": "Pavel", "given_name": "Petr", "abbreviated_name": "P. Pavel", "name": "Petr Pavel", "values": {"mean": 48.0, "hi": 49.0, "lo": 47.0}}]}
