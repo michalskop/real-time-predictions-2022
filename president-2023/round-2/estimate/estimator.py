@@ -327,7 +327,8 @@ if (counted > 2): # minimal 2% counted
     'data-exist': True,
     'datetime': datetime.datetime.now().isoformat()[0:19],
     'datatime-data': lasttime,
-    'counted': counted,
+    'counted': round(counted * 10) / 10,
+    'counted-original': counted,
     'confidence': 90,
     'maps': [{
       'level': 'NUTS 3',
