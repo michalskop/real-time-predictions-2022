@@ -124,6 +124,8 @@ else:
 hit = gt * (1 + val)
 lot = gt * (1 / (1 + val))
 
+# 2 candidates: we used the lower values (2nd) to estimate the upper values (1st)
+
 # prepare output
 # gains + candidates
 gain = pd.concat([gt, hit, lot], axis=0)
