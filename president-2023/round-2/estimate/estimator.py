@@ -166,6 +166,7 @@ output = {
   'counted': counted,
   'counted-percent': counted_perc,
   'counted-polling-stations': counted_ps,
+  'counted-polling-stations-percent': counted_ps_perc,
   'last-batch': last_batch,
   'confidence': confidence,
   'candidates': []
