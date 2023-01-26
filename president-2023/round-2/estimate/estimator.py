@@ -133,6 +133,9 @@ gain.index = ['mean', 'hi', 'lo']
 imin = gain.loc['mean', :].idxmin() # we cannot use idxmax() because of ties
 cols = list(gain.columns)
 iother = [ele for ele in cols if ele != imin][0]
+gain.loc['mean', iother] = 100 - gain.loc['mean', imin]
+gain.loc['lo', iother] = 100 - gain.loc['hi', imin]
+gain.loc['hi', iother] = 100 - gain.loc['lo', imin]
 
 
 if counted < 0.5:
