@@ -79,9 +79,9 @@ totalsum = polling_stations["votes_model"].sum()
 # estimate percentage counted
 resultse = results.merge(polling_stations.loc[:, ['id']], left_on='OKRSEK', right_on="id", how='left')
 counted = polling_stations[polling_stations['id'].isin(resultse['id'].unique())]['votes_model'].sum() / totalsum * 100
-counted_perc = np.floor(polling_stations[polling_stations['id'].isin(resultse['id'].unique())]['votes_model'].sum() / totalsum * 100)
+counted_perc = np.floor(polling_stations[polling_stations['id'].isin(resultse['id'].unique())]['votes_model'].sum() / totalsum * 1000) / 10
 counted_ps = len(resultse['id'].unique())
-counted_ps_perc = int(np.floor(len(resultse['id'].unique()) / len(polling_stations) * 100))
+counted_ps_perc = int(np.floor(len(resultse['id'].unique()) / len(polling_stations) * 1000)) / 10
 
 # last time
 batchesdone = pd.read_csv(path + '../extract/batches' + teststr + '.csv')
