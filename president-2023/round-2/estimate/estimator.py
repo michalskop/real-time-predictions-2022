@@ -128,9 +128,9 @@ lot = gt * (1 / (1 + val))
 # gains + candidates
 gain = pd.concat([gt, hit, lot], axis=0)
 gain.index = ['mean', 'hi', 'lo']
-if counted < 2:
+if counted < 0.5:
   precision = 0
-elif counted < 99.5:
+elif counted < 90:
   precision = 1
 else:
   precision = 2
