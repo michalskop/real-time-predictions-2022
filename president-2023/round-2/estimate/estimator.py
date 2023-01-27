@@ -308,7 +308,7 @@ elif needle_p > 95:
 elif needle_p < 60:
   needle_text = 'Nerozhodnuté'
 else:
-  needle_text = str(needle_p) + ' % ' + winning_candidate.iloc[0]['name']
+  needle_text = str(round(needle_p)) + ' % ' + winning_candidate.iloc[0]['name']
 needle_df = pd.DataFrame([needle_text, needle]).T
 needle_df.columns = ['text', 'value']
 needle_df.to_csv(path + '../../../docs/president-2023/round-2/' + 'needle-v1.csv', index=False)
