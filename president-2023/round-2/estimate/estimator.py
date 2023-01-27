@@ -71,6 +71,7 @@ resultsc.loc[:, 'p'] = resultsc.loc[:, 'HLASY'] / resultsc.loc[:, 'votes_real']
 # ps2 is the df with closest polling stations
 ps2 = ps2.merge(ptr, left_on="closest", right_index=True, how="left")
 ps2['votes'] = np.where(ps2['id'].isin(resultsc['OKRSEK'].unique()), ps2['votes_real'], ps2['votes_model'])
+# pt is the df with number of votes (weight) for already counted polling stations in the model
 pt = pd.pivot_table(ps2, values='votes', index=['closest'], aggfunc=sum).sort_values(by='votes', ascending=False)
 
 # votes for each candidate in okrseks
@@ -319,30 +320,35 @@ if (counted > 2): # minimal 2% counted
   for reg in regions.iterrows():
     # regional results
     region = reg[1] 
+    # ps2r is ps2 regional
     ps2r = ps2[ps2['region_id'] == region['id']]
     resultscr = resultsc[resultsc['OKRSEK'].isin(ps2r['id'])]
+    # ptr is pt regional, the df with number of votes (weight) for already counted polling stations in the model
     ptr = pd.pivot_table(ps2r, values='votes', index=['closest'], aggfunc=sum).sort_values(by='votes', ascending=False)
+    # rxr is rx regional
     rxr = resultscr.merge(pt, left_on='OKRSEK', right_index=True, how='left')
     rxr.loc[:, 'v'] = rxr.loc[:, 'p'] * rxr.loc[:, 'votes']
+    # itr is it regional
     itr = rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum) / rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum).sum() * 100
     if len(itr) > 0:
       itr.sort_values(by=['v'], ascending=False, inplace=True)
     # regional counted
-    ps_reg_total = polling_stations[ps2['region_id'] == region['id']]
-    counted_reg = round(len(ps2r) / len(ps_reg_total) * 1000) / 10
+    ps_reg_total = len(polling_stations[ps2['region_id'] == region['id']])
+    ps_reg_counted = len(resultscr['OKRSEK'].unique())
+    counted_reg = round( ps_reg_counted / ps_reg_total * 1000) / 10
 
     if len(itr) >= 2:
 
       min_diff = 4
-      if counted > 10:
+      if counted_reg > 10:
         min_diff = 1.5
-      if counted > 50:
+      if counted_reg > 50:
         min_diff = 1
-      if counted > 80:
+      if counted_reg > 80:
         min_diff = 0.6
-      if counted > 99:
+      if counted_reg > 99:
         min_diff = 0.15
-      if counted == 100:
+      if counted_reg == 100:
         min_diff = 0.00001
 
       if (itr.iloc[0]['v'] - itr.iloc[1]['v'] > min_diff):
@@ -351,6 +357,12 @@ if (counted > 2): # minimal 2% counted
           'region': region['name'],
           'winner_number': itr.index[0],
           'counted': counted_reg,
+          'candidates_1_number': itr.index[0],
+          'candidates_1_name': candidates[candidates['number'] == itr.index[0]].iloc[0]['name'],
+          'candidates_1_votes': round(itr.iloc[0]['v']),
+          'candidates_2_number': itr.index[1],
+          'candidates_2_name': candidates[candidates['number'] == itr.index[1]].iloc[0]['name'],
+          'candidates_2_votes': round(itr.iloc[1]['v'])
         }, index=[region['id']])
       else:
         item = pd.DataFrame({
@@ -358,6 +370,12 @@ if (counted > 2): # minimal 2% counted
           'region': region['name'],
           'winner_number': np.nan,
           'counted': counted_reg,
+          'candidates_1_number': itr.index[0],
+          'candidates_1_name': candidates[candidates['number'] == itr.index[0]].iloc[0]['name'],
+          'candidates_1_votes': round(itr.iloc[0]['v']),
+          'candidates_2_number': itr.index[1],
+          'candidates_2_name': candidates[candidates['number'] == itr.index[1]].iloc[0]['name'],
+          'candidates_2_votes': round(itr.iloc[1]['v'])
         }, index=[region['id']])
     else:
       item = pd.DataFrame({
@@ -365,6 +383,12 @@ if (counted > 2): # minimal 2% counted
         'region': region['name'],
         'winner_number': np.nan,
         'counted': counted_reg,
+        'candidates_1_number': np.nan,
+        'candidates_1_name': np.nan,
+        'candidates_1_votes': np.nan,
+        'candidates_2_number': np.nan,
+        'candidates_2_name': np.nan,
+        'candidates_2_votes': np.nan
       }, index=[region['id']])
     
     regional_results = pd.concat([regional_results, item], axis=0)
@@ -393,6 +417,18 @@ if (counted > 2): # minimal 2% counted
       'winner-name': r['name'],
       'winner-id': r['candidate_id'],
       'counted': r['counted'],
+      'candidates': [
+        {
+          'number': r['candidates_1_number'],
+          'name': r['candidates_1_name'],
+          'mean': r['candidates_1_votes']
+        },
+        {
+          'number': r['candidates_2_number'],
+          'name': r['candidates_2_name'],
+          'mean': r['candidates_2_votes']
+        }
+      ]
     })
   # with open(path + '../../../docs/president-2023/round-1/map-v1' + teststr + '.json', 'w') as outfile:
   with open(path + '../../../docs/president-2023/round-2/map-v1.json', 'w') as outfile:
