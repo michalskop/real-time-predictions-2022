@@ -4,7 +4,7 @@
 header('Content-Type: application/xml');
 
 if (isset($_GET['davka']) & $_GET['davka'] != "") {
-  $f = file_get_contents("batches-test-data-2/" . $_GET['davka'] . ".xml");
+  $f = file_get_contents("batches-test-data-2018/" . $_GET['davka'] . ".xml");
   echo($f);
   exit();
 }
@@ -12,7 +12,7 @@ if (isset($_GET['davka']) & $_GET['davka'] != "") {
 $delay = "00:00:00"; // calculate GMT difference
 $last = 0;
 
-$batches = array_map('str_getcsv', file('batches-test-2.csv'));
+$batches = array_map('str_getcsv', file('batches-test-2018.csv'));
 
 for ($i = 1; $i < count($batches); $i++) {
 
@@ -31,7 +31,7 @@ for ($i = 1; $i < count($batches); $i++) {
 
 // $last = 38;
 
-$f = file_get_contents("batches-test-data-2/" . $last . ".xml");
+$f = file_get_contents("batches-test-data-2018/" . $last . ".xml");
 echo($f);
 
 ?>

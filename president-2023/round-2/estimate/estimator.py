@@ -399,6 +399,7 @@ if (counted > 2): # minimal 2% counted
   outputr = {
     'note': 'These are test data. The results are not real.',
     'data-exist': True,
+    'last-batch': last_batch,
     'datetime': datetime.datetime.now().isoformat()[0:19],
     'datatime-data': lasttime,
     'counted': round(counted * 10) / 10,
