@@ -33,57 +33,57 @@ out.to_csv(localpath + "test_naive-2.csv", index=False)
 # estimate results
 # read known results and polling stations, calc their weights
 
-out = pd.DataFrame(columns = ['time', 'n', 'counted'])
-pssum = 0
+# out = pd.DataFrame(columns = ['time', 'n', 'counted'])
+# pssum = 0
 
-for batch in batches.iterrows():
-  n = batch[1]['n']
-  pssum = pssum + batch[1]['size']
-  results = pd.read_csv(localpath + 'results-2/results_' + str(n).zfill(3) + '.csv')
-  polling_stations = pd.read_csv(localpath + 'polling_stations_2021_2018_groups9.csv')
-  results = results.merge(polling_stations.loc[:, ['id', 'group']], left_on='OKRSEK', right_on="id", how='left')
-  totalsum = polling_stations["votes"].sum()
-  groupsums = polling_stations.groupby("group")["votes"].sum()
-  group_weights = polling_stations.groupby("group")["votes"].sum() / totalsum
+# for batch in batches.iterrows():
+#   n = batch[1]['n']
+#   pssum = pssum + batch[1]['size']
+#   results = pd.read_csv(localpath + 'results-2/results_' + str(n).zfill(3) + '.csv')
+#   polling_stations = pd.read_csv(localpath + 'polling_stations_2021_2018_groups9.csv')
+#   results = results.merge(polling_stations.loc[:, ['id', 'group']], left_on='OKRSEK', right_on="id", how='left')
+#   totalsum = polling_stations["votes"].sum()
+#   groupsums = polling_stations.groupby("group")["votes"].sum()
+#   group_weights = polling_stations.groupby("group")["votes"].sum() / totalsum
 
-  # estimate percentage counted
-  counted = polling_stations[polling_stations['id'].isin(results['id'].unique())]['votes'].sum() / totalsum * 100
-  counted_perc = np.floor(polling_stations[polling_stations['id'].isin(results['id'].unique())]['votes'].sum() / totalsum * 100)
+#   # estimate percentage counted
+#   counted = polling_stations[polling_stations['id'].isin(results['id'].unique())]['votes'].sum() / totalsum * 100
+#   counted_perc = np.floor(polling_stations[polling_stations['id'].isin(results['id'].unique())]['votes'].sum() / totalsum * 100)
 
-  # sums by 5 or 9 groups
-  pt = pd.pivot_table(results, values='HLASY', index=['STRANA'], columns=['group'], aggfunc=sum).reset_index()
-  # if there are data from all groups:
-  if len(pt.columns) == (len(groupsums) + 1):
-    # gain in each group
-    perct = pt.iloc[:, 1:].div(pt.iloc[:, 1:].sum(axis=0), axis=1)
-    # weighted gain
-    gainw = pd.DataFrame((perct * group_weights.T).sum(axis=1) * 100)
-    gainw.columns = ['gain']
-    gainw['STRANA'] = pt['STRANA']
-    gainw['counted'] = counted_perc
+#   # sums by 5 or 9 groups
+#   pt = pd.pivot_table(results, values='HLASY', index=['STRANA'], columns=['group'], aggfunc=sum).reset_index()
+#   # if there are data from all groups:
+#   if len(pt.columns) == (len(groupsums) + 1):
+#     # gain in each group
+#     perct = pt.iloc[:, 1:].div(pt.iloc[:, 1:].sum(axis=0), axis=1)
+#     # weighted gain
+#     gainw = pd.DataFrame((perct * group_weights.T).sum(axis=1) * 100)
+#     gainw.columns = ['gain']
+#     gainw['STRANA'] = pt['STRANA']
+#     gainw['counted'] = counted_perc
 
-    item = pd.DataFrame({
-      'time': batch[1]['time'],
-      'n': n,
-      'counted': counted,
-      'counted_ps': pssum,
-    }, index=[n])
-    gt = gainw.loc[:, ['gain', 'STRANA']].T
-    gt.columns = gt.iloc[1]
-    gt = gt.drop('STRANA')
-    gt.index = [n]
-    item = pd.concat([item, gt], axis=1)
+#     item = pd.DataFrame({
+#       'time': batch[1]['time'],
+#       'n': n,
+#       'counted': counted,
+#       'counted_ps': pssum,
+#     }, index=[n])
+#     gt = gainw.loc[:, ['gain', 'STRANA']].T
+#     gt.columns = gt.iloc[1]
+#     gt = gt.drop('STRANA')
+#     gt.index = [n]
+#     item = pd.concat([item, gt], axis=1)
 
-    out = pd.concat([out, item], axis=0)
+#     out = pd.concat([out, item], axis=0)
 
-# save
-out.to_csv(localpath + "test_5.csv", index=False)
+# # save
+# out.to_csv(localpath + "test_5.csv", index=False)
 
 # closest
 # load
-max_penalty = 1
+max_penalty = 2
 out2 = pd.DataFrame(columns = ['time', 'n'])
-ordered_matrix = pd.read_pickle(localpath0 + 'reality_ordered_matrix_' + str(max_penalty) + '.pkl')
+ordered_matrix = pd.read_pickle(localpath0 + 'reality_ordered_matrix_' + str(max_penalty) + '_2018.pkl')
 for batch in batches.iterrows():
   n = batch[1]['n']
   print(n)
@@ -126,6 +126,6 @@ for batch in batches.iterrows():
 
   out2 = pd.concat([out2, item], axis=0)
 
-out2.to_csv(localpath + "test_closest-2_" + str(max_penalty) + ".csv", index=False)
+out2.to_csv(localpath + "test_closest-2_" + str(max_penalty) + "_2018.csv", index=False)
 
 

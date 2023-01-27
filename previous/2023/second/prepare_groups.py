@@ -7,11 +7,9 @@ import numpy as np
 import dcor
 # from sklearn.manifold import MDS
 
-localpath = "previous/2023/second/"
 localpath = "previous/2018/"
 
-# results = pd.read_csv(localpath + 'sources/pet1.csv', sep=',')  # 2023
-results = pd.read_csv(localpath + 'sources/pet1.csv', sep=';')  # 2018
+results = pd.read_csv(localpath + 'sources/pet1.csv', sep=';')
 
 def cmdscale(D):
   """                                                                                       
@@ -59,12 +57,12 @@ def cmdscale(D):
 
   return Y, evals
 
-xround = 1  # "round" is a function in python
+round = 1
 
 candidates = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 candidates_votes = [('HLASY_' + str(c).zfill(2)) for c in candidates]
 
-resround = results[results['KOLO'] == xround]
+resround = results[results['KOLO'] == round]
 resround.loc[:, 'id'] = resround['OBEC'].astype(str) + '-' + resround['OKRSEK'].astype(str)
 resround.index = resround['id']
 
@@ -124,8 +122,8 @@ dist = pd.DataFrame(dist_arr, index=ptp.columns, columns=ptp.columns)
 # dist.apply(lambda x: np.argsort(x), axis=1)
 
 # penalty for small okrseks
-max_penalty = 2 # * (1 + penalty)
-polling_stations = pd.read_csv(localpath + 'polling_stations.csv')
+max_penalty = 1 # * (1 + penalty)
+polling_stations = pd.read_csv(localpath + 'polling_stations_2018.csv')
 x = [0, polling_stations['votes'].quantile(0.5), polling_stations['votes'].quantile(1)]
 y = [1 + max_penalty, 1 + 0.5 * max_penalty, 1]
 a = np.polyfit(x, y, 2)
@@ -149,11 +147,11 @@ ordered_matrix = pd.DataFrame(list(ordered_arrs), index=distw.index, columns=dis
 # ordered_matrix.index = [e for e in pt.columns if e not in list(exclude)]
 # ordered_matrix.columns = [e for e in pt.columns if e not in list(exclude)]
 
-# ordered_matrix.to_csv(localpath + 'reality_ordered_matrix_' + str(max_penalty) + '.csv')
+ordered_matrix.to_csv(localpath + 'reality_ordered_matrix_' + str(max_penalty) + '.csv')
 
 # .pkl
-# ordered_matrix = pd.read_csv(localpath + 'reality_ordered_matrix_' + str(max_penalty) + '.csv', index_col=0)
-ordered_matrix.to_pickle(localpath + 'reality_ordered_matrix_' + str(max_penalty) + '_2018.pkl')
+ordered_matrix = pd.read_csv(localpath + 'reality_ordered_matrix_' + str(max_penalty) + '.csv', index_col=0)
+ordered_matrix.to_pickle(localpath + 'reality_ordered_matrix_' + str(max_penalty) + '.pkl')
 
 # test
 test = pd.DataFrame([[1, 2, 3], [4, 5, 6], [1, 2, 3]], index=['a', 'x', 'c'], columns=['a', 'b', 'c'])

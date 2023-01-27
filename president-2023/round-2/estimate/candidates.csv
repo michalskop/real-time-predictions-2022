@@ -1,10 +1,10 @@
-number,id,given_name,family_name,abbreviated_name,name
-1,pavel-fischer,Pavel,Fischer,P. Fischer,Pavel Fischer
-2,jaroslav-basta,Jaroslav,Bašta,J. Bašta,Jaroslav Bašta
-3,josef-stredula,Josef,Středula,J. Středula,Josef Středula
-4,petr-pavel,Petr,Pavel,P. Pavel,Petr Pavel
-5,tomas-zima,Tomáš,Zima,T. Zima,Tomáš Zima
-6,danuse-nerudova,Danuše,Nerudová,D. Nerudová,Danuše Nerudová
-7,andrej-babis,Andrej,Babiš,A. Babiš,Andrej Babiš
-8,karel-divis,Karel,Diviš,K. Diviš,Karel Diviš
-9,marek-hilser,Marek,Hilšer,M. Hilšer,Marek Hilšer
+number,id,given_name,family_name,abbreviated_name,name,needle
+1,pavel-fischer,Pavel,Fischer,P. Fischer,Pavel Fischer,
+2,jaroslav-basta,Jaroslav,Bašta,J. Bašta,Jaroslav Bašta,
+3,josef-stredula,Josef,Středula,J. Středula,Josef Středula,
+4,petr-pavel,Petr,Pavel,P. Pavel,Petr Pavel,-1
+5,tomas-zima,Tomáš,Zima,T. Zima,Tomáš Zima,
+6,danuse-nerudova,Danuše,Nerudová,D. Nerudová,Danuše Nerudová,
+7,andrej-babis,Andrej,Babiš,A. Babiš,Andrej Babiš,1
+8,karel-divis,Karel,Diviš,K. Diviš,Karel Diviš,
+9,marek-hilser,Marek,Hilšer,M. Hilšer,Marek Hilšer,

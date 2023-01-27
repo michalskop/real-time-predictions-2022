@@ -7,6 +7,7 @@ import json
 import numpy as np
 from os.path import abspath, exists
 import pandas as pd
+from scipy.stats import norm
 
 # load settings
 path = '/'.join(abspath(getsourcefile(lambda:0)).split("/")[0:-1]) + "/"
@@ -26,12 +27,13 @@ else:
 
 # load results and polling stations
 results = pd.read_csv(path + '../extract/results' + teststr + '/results.csv')
-polling_stations = pd.read_csv(path + 'polling_stations_2018.csv')
+polling_stations = pd.read_csv(path + 'polling_stations.csv')
 polling_stations.rename(columns={'votes': 'votes_model'}, inplace=True)
 last_batch = results['batch'].max()
 
 ## ** QUICK HACK FOR TESTING BASED ON 2018 **
 results['STRANA'].replace(9, 4, inplace=True)
+results['STRANA'].replace(1, 7, inplace=True)
 
 # stop by 0 results
 if len(results) == 0:
@@ -44,8 +46,13 @@ ptn = results.pivot_table(values='HLASY', index=['STRANA'], aggfunc=np.sum)
 gtn = ptn.T / ptn.T.sum().sum() * 100
 
 # CLOSEST
+# 14000 polling stations ~ 90 % counted votes
 # load ordered matrix
-ordered_matrix = pd.read_pickle(path + '/reality_ordered_matrix_1.pkl')
+# load with penalty coef 1 if less than 14000 polling stations otherwise with penalty 0
+if len(results['OKRSEK'].unique()) < 14000:
+  ordered_matrix = pd.read_pickle(path + 'reality_ordered_matrix_1.pkl')
+else:
+  ordered_matrix = pd.read_pickle(path + 'reality_ordered_matrix_0.pkl')
 colsok = results.loc[:, 'OKRSEK'].unique()
 
 # find closest
@@ -61,6 +68,7 @@ resultsc = results.merge(ptr, left_on='OKRSEK', right_index=True, how='left')
 resultsc.loc[:, 'p'] = resultsc.loc[:, 'HLASY'] / resultsc.loc[:, 'votes_real']
 
 # merge real votes with, calculate votes/weight for each counted polling station
+# ps2 is the df with closest polling stations
 ps2 = ps2.merge(ptr, left_on="closest", right_index=True, how="left")
 ps2['votes'] = np.where(ps2['id'].isin(resultsc['OKRSEK'].unique()), ps2['votes_real'], ps2['votes_model'])
 pt = pd.pivot_table(ps2, values='votes', index=['closest'], aggfunc=sum).sort_values(by='votes', ascending=False)
@@ -137,7 +145,11 @@ gain.loc['mean', iother] = 100 - gain.loc['mean', imin]
 gain.loc['lo', iother] = 100 - gain.loc['hi', imin]
 gain.loc['hi', iother] = 100 - gain.loc['lo', imin]
 
+# needle probability
+sd = (gain.loc['hi', imin] - gain.loc['mean', imin]) / 1.96
+needle_p = (1 - norm.cdf(50, gain.loc['mean', iother], sd)) * 100
 
+# precision
 if counted < 0.5:
   precision = 0
 elif counted < 90:
@@ -145,7 +157,7 @@ elif counted < 90:
 elif counted < 100:
   precision = 2
 else:
-  precision = 3
+  precision = 2
 gaint = gain.T.merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='mean', ascending=False)
 gaint.loc[:, 'mean'] = (np.round(gaint.loc[:, 'mean'] * 10 ** precision) / 10 ** precision).apply(lambda x: '{:.{}f}'.format(x, precision))
 gaint.loc[:, 'hi'] = (np.ceil(gaint.loc[:, 'hi'] * 10 ** precision) / 10 ** precision).apply(lambda x: '{:.{}f}'.format(x, precision))
@@ -170,6 +182,7 @@ else:
 # ended
 if counted == 100:
   ended = True
+  note = 'The results are final.'
 else:
   ended = False
 
@@ -284,20 +297,40 @@ for update in updates:
 # history = history.fillna(0)
 # ws.update('A1', [history.columns.values.tolist()] + history.values.tolist())
 
+# needle
+winning_candidate = candidates[candidates['number'] == iother]
+needle = winning_candidate.iloc[0]['needle'] * (needle_p - 50) * 2
+if needle_p > 99:
+  needle_text = '> 99 % ' + winning_candidate.iloc[0]['name']
+elif needle_p > 95:
+  needle_text = '> 95 % ' + winning_candidate.iloc[0]['name']
+elif needle_p < 60:
+  needle_text = 'Nerozhodnuté'
+else:
+  needle_text = str(needle_p) + ' % ' + winning_candidate.iloc[0]['name']
+needle_df = pd.DataFrame([needle_text, needle]).T
+needle_df.columns = ['text', 'value']
+needle_df.to_csv(path + '../../../docs/president-2023/round-2/' + 'needle-v1.csv', index=False)
 
 # estimate for each region
 regions = pd.read_csv(path + 'regions.csv')
 regional_results = pd.DataFrame()
 if (counted > 2): # minimal 2% counted
   for reg in regions.iterrows():
-    region = reg[1]  # ** only one!!! **
+    # regional results
+    region = reg[1] 
     ps2r = ps2[ps2['region_id'] == region['id']]
     resultscr = resultsc[resultsc['OKRSEK'].isin(ps2r['id'])]
     ptr = pd.pivot_table(ps2r, values='votes', index=['closest'], aggfunc=sum).sort_values(by='votes', ascending=False)
     rxr = resultscr.merge(pt, left_on='OKRSEK', right_index=True, how='left')
     rxr.loc[:, 'v'] = rxr.loc[:, 'p'] * rxr.loc[:, 'votes']
     itr = rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum) / rxr.pivot_table(values='v', index=['STRANA'], aggfunc=sum).sum() * 100
-    itr.sort_values(by=['v'], ascending=False, inplace=True)
+    if len(itr) > 0:
+      itr.sort_values(by=['v'], ascending=False, inplace=True)
+    # regional counted
+    ps_reg_total = polling_stations[ps2['region_id'] == region['id']]
+    counted_reg = round(len(ps2r) / len(ps_reg_total) * 1000) / 10
+
     if len(itr) >= 2:
 
       min_diff = 4
@@ -317,21 +350,21 @@ if (counted > 2): # minimal 2% counted
           'id': region['id'],
           'region': region['name'],
           'winner_number': itr.index[0],
-          'counted': counted,
+          'counted': counted_reg,
         }, index=[region['id']])
       else:
         item = pd.DataFrame({
           'id': region['id'],
           'region': region['name'],
           'winner_number': np.nan,
-          'counted': counted,
+          'counted': counted_reg,
         }, index=[region['id']])
     else:
       item = pd.DataFrame({
         'id': region['id'],
         'region': region['name'],
         'winner_number': np.nan,
-        'counted': counted,
+        'counted': counted_reg,
       }, index=[region['id']])
     
     regional_results = pd.concat([regional_results, item], axis=0)
@@ -359,7 +392,7 @@ if (counted > 2): # minimal 2% counted
       'winner': r['winner_number'],
       'winner-name': r['name'],
       'winner-id': r['candidate_id'],
-      'counted': round(r['counted'] * 10) / 10,
+      'counted': r['counted'],
     })
   # with open(path + '../../../docs/president-2023/round-1/map-v1' + teststr + '.json', 'w') as outfile:
   with open(path + '../../../docs/president-2023/round-2/map-v1.json', 'w') as outfile:
