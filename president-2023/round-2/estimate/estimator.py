@@ -120,7 +120,7 @@ confi = pd.DataFrame([
   [99.9, 0.00009],
   [100, 0.0000001]
 ], columns=['counted', 'value'])
-confi['value'] = confi['value'] * 1.33 # estimate for 95% confidence interval
+confi['value'] = confi['value'] * 1.5 # estimate for 95% confidence interval
 
 lo = confi[counted >= confi['counted']].iloc[-1]
 hi = confi[counted <= confi['counted']].iloc[0]
