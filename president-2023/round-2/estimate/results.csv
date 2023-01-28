@@ -1,3 +1,3 @@
 mean,hi,lo,number,id,given_name,family_name,abbreviated_name,name,needle,counted,datetime,datatime-data,batch
-58.26,58.34,58.17,4,petr-pavel,Petr,Pavel,P. Pavel,Petr Pavel,-1.0,96.52625172870898,2023-01-28T15:57:05,2023-01-28T15:55:00,20
-41.74,41.83,41.66,7,andrej-babis,Andrej,Babiš,A. Babiš,Andrej Babiš,1.0,96.52625172870898,2023-01-28T15:57:05,2023-01-28T15:55:00,20
+58.26,58.33,58.20,4,petr-pavel,Petr,Pavel,P. Pavel,Petr Pavel,-1.0,97.57703790477335,2023-01-28T16:03:02,2023-01-28T16:00:00,21
+41.74,41.80,41.67,7,andrej-babis,Andrej,Babiš,A. Babiš,Andrej Babiš,1.0,97.57703790477335,2023-01-28T16:03:02,2023-01-28T16:00:00,21
