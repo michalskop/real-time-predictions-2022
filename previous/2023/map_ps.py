@@ -1,5 +1,6 @@
 """Polling stations for map."""
 
+import gspread
 import pandas as pd
 
 path_map = "/home/michal/dev/real-time-predictions-2022/previous/2023/"
@@ -34,3 +35,13 @@ out_points = source1.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
 
 # output to GSheet
 sheetkey = "1oBGj72hPv0F61_VyntbNbODPOEF1IUALuJqktOdNcNQ"
+
+# connect to GSheet
+gc = gspread.service_account()
+sh = gc.open_by_key(sheetkey)
+
+ws = sh.worksheet('regions')
+ws.update('A1', [out_regions.reset_index().columns.values.tolist()] + out_regions.reset_index().values.tolist())
+
+ws = sh.worksheet('points')
+ws.update('A1', [out_points.reset_index().columns.values.tolist()] + out_points.reset_index().values.tolist())
