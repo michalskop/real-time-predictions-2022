@@ -26,3 +26,7 @@ pt_map['vítěz2'] = pt_map['vítěz2'].replace(a_dict, b_dict)
 
 pt_map.rename(columns={4: 'Pavel-hlasy2', 7: 'Babiš-hlasy2'}, inplace=True)
 
+source1 = pd.read_csv(path_map + "source_map_regions.csv")
+source2 = pd.read_csv(path_map + "source_map_points.csv")
+
+source1 = source1.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
