@@ -32,3 +32,5 @@ source2 = pd.read_csv(path_map + "source_map_points.csv")
 out_regions = source1.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
 out_points = source1.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
 
+# output to GSheet
+sheetkey = "1oBGj72hPv0F61_VyntbNbODPOEF1IUALuJqktOdNcNQ"
