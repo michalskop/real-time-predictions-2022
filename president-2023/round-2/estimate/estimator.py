@@ -105,7 +105,7 @@ confi = pd.DataFrame([
   [0, 1],
   [0.002, 0.65],
   [0.1, 0.25],
-  [0.7, 0.012],
+  [0.7, 0.02],
   [2.5, 0.011],
   [6, 0.01],
   [60, 0.0032],
@@ -120,7 +120,7 @@ confi = pd.DataFrame([
   [99.9, 0.00009],
   [100, 0.0000001]
 ], columns=['counted', 'value'])
-confi['value'] = confi['value'] * 1.5 # estimate for 95% confidence interval
+confi['value'] = confi['value'] * 1.4 # estimate for 95% confidence interval
 
 lo = confi[counted >= confi['counted']].iloc[-1]
 hi = confi[counted <= confi['counted']].iloc[0]
@@ -299,15 +299,17 @@ if (counted > 2): # minimal 2% counted
 
     if len(itr) >= 2:
 
-      min_diff = 4
-      if counted_reg > 10:
-        min_diff = 1.5
-      if counted_reg > 50:
-        min_diff = 1
+      min_diff = 12
+      if counted_reg > 20:
+        min_diff = 6
+      if counted_reg > 60:
+        min_diff = 3
       if counted_reg > 80:
-        min_diff = 0.6
-      if counted_reg > 99:
-        min_diff = 0.15
+        min_diff = 2
+      if counted_reg > 95:
+        min_diff = 1
+      if counted_reg > 98:
+        min_diff = 0.5
       if counted_reg == 100:
         min_diff = 0.00001
 
@@ -418,3 +420,11 @@ for itrx in itrs.iterrows():
 history = history + [r]
 history = pd.DataFrame(history).fillna(0)
 ws.update('A1', [history.columns.values.tolist()] + history.values.tolist())
+
+# needle history
+ws = sh.worksheet('needle-history')
+history = ws.get_all_values()
+r = [datetime.datetime.now().isoformat()[0:19], lasttime]
+if len(needle_df) > 0:
+  history = history + [r + list(needle_df.iloc[0])]
+ws.update('A1', history)
