@@ -31,7 +31,9 @@ source1 = pd.read_csv(path_map + "source_map_regions.csv")
 source2 = pd.read_csv(path_map + "source_map_points.csv")
 
 out_regions = source1.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
-out_points = source1.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
+out_points = source2.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
+
+out_points.loc[0, 'jméno2'] = 'vybrat:'
 
 # output to GSheet
 sheetkey = "1oBGj72hPv0F61_VyntbNbODPOEF1IUALuJqktOdNcNQ"
@@ -44,4 +46,5 @@ ws = sh.worksheet('regions')
 ws.update('A1', [out_regions.reset_index().columns.values.tolist()] + out_regions.reset_index().values.tolist())
 
 ws = sh.worksheet('points')
+out_points.fillna('', inplace=True)
 ws.update('A1', [out_points.reset_index().columns.values.tolist()] + out_points.reset_index().values.tolist())
