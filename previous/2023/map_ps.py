@@ -13,3 +13,4 @@ pt_map = pd.pivot_table(results_map, values='HLASY', index=['OKRSEK'], columns=[
 
 pt_map['Pavel'] = round(pt_map[4] / pt_map.sum(axis=1) * 100, 1)
 pt_map['Babiš'] = round(pt_map[7] / pt_map.sum(axis=1) * 100, 1)
+pt_map['hlasy'] = pt_map.loc[:, [4, 7]].sum(axis=1)
