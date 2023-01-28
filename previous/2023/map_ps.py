@@ -10,3 +10,5 @@ polling_stations = pd.read_csv(path + "polling_stations.csv")
 results = pd.read_csv(path0 + "results.csv")
 
 pt = pd.pivot_table(results, values='HLASY', index=['OKRSEK'], columns=['STRANA'], aggfunc=sum, fill_value=0)
+
+pt['Babiš'] = 
