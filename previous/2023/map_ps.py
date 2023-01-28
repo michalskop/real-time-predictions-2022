@@ -29,5 +29,6 @@ pt_map.rename(columns={4: 'Pavel-hlasy2', 7: 'Babiš-hlasy2'}, inplace=True)
 source1 = pd.read_csv(path_map + "source_map_regions.csv")
 source2 = pd.read_csv(path_map + "source_map_points.csv")
 
-source1 = source1.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
-source2 = source1.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
+out_regions = source1.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
+out_points = source1.merge(pt_map, left_on='id', right_on='OKRSEK', how='left')
+
