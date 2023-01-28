@@ -21,11 +21,11 @@ else:
 # test or not
 if settings['test']:
   teststr = '-test'
-  url = settings['url_server'] + "pls/prez2018/vysledky_okrsky?kolo=2&davka="  # testing on 2018 data
+  url = settings['url_server'] + "vysledky_okrsky?kolo=2&davka="  # testing on 2018 data
   url = settings['url_server_test'] + "?kolo=2&davka=" # testing on fake data
 else:
   teststr = ''
-  url = settings['url_server'] + "pls/prez2023/vysledky_okrsky?kolo=2&davka="
+  url = settings['url_server'] + "vysledky_okrsky?kolo=2&davka="
   # url = settings['url_server'] + "pls/prez2023/vysledky_okrsky?&davka=" # different url returns different data!!!
 
 # get current batch - repeat n times

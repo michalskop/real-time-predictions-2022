@@ -130,8 +130,8 @@ if lo['counted'] != hi['counted']:
 else:
   val = lo['value']
 
-hit = gt * (1 + val)
-lot = gt * (1 / (1 + val))
+hit = np.clip(gt * (1 + val), a_max=100, a_min=None)
+lot = np.clip(gt * (1 / (1 + val)), a_max=None, a_min=0)
 
 # prepare output
 # gains + candidates
@@ -227,30 +227,6 @@ gaint['datatime-data'] = output['datatime-data']
 gaint['batch'] = last_batch
 gaint.to_csv(path + 'results' + teststr + '.csv', index=False)
 
-# # 9 GROUPS
-# # group weights
-# resultsg = resultse
-# groupsums = polling_stations.groupby("group")["votes_model"].sum()
-# group_weights = groupsums / totalsum
-
-# ptg = pd.pivot_table(resultsg, values='HLASY', index=['STRANA'], columns=['group'], aggfunc=sum).reset_index()
-# # if there are data from all groups:
-# if len(ptg.columns) == (len(groupsums) + 1):
-#   # gain in each group
-#   perct = ptg.iloc[:, 1:].div(ptg.iloc[:, 1:].sum(axis=0), axis=1)
-#   # weighted gain
-#   gainw = pd.DataFrame((perct * group_weights.T).sum(axis=1) * 100)
-#   gainw.columns = ['gain']
-#   gainw['STRANA'] = ptg['STRANA']
-#   gainw['counted'] = counted_perc
-
-#   gtg = gainw.loc[:, ['gain', 'STRANA']].T
-#   gtg.columns = gtg.iloc[1]
-#   gtg = gtg.drop('STRANA')
-
-# # confidence itervals
-# # ** TODO **
-
 # output to GSheet
 sheetkey = "1-rJaM99i28h_ilmKQKRe2rCargTZ0r6A3Jfrd3n4NDI"
 
@@ -262,11 +238,6 @@ sh = gc.open_by_key(sheetkey)
 ws = sh.worksheet('closest-current-prediction')
 gaintn = gaint.merge(gtn.T, left_on='number', right_index=True , how='left').rename(columns={'HLASY': 'really-counted'})
 ws.update('A1', [gaintn.reset_index().columns.values.tolist()] + gaintn.reset_index().values.tolist())
-
-# # write g9 prediction
-# ws = sh.worksheet('g9-current-prediction')
-# gtgi = gtg.T.merge(candidates, left_index=True, right_on='number', how='left').sort_values(by='gain', ascending=False)
-# ws.update('A1', [gtgi.reset_index().columns.values.tolist()] + gtgi.reset_index().values.tolist())
 
 # write histories
 # mean, hi, lo
@@ -285,18 +256,6 @@ for update in updates:
   history = history.fillna(0)
   ws.update('A1', [history.columns.values.tolist()] + history.values.tolist())
 
-# # g9
-# ws = sh.worksheet('g9-history')
-# history = pd.DataFrame(ws.get_all_records())
-# item = gtgi.sort_values(by='number').loc[:, 'gain']
-# item.index = gaint.sort_values(by='number')['id']
-# item['datetime'] = gaint.iloc[0]['datetime']
-# item['datatime-data'] = gaint.iloc[0]['datatime-data']
-# item['counted'] = gaint.iloc[0]['counted']
-# itemT = pd.DataFrame(item).T.reset_index(drop=True)
-# history = pd.concat([history, itemT], axis=0, ignore_index=True).drop_duplicates()
-# history = history.fillna(0)
-# ws.update('A1', [history.columns.values.tolist()] + history.values.tolist())
 
 # needle
 winning_candidate = candidates[candidates['number'] == iother]
@@ -316,6 +275,7 @@ needle_df.to_csv(path + '../../../docs/president-2023/round-2/' + 'needle-v1.csv
 # estimate for each region
 regions = pd.read_csv(path + 'regions.csv')
 regional_results = pd.DataFrame()
+itrs = pd.DataFrame(columns=['region', 4, 7, 'counted'])  # 4, 7 are candidates **hardcoded**
 if (counted > 2): # minimal 2% counted
   for reg in regions.iterrows():
     # regional results
@@ -392,6 +352,14 @@ if (counted > 2): # minimal 2% counted
       }, index=[region['id']])
     
     regional_results = pd.concat([regional_results, item], axis=0)
+    # for gsheet:
+    itritem = pd.DataFrame({
+      'region': region['name'],
+      'counted': counted_reg,
+    }, index=[region['id']])
+    for i, it in itr.iterrows():
+      itritem[i] = it['v']
+    itrs = pd.concat([itrs, itritem])
 
   regional_results = regional_results.merge(candidates.rename(columns={'id': 'candidate_id'}), left_on='winner_number', right_on='number', how='left')
 
@@ -435,3 +403,18 @@ if (counted > 2): # minimal 2% counted
   with open(path + '../../../docs/president-2023/round-2/map-v1.json', 'w') as outfile:
     ss = json.dumps(outputr, ensure_ascii=False).replace('NaN', 'null')
     outfile.write(ss)
+
+# output regions to gsheet
+ws = sh.worksheet('regions-current-prediction')
+itrs['datetime'] = datetime.datetime.now().isoformat()[0:19]
+itrs['datetime-data'] = lasttime
+itrs.fillna(0, inplace=True)
+ws.update('A1', [itrs.reset_index().columns.values.tolist()] + itrs.reset_index().values.tolist())
+ws = sh.worksheet('regions-history')
+history = ws.get_all_values()[1:]
+r = [datetime.datetime.now().isoformat()[0:19], lasttime]
+for itrx in itrs.iterrows():
+  r = r + list(itrx[1])[0:4]
+history = history + [r]
+history = pd.DataFrame(history).fillna(0)
+ws.update('A1', [history.columns.values.tolist()] + history.values.tolist())
