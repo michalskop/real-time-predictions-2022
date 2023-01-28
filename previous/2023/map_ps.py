@@ -7,4 +7,6 @@ path0 = "/home/michal/dev/real-time-predictions-2022/president-2023/round-2/extr
 
 polling_stations = pd.read_csv(path + "polling_stations.csv")
 
-results = pd.read_csv(path + "results.csv")
+results = pd.read_csv(path0 + "results.csv")
+
+pt = pd.pivot_table(results, values='HLASY', index=['OKRSEK'], columns=['STRANA'], aggfunc=sum, fill_value=0)
