@@ -11,5 +11,5 @@ results_map = pd.read_csv(path0_map + "results.csv")
 
 pt_map = pd.pivot_table(results_map, values='HLASY', index=['OKRSEK'], columns=['STRANA'], aggfunc=sum, fill_value=0)
 
-pt_map['Pavel'] = pt_map[4] / pt_map.sum(axis=1)
-pt_map['Pavel'] = pt_map[7] / pt_map.sum(axis=1)
+pt_map['Pavel'] = round(pt_map[4] / pt_map.sum(axis=1) * 100, 1)
+pt_map['Babiš'] = round(pt_map[7] / pt_map.sum(axis=1) * 100, 1)
