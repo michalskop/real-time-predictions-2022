@@ -15,4 +15,6 @@ pt_map['Pavel % 2'] = round(pt_map[4] / pt_map.sum(axis=1) * 100, 2)
 pt_map['Babiš % 2'] = round(pt_map[7] / pt_map.sum(axis=1) * 100, 2)
 pt_map['hlasy celkem2'] = pt_map.loc[:, [4, 7]].sum(axis=1)
 
-pt_map['vítěz2'] = pt_map.loc[:, ['Pavel % 2', 'Babiš % 2']].idxmax(axis=1)
+pt_map['jméno2'] = pt_map.loc[:, ['Pavel % 2', 'Babiš % 2']].idxmax(axis=1)
+pt_map['jméno2'] = pt_map['vítěz2'].str.replace(' % 2', '')
+
