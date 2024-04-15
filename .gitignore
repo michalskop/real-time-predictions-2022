@@ -12,3 +12,4 @@ reality_mds*
 reality_ordered_matrix.csv
 # tests
 test*
+*.pkl
