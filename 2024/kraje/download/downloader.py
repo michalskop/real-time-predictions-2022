@@ -44,7 +44,7 @@ while (not ok) or (m > 10):
 try:
   last_batch_n = int(obj['VYSLEDKY_OKRSKY']['DAVKA']['@PORADI_DAVKY'])
 except:
-  print(obj)
+  # print(obj)
   last_batch_n = 0
 
 # open list of batches
