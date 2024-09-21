@@ -85,7 +85,7 @@ for n in batches['n']:
 
         # save results
         results.to_csv(path + 'results' + teststr + '/results.csv', index=False)
-        results.to_csv(path + 'xresults' + teststr + '/results_' + str(n).zfill(3) + '.csv', index=False)
+        results.to_csv(path + 'results' + teststr + '/xresults_' + str(n).zfill(3) + '.csv', index=False)
         # save batches
         batchesdone = pd.concat([batchesdone, pd.DataFrame([{'n': n, 'time': time, 'size': len(obj['VYSLEDKY_OKRSKY']['OKRSEK']), 'extracted': datetime.datetime.now().isoformat()}])])
 

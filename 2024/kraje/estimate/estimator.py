@@ -166,10 +166,10 @@ for i in range(1, 14):
       }
     })
 
-  output_table = gaint.loc[:, ['ZKRATKAK8', 'mean', 'hi', 'lo', 'id', 'ZKRATKAK30', 'full_name']].rename(columns={'ZKRATKAK8': 'strana', 'mean': 'sečteno ' + str(int(counted_perc)) + ' %'})
+  output_table = gaint.loc[:, ['ZKRATKAK8', 'mean', 'hi', 'lo', 'id', 'ZKRATKAK30', 'full_name']].rename(columns={'ZKRATKAK8': 'strana', 'mean': 'sečteno ' + str(int(counted_perc)) + ' % hlasů'})
   output_table['counted'] = counted
   output_table['datetime'] = output['datetime']
-  output_table['value'] = output_table['sečteno ' + str(int(counted_perc)) + ' %']
+  output_table['value'] = output_table['sečteno ' + str(int(counted_perc)) + ' % hlasů']
   output_table['datatime-data'] = output['datatime-data']
 
 
